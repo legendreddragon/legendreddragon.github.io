@@ -3,7 +3,7 @@ title: Home
 layout: home
 ---
 ### Legend Of the Red Dragon (LoRD)
-![](assets/images/Slider1_1_2s.webp){: .mt-4 }
+![](assets/images/Slider1_1_2s.webp){: .mt-5 }
   
   
 Legend Of the Red Dragon is a BBS 'Door' Game which became very popular in the early internet stages at the 90s. To be fair, it was a popular role-playing online game before the internet even existed (or was open).  
