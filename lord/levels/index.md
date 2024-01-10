@@ -8,6 +8,7 @@ has_children: true
 # Testing all tables
 
 ### Levels
+
 | Level | Hp   | Strength | Defense |
 |:------|:-----|:---------|:--------|
 | 1     | 20   | 5        | 0       |
@@ -24,6 +25,7 @@ has_children: true
 | 12    | 1680 | 679      | 502     |
 
 ### Weapons
+
 | Weapon        | Strength | Price     |
 |:--------------|:---------|:----------|
 | Fists!        | 0        | 0         |
@@ -44,6 +46,7 @@ has_children: true
 | Death Sword   | 1800     | 400000000 |
 
 ### Armours
+
 | Armour        | Defense | Price     |
 |:--------------|:--------|:----------|
 | Fists!        | 0       | 0         |
@@ -64,6 +67,7 @@ has_children: true
 | Death Sword   | 1800    | 400000000 |
 
 ### Masters
+
 | Name           | Level | Hp   | Weapon              | Strength | XP Needed | Victory Text                                       |
 |:---------------|:------|:-----|:--------------------|:---------|:----------|:---------------------------------------------------|
 | Halder         | 1     | 30   | Short Sword         | 15       | 100       | Belar!!! You are truly a great warrior!            |
@@ -82,6 +86,7 @@ has_children: true
 ### Monsters by Level
     
 ### Level 1
+
 | Name             | Level | Hp | Strength | XP | Gold | Weapon        | Rare | Victory Text                                             |
 |:-----------------|:------|:---|:---------|:---|:-----|:--------------|:-----|:---------------------------------------------------------|
 | Large Mosquito   | 1     | 3  | 2        | 2  | 46   | Blood Sucker  | [ ]  | With a sharp slap, you end the Mosquitos life..          |
@@ -97,6 +102,7 @@ has_children: true
 | Averages         |       | 8  | 6        | 4  | 77   |               |      |                                                          |
   
 ### Level 2
+
 | Name                        | Level | Hp | Strength | XP | Gold | Weapon               | Rare | Victory Text                                                        |
 |:----------------------------|:------|:---|:---------|:---|:-----|:---------------------|:-----|:--------------------------------------------------------------------|
 | Fredrick the Limping Baboon | 2     | 23 | 8        | 6  | 97   | Scary Faces          | [ ]  | Fredrick will never grunt in anyone's face again.                   |
@@ -112,6 +118,7 @@ has_children: true
 | Averages                    |       | 14 | 12       | 10 | 169  |                      |      |                                                                     |
   
 ### Level 3
+
 | Name                   | Level | Hp | Strength | XP | Gold | Weapon                | Rare | Victory Text                                                  |
 |:-----------------------|:------|:---|:---------|:---|:-----|:----------------------|:-----|:--------------------------------------------------------------|
 | Purple Monchichi       | 3     | 29 | 14       | 23 | 763  | Continuous Whining    | [ ]  | You can't help but realize you have just killed a real loser. |
@@ -127,6 +134,7 @@ has_children: true
 | Averages               |       | 20 | 22       | 21 | 540  |                       |      |                                                               |
   
 ### Level 4
+
 | Name            | Level | Hp | Strength | XP | Gold | Weapon          | Rare | Victory Text                                                          |
 |:----------------|:------|:---|:---------|:---|:-----|:----------------|:-----|:----------------------------------------------------------------------|
 | Weak Orc        | 4     | 32 | 27       | 25 | 900  | Spiked Club     | [ ]  | A solid blow removes the Orcs head!                                   |
