@@ -24,13 +24,13 @@ table.levels th, table.levels td {
     text-align: right !important;
 }
 
-.masters td:nth-child(1), ..masters th:nth-child(1),
-.masters td:nth-child(4), ..masters th:nth-child(4) {
+.masters td:nth-child(1), .masters th:nth-child(1),
+.masters td:nth-child(4), .masters th:nth-child(4) {
     text-align: left !important;
 }
-.masters td:nth-child(2), ..masters th:nth-child(2),
-.masters td:nth-child(3), ..masters th:nth-child(3),
-.masters td:nth-child(5), ..masters th:nth-child(5),
-.masters td:nth-child(6), ..masters th:nth-child(6) {
+.masters td:nth-child(2), .masters th:nth-child(2),
+.masters td:nth-child(3), .masters th:nth-child(3),
+.masters td:nth-child(5), .masters th:nth-child(5),
+.masters td:nth-child(6), .masters th:nth-child(6) {
     text-align: right !important;
 }
