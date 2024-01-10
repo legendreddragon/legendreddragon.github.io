@@ -37,3 +37,17 @@ table.levels th, table.levels td {
 .masters td:nth-child(6), .masters th:nth-child(6) {
     text-align: right !important;
 }
+
+.monsters td:nth-child(1), .monsters th:nth-child(1),
+.monsters td:nth-child(7), .monsters th:nth-child(7),
+.monsters td:nth-child(8), .monsters th:nth-child(8) {
+    text-align: left !important;
+}
+.monsters td:nth-child(2), .monsters th:nth-child(2),
+.monsters td:nth-child(3), .monsters th:nth-child(3),
+.monsters td:nth-child(4), .monsters th:nth-child(4),
+.monsters td:nth-child(5), .monsters th:nth-child(5),
+.monsters td:nth-child(6), .monsters th:nth-child(6) {
+    text-align: right !important;
+}
+
