@@ -9,6 +9,7 @@ has_children: true
   
   
 ### Levels  
+<div id="levels">
   
 | Level |    Hp | Strength | Defense |
 |:------|:------|:---------|:--------|
@@ -24,6 +25,8 @@ has_children: true
 |    10 |   780 |      329 |     232 |
 |    11 | 1,130 |      479 |     352 |
 |    12 | 1,680 |      679 |     502 |
+
+</div>
 
 ### Weapons  
   
