@@ -25,8 +25,7 @@ has_children: true
 |    11 | 1,130 |      479 |     352 |
 |    12 | 1,680 |      679 |     502 |
 {: .levels }
-
-
+  
 ### Weapons  
   
 | Weapon        | Strength |       Price |
@@ -47,7 +46,8 @@ has_children: true
 | Nira's Teeth  |      800 |  40,000,000 |
 | Blood Sword   |    1,200 | 100,000,000 |
 | Death Sword   |    1,800 | 400,000,000 |
-
+{: .weapons }
+  
 ### Armours  
   
 | Armour        | Defense |       Price |
@@ -68,7 +68,8 @@ has_children: true
 | Nira's Teeth  |     800 |  40,000,000 |
 | Blood Sword   |   1,200 | 100,000,000 |
 | Death Sword   |   1,800 | 400,000,000 |
-
+{: .armours }
+  
 ### Masters  
   
 | Name           | Level |    Hp | Weapon              | Strength |  XP Needed | 
@@ -84,7 +85,8 @@ has_children: true
 | Prince Caspian |     9 | 1,200 | Flashing Rapier     |      500 |  1,000,000 | 
 | Gandalf        |    10 | 1,800 | Huge Fireballs      |      800 |  4,000,000 | 
 | Turgon         |    11 | 2,500 | Able's Sword        |    1,200 | 10,000,000 | 
-  
+{: .masters }
+    
   
 ### Monsters by Level
     
@@ -103,7 +105,8 @@ has_children: true
 | Wild Boar        |     1 |     9 |       10 |     5 |     58 | Sharp Tusks   |   No | 
 | Bran The Warrior |     1 |    15 |       12 |    10 |    234 | Short Sword   |   No | 
 | **Averages**     |       | **8** |    **6** | **4** | **77** |               |      | 
-  
+{: .monsters }
+    
 ### Level 2  
   
 | Name                        | Level |     Hp | Strength |     XP |    Gold | Weapon               | Rare | 
@@ -119,7 +122,8 @@ has_children: true
 | Huge Bald Man               |     2 |     19 |       19 |     16 |     311 | Glare From Forehead  |   No | 
 | Brorandia The Viking        |     2 |     18 |       21 |     20 |     330 | Hugely Spiked Mace   |   No | 
 | **Averages**                |       | **14** |   **12** | **10** | **169** |                      |      | 
-  
+{: .monsters }
+    
 ### Level 3  
   
 | Name                   | Level |     Hp | Strength |     XP |    Gold | Weapon                | Rare | 
@@ -135,7 +139,8 @@ has_children: true
 | Morbid Walker          |     3 |     10 |       28 |      9 |     764 | Endless Walking       |   No | 
 | Winged Demon Of Death  |     3 |     23 |       42 |     28 |     830 | Red Glare             |   No | 
 | **Averages**           |       | **20** |   **22** | **21** | **540** |                       |      | 
-  
+{: .monsters }
+    
 ### Level 4  
   
 | Name            | Level |     Hp | Strength |     XP |      Gold | Weapon          | Rare | 
@@ -151,7 +156,8 @@ has_children: true
 | Young Wizard    |     4 |     35 |       64 |     64 |     1,754 | Weak Magic      |   No | 
 | Huge Black Bear |     4 |     48 |       67 |     76 |     1,765 | Razor Claws     |   No | 
 | **Averages**    |       | **47** |   **40** | **38** | **1,115** |                 |      | 
-  
+{: .monsters }
+    
 ### Level 5  
   
 | Name                       | Level |      Hp | Strength |      XP |      Gold | Weapon            | Rare | 
@@ -167,7 +173,8 @@ has_children: true
 | Bald Medusa                |     5 |     120 |       78 |     256 |     4,000 | Glare Of Stone    |   No | 
 | Silent Death               |     5 |      98 |      113 |     230 |     4,711 | Pale Smoke        |   No | 
 | **Averages**               |       | **105** |   **63** | **152** | **2,989** |                   |      | 
-  
+{: .monsters }
+    
 ### Level 6  
   
 | Name               | Level |      Hp | Strength |      XP |      Gold | Weapon                     | Rare | 
@@ -183,7 +190,8 @@ has_children: true
 | Huge Stone Warrior |     6 |     232 |      112 |     543 |     4,942 | Rock Fist                  |   No | 
 | Belar              |     6 |     352 |      120 |     565 |     9,432 | Fists Of Rage              |   No | 
 | **Averages**       |       | **271** |   **89** | **412** | **5,757** |                            |      | 
-  
+{: .monsters }
+    
 ### Level 7  
   
 | Name                | Level |      Hp | Strength |      XP |       Gold | Weapon              | Rare | 
@@ -199,7 +207,8 @@ has_children: true
 | Swiss Butcher       |     7 |     453 |      230 |     532 |      8,363 | Meat Cleaver        |   No | 
 | Goliath             |     7 |     343 |      243 |     898 |     14,322 | Six Fingered Fist   |   No | 
 | **Averages**        |       | **503** |  **181** | **683** | **11,264** |                     |      | 
-  
+{: .monsters }
+    
 ### Level 8  
   
 | Name             | Level |      Hp | Strength |        XP |       Gold | Weapon              | Rare | 
@@ -215,7 +224,8 @@ has_children: true
 | Rundorig         |     8 |     675 |      330 |     2,748 |     17,853 | Poison Claws        |   No | 
 | King Vidion      |     8 |   1,243 |      400 |     6,764 |     28,575 | Long Sword Of Death |   No | 
 | **Averages**     |       | **883** |  **243** | **3,126** | **20,353** |                     |      | 
-  
+{: .monsters }
+    
 ### Level 9  
   
 | Name                 | Level |        Hp | Strength |        XP |       Gold | Weapon                | Rare | 
@@ -231,7 +241,8 @@ has_children: true
 | Scallian Rap         |     9 |       788 |      601 |     6,784 |     22,430 | Way Of Hurting People |   No | 
 | Earth Shaker         |     9 |       985 |      767 |     7,432 |     37,565 | Earthquake            |   No | 
 | **Averages**         |       | **1,100** |  **440** | **6,854** | **30,711** |                       |      | 
-  
+{: .monsters }
+    
 ### Level 10  
   
 | Name                      | Level |        Hp | Strength |         XP |       Gold | Weapon                | Rare | 
@@ -246,7 +257,8 @@ has_children: true
 | Toraks Son, Korak         |    10 |     1,384 |      921 |     13,877 |     46,575 | Sword Of Lightning    |   No | 
 | Sweet Looking Little Girl |    10 |     1,232 |      989 |     14,534 |     52,322 | Demon Strike          |   No | 
 | **Averages**              |       | **1,907** |  **687** | **12,319** | **42,488** |                       |      | 
-  
+{: .monsters }
+    
 ### Level 11  
   
 | Name                      | Level |        Hp |  Strength |         XP |        Gold | Weapon             | Rare | 
@@ -261,7 +273,8 @@ has_children: true
 | ShadowStormWarrior        |    11 |     2,767 |     1,655 |     26,181 |     162,445 | Mystical Storm     |   No | 
 | Ables Creature            |    11 |     2,455 |       985 |     28,222 |     176,775 | Bear Hug           |   No | 
 | **Averages**              |       | **2,056** | **1,207** | **25,292** | **141,427** |                    |      | 
-  
+{: .monsters }
+    
 ### Level 12  
   
 | Name                   | Level |        Hp |  Strength |         XP |        Gold | Weapon             | Rare | 
@@ -278,3 +291,4 @@ has_children: true
 | Mutated Black Widow    |    12 |     1,276 |     2,575 |     98,993 |     434,370 | Venom Bite         |   No | 
 | Kal Torak              |    12 |     6,666 |       876 |     94,663 |     447,774 | Cthrek Goru        |   No | 
 | **Averages**           |       | **3,565** | **1,554** | **54,286** | **265,165** |                    |      | 
+{: .monsters }
