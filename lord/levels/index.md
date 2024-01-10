@@ -6,7 +6,9 @@ has_children: true
 ---
 
 # Testing all tables  
+
   
+
 ### Levels  
   
 | LEVEL |    HP | STRENGTH | DEFENSE |
@@ -103,7 +105,7 @@ has_children: true
 | Small Bear       |   1 |     7 |     9 |     6 |    154 | Claws         |   No | 
 | Wild Boar        |   1 |     9 |    10 |     5 |     58 | Sharp Tusks   |   No | 
 | Bran The Warrior |   1 |    15 |    12 |    10 |    234 | Short Sword   |   No | 
-| **Averages**     |     | **8** | **6** | **4** | **77** |               |      | 
+| **AVERAGES**     |     | **8** | **6** | **4** | **77** |               |      | 
 {: .monsters }
     
 ### Level 2  
@@ -120,7 +122,7 @@ has_children: true
 | Evil Wood Nymph             |   2 |     10 |     15 |     11 |     160 | Flirtatious Behavior |   No | 
 | Huge Bald Man               |   2 |     19 |     19 |     16 |     311 | Glare From Forehead  |   No | 
 | Brorandia The Viking        |   2 |     18 |     21 |     20 |     330 | Hugely Spiked Mace   |   No | 
-| **Averages**                |     | **14** | **12** | **10** | **169** |                      |      | 
+| **AVERAGES**                |     | **14** | **12** | **10** | **169** |                      |      | 
 {: .monsters }
     
 ### Level 3  
@@ -137,7 +139,7 @@ has_children: true
 | Black Owl              |   3 |     29 |     28 |     26 |     711 | Hooked Beak           |   No | 
 | Morbid Walker          |   3 |     10 |     28 |      9 |     764 | Endless Walking       |   No | 
 | Winged Demon Of Death  |   3 |     23 |     42 |     28 |     830 | Red Glare             |   No | 
-| **Averages**           |     | **20** | **22** | **21** | **540** |                       |      | 
+| **AVERAGES**           |     | **20** | **22** | **21** | **540** |                       |      | 
 {: .monsters }
     
 ### Level 4  
@@ -154,7 +156,7 @@ has_children: true
 | Mud Man         |   4 |     65 |     56 |     43 |       870 | Mud Balls       |   No | 
 | Young Wizard    |   4 |     35 |     64 |     64 |     1,754 | Weak Magic      |   No | 
 | Huge Black Bear |   4 |     48 |     67 |     76 |     1,765 | Razor Claws     |   No | 
-| **Averages**    |     | **47** | **40** | **38** | **1,115** |                 |      | 
+| **AVERAGES**    |     | **47** | **40** | **38** | **1,115** |                 |      | 
 {: .monsters }
     
 ### Level 5  
@@ -171,7 +173,7 @@ has_children: true
 | Misfit The Ugly            |   5 |      89 |     75 |     120 |     2,563 | Strange Ideas     |   No | 
 | Bald Medusa                |   5 |     120 |     78 |     256 |     4,000 | Glare Of Stone    |   No | 
 | Silent Death               |   5 |      98 |    113 |     230 |     4,711 | Pale Smoke        |   No | 
-| **Averages**               |     | **105** | **63** | **152** | **2,989** |                   |      | 
+| **AVERAGES**               |     | **105** | **63** | **152** | **2,989** |                   |      | 
 {: .monsters }
     
 ### Level 6  
@@ -188,7 +190,7 @@ has_children: true
 | Satans Helper      |   6 |     165 |    112 |     453 |     7,543 | Pack Of Lies               |   No | 
 | Huge Stone Warrior |   6 |     232 |    112 |     543 |     4,942 | Rock Fist                  |   No | 
 | Belar              |   6 |     352 |    120 |     565 |     9,432 | Fists Of Rage              |   No | 
-| **Averages**       |     | **271** | **89** | **412** | **5,757** |                            |      | 
+| **AVERAGES**       |     | **271** | **89** | **412** | **5,757** |                            |      | 
 {: .monsters }
     
 ### Level 7  
@@ -205,7 +207,7 @@ has_children: true
 | Night Hawk          |   7 |     675 |     220 |     686 |     10,433 | Blood Red Talons    |   No | 
 | Swiss Butcher       |   7 |     453 |     230 |     532 |      8,363 | Meat Cleaver        |   No | 
 | Goliath             |   7 |     343 |     243 |     898 |     14,322 | Six Fingered Fist   |   No | 
-| **Averages**        |     | **503** | **181** | **683** | **11,264** |                     |      | 
+| **AVERAGES**        |     | **503** | **181** | **683** | **11,264** |                     |      | 
 {: .monsters }
     
 ### Level 8  
@@ -222,7 +224,7 @@ has_children: true
 | Screeching Witch |   8 |     674 |     300 |     2,283 |     19,753 | Spell Of Ice        |   No | 
 | Rundorig         |   8 |     675 |     330 |     2,748 |     17,853 | Poison Claws        |   No | 
 | King Vidion      |   8 |   1,243 |     400 |     6,764 |     28,575 | Long Sword Of Death |   No | 
-| **Averages**     |     | **883** | **243** | **3,126** | **20,353** |                     |      | 
+| **AVERAGES**     |     | **883** | **243** | **3,126** | **20,353** |                     |      | 
 {: .monsters }
     
 ### Level 9  
@@ -239,7 +241,7 @@ has_children: true
 | Rentakis Pet         |   9 |       987 |     556 |     9,854 |     37,584 | Gaping Maw            |   No | 
 | Scallian Rap         |   9 |       788 |     601 |     6,784 |     22,430 | Way Of Hurting People |   No | 
 | Earth Shaker         |   9 |       985 |     767 |     7,432 |     37,565 | Earthquake            |   No | 
-| **Averages**         |     | **1,100** | **440** | **6,854** | **30,711** |                       |      | 
+| **AVERAGES**         |     | **1,100** | **440** | **6,854** | **30,711** |                       |      | 
 {: .monsters }
     
 ### Level 10  
@@ -255,7 +257,7 @@ has_children: true
 | The Grimmest Reaper       |  10 |     1,674 |     878 |     14,237 |     39,844 | White Sickle          |  Yes | 
 | Toraks Son, Korak         |  10 |     1,384 |     921 |     13,877 |     46,575 | Sword Of Lightning    |   No | 
 | Sweet Looking Little Girl |  10 |     1,232 |     989 |     14,534 |     52,322 | Demon Strike          |   No | 
-| **Averages**              |     | **1,907** | **687** | **12,319** | **42,488** |                       |      | 
+| **AVERAGES**              |     | **1,907** | **687** | **12,319** | **42,488** |                       |      | 
 {: .monsters }
     
 ### Level 11  
@@ -271,7 +273,7 @@ has_children: true
 | Mountain                  |  11 |     1,284 |     1,544 |     38,774 |     186,454 | Landslide          |   No | 
 | ShadowStormWarrior        |  11 |     2,767 |     1,655 |     26,181 |     162,445 | Mystical Storm     |   No | 
 | Ables Creature            |  11 |     2,455 |       985 |     28,222 |     176,775 | Bear Hug           |   No | 
-| **Averages**              |     | **2,056** | **1,207** | **25,292** | **141,427** |                    |      | 
+| **AVERAGES**              |     | **2,056** | **1,207** | **25,292** | **141,427** |                    |      | 
 {: .monsters }
     
 ### Level 12  
@@ -289,5 +291,5 @@ has_children: true
 | Corinthian Giant       |  12 |     2,544 |     2,400 |     60,333 |     336,643 | De-rooted Tree     |   No | 
 | Mutated Black Widow    |  12 |     1,276 |     2,575 |     98,993 |     434,370 | Venom Bite         |   No | 
 | Kal Torak              |  12 |     6,666 |       876 |     94,663 |     447,774 | Cthrek Goru        |   No | 
-| **Averages**           |     | **3,565** | **1,554** | **54,286** | **265,165** |                    |      | 
+| **AVERAGES**           |     | **3,565** | **1,554** | **54,286** | **265,165** |                    |      | 
 {: .monsters }
