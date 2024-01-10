@@ -5,3 +5,12 @@ th, td {
 table.levels th, table.levels td {
   text-align: right !important;
 }
+
+
+.weapons td:nth-child(1), .weapons th:nth-child(1) {
+    text-align: left !important;
+}
+.weapons td:nth-child(2), .weapons th:nth-child(2),
+.weapons td:nth-child(3), .weapons th:nth-child(3) {
+    text-align: right !important;
+}
