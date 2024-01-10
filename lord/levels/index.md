@@ -7,10 +7,8 @@ has_children: true
 
 # Testing all tables  
   
-<div id="levels">  
   
 ### Levels  
-
   
 | Level |    Hp | Strength | Defense |
 |:------|:------|:---------|:--------|
@@ -25,10 +23,8 @@ has_children: true
 |     9 |   530 |      219 |     152 |
 |    10 |   780 |      329 |     232 |
 |    11 | 1,130 |      479 |     352 |
-|    12 | 1,680 |      679 |     502 |
+|    12 | 1,680 |      679 |     502 |{: .levels }
 
-  
-</div>
 
 ### Weapons  
   
