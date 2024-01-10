@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 ### Legend Of the Red Dragon (LoRD)
 ![](assets/images/Slider1_1_2s.webp){: .mt-5 }
