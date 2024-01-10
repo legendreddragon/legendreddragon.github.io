@@ -6,6 +6,9 @@ table.levels th, table.levels td {
   text-align: right !important;
 }
 
+.levels td:nth-child(1), .levels th:nth-child(1) {
+    text-align: left !important;
+}
 
 .weapons td:nth-child(1), .weapons th:nth-child(1) {
     text-align: left !important;
