@@ -287,9 +287,8 @@ has_children: true
 | The Mighty Shadow      |  12 |     2,332 |     1,633 |     51,655 |     176,333 | Shadow Axe         |   No | 
 | Cyclops Warrior        |  12 |     2,899 |     1,744 |     49,299 |     204,000 | Fire Eye           |   No | 
 | Black Unicorn          |  12 |     1,587 |     1,899 |     41,738 |     336,693 | Shredding Horn     |   No | 
-| The Red Dragon         |  12 |    15,000 |     2,000 |      1,000 |       1,000 | Scorching Flame    |   No | 
 | Corinthian Giant       |  12 |     2,544 |     2,400 |     60,333 |     336,643 | De-rooted Tree     |   No | 
 | Mutated Black Widow    |  12 |     1,276 |     2,575 |     98,993 |     434,370 | Venom Bite         |   No | 
 | Kal Torak              |  12 |     6,666 |       876 |     94,663 |     447,774 | Cthrek Goru        |   No | 
-| **AVERAGES**           |     | **3,565** | **1,554** | **54,286** | **265,165** |                    |      | 
+| **AVERAGES**           |     | **2,526** | **1,513** | **59,130** | **289,180** |                    |      | 
 {: .monsters }
