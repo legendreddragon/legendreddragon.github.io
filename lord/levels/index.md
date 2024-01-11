@@ -5,8 +5,8 @@ nav_order: 2
 has_children: true
 ---
 
-<link rel="stylesheet" href="includes/css/sortable.min.css" />
-<script src="_includes/js/sortable.min.js"></script>
+<link rel="stylesheet" href="/includes/css/sortable.min.css" />
+<script src="/_includes/js/sortable.min.js"></script>
 
 
 # Testing all tables  
