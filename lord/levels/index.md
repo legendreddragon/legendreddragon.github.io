@@ -128,7 +128,6 @@ has_children: true
 | Bran The Warrior |   1 | 15 |  12 | 10 |  234 | Short Sword   |   No | 
 |==================|=====|====|=====|====|======|===============|======|
 | AVERAGES         |     |  8 |   6 |  4 |   77 |               |      | 
-
 {: .monsters }
     
 ### Level 2  
@@ -145,6 +144,7 @@ has_children: true
 | Evil Wood Nymph             |   2 | 10 |  15 | 11 |  160 | Flirtatious Behavior |   No | 
 | Huge Bald Man               |   2 | 19 |  19 | 16 |  311 | Glare From Forehead  |   No | 
 | Brorandia The Viking        |   2 | 18 |  21 | 20 |  330 | Hugely Spiked Mace   |   No | 
+|=============================|=====|====|=====|====|======|======================|======|
 | AVERAGES                    |     | 14 |  12 | 10 |  169 |                      |      | 
 {: .monsters }
     
@@ -162,6 +162,7 @@ has_children: true
 | Morbid Walker          |   3 | 10 |  28 |  9 |  764 | Endless Walking       |   No | 
 | Black Owl              |   3 | 29 |  28 | 26 |  711 | Hooked Beak           |   No | 
 | Winged Demon Of Death  |   3 | 23 |  42 | 28 |  830 | Red Glare             |   No | 
+|========================|=====|====|=====|====|======|=======================|======|
 | AVERAGES               |     | 20 |  22 | 21 |  540 |                       |      | 
 {: .monsters }
     
@@ -179,6 +180,7 @@ has_children: true
 | Mud Man         |   4 | 65 |  56 | 43 |   870 | Mud Balls       |   No | 
 | Young Wizard    |   4 | 35 |  64 | 64 | 1,754 | Weak Magic      |   No | 
 | Huge Black Bear |   4 | 48 |  67 | 76 | 1,765 | Razor Claws     |   No | 
+|=================|=====|====|=====|====|=======|=================|======|
 | AVERAGES        |     | 47 |  40 | 38 | 1,115 |                 |      | 
 {: .monsters }
     
@@ -196,6 +198,7 @@ has_children: true
 | Misfit The Ugly            |   5 |  89 |  75 | 120 | 2,563 | Strange Ideas     |   No | 
 | Bald Medusa                |   5 | 120 |  78 | 256 | 4,000 | Glare Of Stone    |   No | 
 | Silent Death               |   5 |  98 | 113 | 230 | 4,711 | Pale Smoke        |   No | 
+|============================|=====|=====|=====|=====|=======|===================|======|
 | AVERAGES                   |     | 105 |  63 | 152 | 2,989 |                   |      | 
 {: .monsters }
     
@@ -213,6 +216,7 @@ has_children: true
 | Huge Stone Warrior |   6 | 232 | 112 | 543 | 4,942 | Rock Fist                  |   No | 
 | Black Soul         |   6 | 432 | 112 | 432 | 5,865 | Black Candle               |   No | 
 | Belar              |   6 | 352 | 120 | 565 | 9,432 | Fists Of Rage              |   No | 
+|====================|=====|=====|=====|=====|=======|============================|======|
 | AVERAGES           |     | 271 |  89 | 412 | 5,757 |                            |      | 
 {: .monsters }
     
@@ -230,6 +234,7 @@ has_children: true
 | Night Hawk          |   7 | 675 | 220 |   686 | 10,433 | Blood Red Talons    |   No | 
 | Swiss Butcher       |   7 | 453 | 230 |   532 |  8,363 | Meat Cleaver        |   No | 
 | Goliath             |   7 | 343 | 243 |   898 | 14,322 | Six Fingered Fist   |   No | 
+|=====================|=====|=====|=====|=======|========|=====================|======|
 | AVERAGES            |     | 503 | 181 |   683 | 11,264 |                     |      | 
 {: .monsters }
     
@@ -247,6 +252,7 @@ has_children: true
 | Screeching Witch |   8 |   674 | 300 | 2,283 | 19,753 | Spell Of Ice        |   No | 
 | Rundorig         |   8 |   675 | 330 | 2,748 | 17,853 | Poison Claws        |   No | 
 | King Vidion      |   8 | 1,243 | 400 | 6,764 | 28,575 | Long Sword Of Death |   No | 
+|==================|=====|=======|=====|=======|========|=====================|======|
 | AVERAGES         |     |   883 | 243 | 3,126 | 20,353 |                     |      | 
 {: .monsters }
     
@@ -264,6 +270,7 @@ has_children: true
 | Rentakis Pet         |   9 |   987 | 556 | 9,854 | 37,584 | Gaping Maw            |   No | 
 | Scallian Rap         |   9 |   788 | 601 | 6,784 | 22,430 | Way Of Hurting People |   No | 
 | Earth Shaker         |   9 |   985 | 767 | 7,432 | 37,565 | Earthquake            |   No | 
+|======================|=====|=======|=====|=======|========|=======================|======|
 | AVERAGES             |     | 1,100 | 440 | 6,854 | 30,711 |                       |      | 
 {: .monsters }
     
@@ -280,6 +287,7 @@ has_children: true
 | The Grimmest Reaper       |  10 | 1,674 | 878 | 14,237 | 39,844 | White Sickle          |  Yes | 
 | Toraks Son, Korak         |  10 | 1,384 | 921 | 13,877 | 46,575 | Sword Of Lightning    |   No | 
 | Sweet Looking Little Girl |  10 | 1,232 | 989 | 14,534 | 52,322 | Demon Strike          |   No | 
+|===========================|=====|=======|=====|========|========|=======================|======|
 | AVERAGES                  |     | 1,907 | 687 | 12,319 | 42,488 |                       |      | 
 {: .monsters }
     
@@ -296,6 +304,7 @@ has_children: true
 | Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | \*GODS HAMMER\*    |  Yes | 
 | Mountain                  |  11 | 1,284 | 1,544 | 38,774 | 186,454 | Landslide          |   No | 
 | ShadowStormWarrior        |  11 | 2,767 | 1,655 | 26,181 | 162,445 | Mystical Storm     |   No | 
+|===========================|=====|=======|=======|========|=========|====================|======|
 | AVERAGES                  |     | 2,056 | 1,207 | 25,292 | 141,427 |                    |      | 
 {: .monsters }
     
@@ -313,5 +322,6 @@ has_children: true
 | Black Unicorn          |  12 | 1,587 | 1,899 | 41,738 | 336,693 | Shredding Horn     |   No | 
 | Corinthian Giant       |  12 | 2,544 | 2,400 | 60,333 | 336,643 | De-rooted Tree     |   No | 
 | Mutated Black Widow    |  12 | 1,276 | 2,575 | 98,993 | 434,370 | Venom Bite         |   No | 
+|========================|=====|=======|=======|========|=========|====================|======|
 | AVERAGES               |     | 2,526 | 1,513 | 59,130 | 289,180 |                    |      | 
 {: .monsters }
