@@ -10,7 +10,8 @@ customcss:
 ---
 
 # Testing all tables  
-
+  
+  
   
 ### Levels  
   
@@ -28,7 +29,7 @@ customcss:
 | 10    |   780 |      329 |     232 |
 | 11    | 1,130 |      479 |     352 |
 | 12    | 1,680 |      679 |     502 |
-{: .levels }
+{: .sortable .levels }
   
 ### Weapons  
   
@@ -50,7 +51,7 @@ customcss:
 | Nira's Teeth  |      800 |  40,000,000 |
 | Blood Sword   |    1,200 | 100,000,000 |
 | Death Sword   |    1,800 | 400,000,000 |
-{: .weapons }
+{: .sortable .weapons }
   
 ### Armours  
   
@@ -72,7 +73,7 @@ customcss:
 | Belar's Mail     |     400 |  40,000,000 |
 | Golden Armour    |     600 | 100,000,000 |
 | Armour of Lore   |   1,000 | 400,000,000 |
-{: .armours }
+{: .sortable .armours }
   
 ### Weapons / Armours  
   
@@ -94,7 +95,7 @@ customcss:
 | Nira's Teeth  |   800 |   40M | Belar's Mail     |   400 |   40M |
 | Blood Sword   | 1,200 |  100M | Golden Armour    |   600 |  100M |
 | Death Sword   | 1,800 |  400M | Armour of Lore   | 1,000 |  400M |
-{: .weaponsarmours }
+{: .sortable .weaponsarmours }
   
 ### Masters  
   
@@ -111,7 +112,7 @@ customcss:
 | Prince Caspian |   9 | 1,200 | Flashing Rapier     |   500 |  1,000,000 | 
 | Gandalf        |  10 | 1,800 | Huge Fireballs      |   800 |  4,000,000 | 
 | Turgon         |  11 | 2,500 | Able's Sword        | 1,200 | 10,000,000 | 
-{: .masters }
+{: .sortable .masters }
     
   
 ### Monsters by Level
@@ -132,7 +133,7 @@ customcss:
 | Bran The Warrior |   1 | 15 |  12 | 10 |  234 | Short Sword   |   No | 
 |==================|=====|====|=====|====|======|===============|======|
 | AVERAGES         |     |  8 |   6 |  4 |   77 |               |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 2  
   
@@ -150,7 +151,7 @@ customcss:
 | Brorandia The Viking        |   2 | 18 |  21 | 20 |  330 | Hugely Spiked Mace   |   No | 
 |=============================|=====|====|=====|====|======|======================|======|
 | AVERAGES                    |     | 14 |  12 | 10 |  169 |                      |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 3  
   
@@ -168,7 +169,7 @@ customcss:
 | Winged Demon Of Death  |   3 | 23 |  42 | 28 |  830 | Red Glare             |   No | 
 |========================|=====|====|=====|====|======|=======================|======|
 | AVERAGES               |     | 20 |  22 | 21 |  540 |                       |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 4  
   
@@ -186,7 +187,7 @@ customcss:
 | Huge Black Bear |   4 | 48 |  67 | 76 | 1,765 | Razor Claws     |   No | 
 |=================|=====|====|=====|====|=======|=================|======|
 | AVERAGES        |     | 47 |  40 | 38 | 1,115 |                 |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 5  
   
@@ -204,7 +205,7 @@ customcss:
 | Silent Death               |   5 |  98 | 113 | 230 | 4,711 | Pale Smoke        |   No | 
 |============================|=====|=====|=====|=====|=======|===================|======|
 | AVERAGES                   |     | 105 |  63 | 152 | 2,989 |                   |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 6  
   
@@ -222,7 +223,7 @@ customcss:
 | Belar              |   6 | 352 | 120 | 565 | 9,432 | Fists Of Rage              |   No | 
 |====================|=====|=====|=====|=====|=======|============================|======|
 | AVERAGES           |     | 271 |  89 | 412 | 5,757 |                            |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 7  
   
@@ -240,7 +241,7 @@ customcss:
 | Goliath             |   7 | 343 | 243 |   898 | 14,322 | Six Fingered Fist   |   No | 
 |=====================|=====|=====|=====|=======|========|=====================|======|
 | AVERAGES            |     | 503 | 181 |   683 | 11,264 |                     |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 8  
   
@@ -258,7 +259,7 @@ customcss:
 | King Vidion      |   8 | 1,243 | 400 | 6,764 | 28,575 | Long Sword Of Death |   No | 
 |==================|=====|=======|=====|=======|========|=====================|======|
 | AVERAGES         |     |   883 | 243 | 3,126 | 20,353 |                     |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 9  
   
@@ -276,7 +277,7 @@ customcss:
 | Earth Shaker         |   9 |   985 | 767 | 7,432 | 37,565 | Earthquake            |   No | 
 |======================|=====|=======|=====|=======|========|=======================|======|
 | AVERAGES             |     | 1,100 | 440 | 6,854 | 30,711 |                       |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 10  
   
@@ -293,7 +294,7 @@ customcss:
 | Sweet Looking Little Girl |  10 | 1,232 | 989 | 14,534 | 52,322 | Demon Strike          |   No | 
 |===========================|=====|=======|=====|========|========|=======================|======|
 | AVERAGES                  |     | 1,907 | 687 | 12,319 | 42,488 |                       |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 11  
   
@@ -310,7 +311,7 @@ customcss:
 | ShadowStormWarrior        |  11 | 2,767 | 1,655 | 26,181 | 162,445 | Mystical Storm     |   No | 
 |===========================|=====|=======|=======|========|=========|====================|======|
 | AVERAGES                  |     | 2,056 | 1,207 | 25,292 | 141,427 |                    |      | 
-{: .monsters }
+{: .sortable .monsters }
     
 ### Level 12  
   
@@ -328,4 +329,4 @@ customcss:
 | Mutated Black Widow    |  12 | 1,276 | 2,575 | 98,993 | 434,370 | Venom Bite         |   No | 
 |========================|=====|=======|=======|========|=========|====================|======|
 | AVERAGES               |     | 2,526 | 1,513 | 59,130 | 289,180 |                    |      | 
-{: .monsters }
+{: .sortable .monsters }
