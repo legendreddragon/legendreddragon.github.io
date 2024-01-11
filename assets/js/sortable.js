@@ -92,7 +92,7 @@ document.addEventListener('click', function (e) {
                         return 1;
                     }
                 }
-                var temp = Number(x) - Number(y);
+                var temp = Number(x.replace(/\,/g,'')) - Number(y.replace(/\,/g,''));
                 var bool = isNaN(temp) ? x.localeCompare(y) : temp;
                 return reverse_1 ? -bool : bool;
             };
