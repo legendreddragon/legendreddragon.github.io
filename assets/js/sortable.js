@@ -4,7 +4,7 @@
  * https://www.npmjs.com/package/sortable-tablesort
  * https://github.com/tofsjonas/sortable
  *
- * Makes html tables sortable, No longer ie9+ 😢
+ * Makes html tables sortable, No longer ie9+ 
  *
  * Styling is done in css.
  *
@@ -103,8 +103,8 @@ document.addEventListener('click', function (e) {
                 var rows = [].slice.call(org_tbody.rows, 0);
                 // Sort them using Array.prototype.sort()
                 rows.sort(function (a, b) {
-                    var bool = compare_1(a.replace(/,/g, ''), b.replace(/,/g, ''), column_index_1);
-                    return bool === 0 && !isNaN(tiebreaker_1) ? compare_1(a.replace(/,/g, ''), b.replace(/,/g, ''), tiebreaker_1) : bool;
+                    var bool = compare_1(a, b, column_index_1);
+                    return bool === 0 && !isNaN(tiebreaker_1) ? compare_1(a, b, tiebreaker_1) : bool;
                 });
                 // Make an empty clone
                 var clone_tbody = org_tbody.cloneNode();
