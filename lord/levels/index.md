@@ -126,7 +126,9 @@ has_children: true
 | Small Bear       |   1 |  7 |   9 |  6 |  154 | Claws         |   No | 
 | Wild Boar        |   1 |  9 |  10 |  5 |   58 | Sharp Tusks   |   No | 
 | Bran The Warrior |   1 | 15 |  12 | 10 |  234 | Short Sword   |   No | 
+|:=================|====:|===:|====:|===:|=====:|:==============|=====:|
 | AVERAGES         |     |  8 |   6 |  4 |   77 |               |      | 
+
 {: .monsters }
     
 ### Level 2  
