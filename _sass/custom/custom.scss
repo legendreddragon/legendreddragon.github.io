@@ -74,7 +74,8 @@ th, tfoot td {
     font-weight: bold;
 }
 
-$tcorner: 12px;
+$tcorner: 8px;
+
 th:first-of-type {
     border-top-left-radius: $tcorner;
 }
