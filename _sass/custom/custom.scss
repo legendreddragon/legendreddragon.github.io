@@ -69,9 +69,13 @@ table.levels th, table.levels td {
 }
 */
 
+$mainColor = #ff0f0f;
 th, tfoot td {
-    background: #471010;
+    background: $mainColor;
     font-weight: bold;
+}
+a {
+    background: $mainColor;
 }
 
 $tcorner: 7px;
