@@ -8,7 +8,6 @@ has_children: true
 # Testing all tables  
 
   
-
 ### Levels  
   
 | LEVEL |    HP | STRENGTH | DEFENSE |
@@ -51,25 +50,47 @@ has_children: true
   
 ### Armours  
   
-| ARMOUR        | DEFENSE |       PRICE |
-|:--------------|:--------|:------------|
-| Fists!        |       0 |           0 |
-| Stick         |       5 |         200 |
-| Dagger        |      10 |       1,000 |
-| Short Sword   |      20 |       3,000 |
-| Long Sword    |      30 |      10,000 |
-| Huge Axe      |      40 |      30,000 |
-| Bone Cruncher |      60 |     100,000 |
-| Twin Swords   |      80 |     150,000 |
-| Power Axe     |     120 |     200,000 |
-| Able's Sword  |     180 |     400,000 |
-| Wan's Weapon  |     250 |   1,000,000 |
-| Spear of Gold |     350 |   4,000,000 |
-| Crystal Shard |     500 |  10,000,000 |
-| Nira's Teeth  |     800 |  40,000,000 |
-| Blood Sword   |   1,200 | 100,000,000 |
-| Death Sword   |   1,800 | 400,000,000 |
+| ARMOUR           | DEFENSE |       PRICE |
+|:-----------------|:--------|:------------|
+| Nothing!         |       0 |           0 |
+| Coat             |       1 |         200 |
+| Heavy Coat       |       3 |       1,000 |
+| Leather Vest     |      10 |       3,000 |
+| Bronze Armour    |      15 |      10,000 |
+| Iron Armour      |      25 |      30,000 |
+| Graphite Armour  |      35 |     100,000 |
+| Erdrick's Armour |      50 |     150,000 |
+| Armour of Death  |      75 |     200,000 |
+| Able's Armour    |     100 |     400,000 |
+| Full Body Armour |     150 |   1,000,000 |
+| Blood Armour     |     225 |   4,000,000 |
+| Magic Protection |     300 |  10,000,000 |
+| Belar's Mail     |     400 |  40,000,000 |
+| Golden Armour    |     600 | 100,000,000 |
+| Armour of Lore   |   1,000 | 400,000,000 |
 {: .armours }
+  
+### Weapons / Armours  
+  
+| WEAPON        | STRENGTH |       PRICE | ARMOUR           | DEFENSE |       PRICE |
+|:--------------|:---------|:------------|:-----------------|:--------|:------------|
+| Fists!        |        0 |           0 | Nothing!         |       0 |           0 |
+| Stick         |        5 |         200 | Coat             |       1 |         200 |
+| Dagger        |       10 |       1,000 | Heavy Coat       |       3 |       1,000 |
+| Short Sword   |       20 |       3,000 | Leather Vest     |      10 |       3,000 |
+| Long Sword    |       30 |      10,000 | Bronze Armour    |      15 |      10,000 |
+| Huge Axe      |       40 |      30,000 | Iron Armour      |      25 |      30,000 |
+| Bone Cruncher |       60 |     100,000 | Graphite Armour  |      35 |     100,000 |
+| Twin Swords   |       80 |     150,000 | Erdrick's Armour |      50 |     150,000 |
+| Power Axe     |      120 |     200,000 | Armour of Death  |      75 |     200,000 |
+| Able's Sword  |      180 |     400,000 | Able's Armour    |     100 |     400,000 |
+| Wan's Weapon  |      250 |   1,000,000 | Full Body Armour |     150 |   1,000,000 |
+| Spear of Gold |      350 |   4,000,000 | Blood Armour     |     225 |   4,000,000 |
+| Crystal Shard |      500 |  10,000,000 | Magic Protection |     300 |  10,000,000 |
+| Nira's Teeth  |      800 |  40,000,000 | Belar's Mail     |     400 |  40,000,000 |
+| Blood Sword   |    1,200 | 100,000,000 | Golden Armour    |     600 | 100,000,000 |
+| Death Sword   |    1,800 | 400,000,000 | Armour of Lore   |   1,000 | 400,000,000 |
+{: .weaponsarmours }
   
 ### Masters  
   
