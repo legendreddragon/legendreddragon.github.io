@@ -145,5 +145,9 @@ document.addEventListener('click', function (e) {
 function functionAddAttribute(){
     //document.getElementsByClassName('levels')[0].setAttribute('aria-sort', 'attributeValue');
     document.querySelector(".levels th:nth-child(1)").setAttribute('aria-sort', 'ascending');
+    document.querySelector(".weapons th:nth-child(3)").setAttribute('aria-sort', 'ascending');
+    document.querySelector(".armours th:nth-child(3)").setAttribute('aria-sort', 'ascending');
+    document.querySelector(".weaponsarmours th:nth-child(3)").setAttribute('aria-sort', 'ascending');
+
 };
 window.onload = functionAddAttribute;
