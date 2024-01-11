@@ -101,6 +101,8 @@ nav_external_links:
   - title: Play the Game
     url: https://legendreddragon.net
 
+nav_external_links_new_tab: true
+
 # Footer content
 # appears at the bottom of every page's main content
 
