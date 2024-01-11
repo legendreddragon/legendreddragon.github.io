@@ -77,29 +77,29 @@ has_children: true
   
 ## Weapons / Armours  
   
-| WEAPON        |   ATT | PRICE | ARMOUR           |   DEF | PRICE |
-|:--------------|------:|------:|:-----------------|------:|------:|
-| Fists!        |     0 |     0 | Nothing!         |     0 |     0 |
-| Stick         |     5 |   200 | Coat             |     1 |   200 |
-| Dagger        |    10 |    1K | Heavy Coat       |     3 |    1K |
-| Short Sword   |    20 |    3K | Leather Vest     |    10 |    3K |
-| Long Sword    |    30 |   10K | Bronze Armour    |    15 |   10K |
-| Huge Axe      |    40 |   30K | Iron Armour      |    25 |   30K |
-| Bone Cruncher |    60 |  100K | Graphite Armour  |    35 |  100K |
-| Twin Swords   |    80 |  150K | Erdrick's Armour |    50 |  150K |
-| Power Axe     |   120 |  200K | Armour of Death  |    75 |  200K |
-| Able's Sword  |   180 |  400K | Able's Armour    |   100 |  400K |
-| Wan's Weapon  |   250 |    1M | Full Body Armour |   150 |    1M |
-| Spear of Gold |   350 |    4M | Blood Armour     |   225 |    4M |
-| Crystal Shard |   500 |   10M | Magic Protection |   300 |   10M |
-| Nira's Teeth  |   800 |   40M | Belar's Mail     |   400 |   40M |
-| Blood Sword   | 1,200 |  100M | Golden Armour    |   600 |  100M |
-| Death Sword   | 1,800 |  400M | Armour of Lore   | 1,000 |  400M |
+| WEAPON        |   ATT |    $ | ARMOUR           |   DEF |    $ |
+|:--------------|------:|-----:|:-----------------|------:|-----:|
+| Fists!        |     0 |    0 | Nothing!         |     0 |    0 |
+| Stick         |     5 |  200 | Coat             |     1 |  200 |
+| Dagger        |    10 |   1K | Heavy Coat       |     3 |   1K |
+| Short Sword   |    20 |   3K | Leather Vest     |    10 |   3K |
+| Long Sword    |    30 |  10K | Bronze Armour    |    15 |  10K |
+| Huge Axe      |    40 |  30K | Iron Armour      |    25 |  30K |
+| Bone Cruncher |    60 | 100K | Graphite Armour  |    35 | 100K |
+| Twin Swords   |    80 | 150K | Erdrick's Armour |    50 | 150K |
+| Power Axe     |   120 | 200K | Armour of Death  |    75 | 200K |
+| Able's Sword  |   180 | 400K | Able's Armour    |   100 | 400K |
+| Wan's Weapon  |   250 |   1M | Full Body Armour |   150 |   1M |
+| Spear of Gold |   350 |   4M | Blood Armour     |   225 |   4M |
+| Crystal Shard |   500 |  10M | Magic Protection |   300 |  10M |
+| Nira's Teeth  |   800 |  40M | Belar's Mail     |   400 |  40M |
+| Blood Sword   | 1,200 | 100M | Golden Armour    |   600 | 100M |
+| Death Sword   | 1,800 | 400M | Armour of Lore   | 1,000 | 400M |
 {: .sortable .weaponsarmours }
   
 ## Masters  
   
-| NAME           | LVL |    HP | WEAPON              |   ATT |  XP NEEDED | 
+| NAME           | LVL |    HP | WEAPON              |   ATT |     XP CAP | 
 |:---------------|----:|------:|:--------------------|------:|-----------:|
 | Halder         |   1 |    30 | Short Sword         |    15 |        100 | 
 | Barak          |   2 |    40 | Battle Axe          |    17 |        400 | 
@@ -365,4 +365,3 @@ has_children: true
 | Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | \*GODS HAMMER\*    | 
 | The Screaming Eunich      |  12 | 2,877 | 1,488 | 78,884 | 197,888 | High Pitched Voice | 
 {: .sortable .raremonsters }
-
