@@ -290,7 +290,7 @@ has_children: true
 | Madman                    |  11 | 1,764 | 1,265 | 25,665 | 149,564 | Chant Of Insanity  |   No | 
 | White Bear Of Lore        |  11 | 1,875 | 1,344 | 16,775 |  65,544 | Snow Of Death      |   No | 
 | Sheena The Shapechanger   |  11 | 1,898 | 1,463 | 26,655 | 165,755 | Deadly Illusions   |   No | 
-| Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | *GODS HAMMER*      |  Yes | 
+| Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | \*GODS HAMMER\*    |  Yes | 
 | Mountain                  |  11 | 1,284 | 1,544 | 38,774 | 186,454 | Landslide          |   No | 
 | ShadowStormWarrior        |  11 | 2,767 | 1,655 | 26,181 | 162,445 | Mystical Storm     |   No | 
 | Ables Creature            |  11 | 2,455 |   985 | 28,222 | 176,775 | Bear Hug           |   No | 
