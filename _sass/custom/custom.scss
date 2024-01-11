@@ -70,19 +70,17 @@ table.levels th, table.levels td {
 */
 
 $tableColor: #b71212;
-
 th, tfoot td {
     background: $tableColor;
     font-weight: bold;
 }
+
 $linkColor: #ff1919;
 a, .nav-list .nav-list-item .nav-list-expander {
     color: $linkColor;
-  }
-
+}
 
 $tcorner: 7px;
-
 th:first-of-type {
     border-top-left-radius: $tcorner;
 }
