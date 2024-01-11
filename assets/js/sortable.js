@@ -93,18 +93,16 @@ document.addEventListener('click', function (e) {
                     }
                 }
                 // var temp = Number(x) - Number(y); // original code
-                var temp = Number(x.replace(/\,/g,'')) - Number(y.replace(/\,/g,'')); // tav hack
-                //x = x.replace(/\,/g,'');
-                //y = y.replace(/\,/g,'');
-                /*
+                // var temp = Number(x.replace(/\,/g,'')) - Number(y.replace(/\,/g,'')); // tav hack
+
                 var humanNotation = function(token) {
                     token = token.replace(/\,/g,'');
-                    lastt = token.slice(-1).toLowercase();
+                    lastt = token.slice(-1).toLowerCase();
                     firstt = token.slice(0,1);
                     dnumber = 0;
                     // If we detect a possible human notation
                     if (!isNaN(parseInt(firstt)) && isNaN(parseInt(lastt))) {
-                        dnumber = parseInt($token);
+                        dnumber = parseInt(token);
                         if (lastt == 'k') {
                             return dnumber * 1000;
                         } else if (lastt == 'm') {
@@ -117,7 +115,7 @@ document.addEventListener('click', function (e) {
                     }
                     return Number(token);
                 };
-                var temp = humanNotation(x) - humanNotation(y); */
+                var temp = humanNotation(x) - humanNotation(y);
                 var bool = isNaN(temp) ? x.localeCompare(y) : temp;
                 return reverse_1 ? -bool : bool;
             };
