@@ -364,4 +364,5 @@ has_children: true
 | The Grimmest Reaper       |  10 | 1,674 |   878 | 14,237 |  39,844 | White Sickle       | 
 | Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | \*GODS HAMMER\*    | 
 | The Screaming Eunich      |  12 | 2,877 | 1,488 | 78,884 | 197,888 | High Pitched Voice | 
-{: .sortable .disabledmonsters }
+{: .sortable .raremonsters }
+
