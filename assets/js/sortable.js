@@ -94,8 +94,8 @@ document.addEventListener('click', function (e) {
                 }
                 // var temp = Number(x) - Number(y); // original code
                 // var temp = Number(x.replace(/\,/g,'')) - Number(y.replace(/\,/g,'')); // tav hack
-                x = x.replace(/\,/g,'');
-                y = y.replace(/\,/g,'');
+                //x = x.replace(/\,/g,'');
+                //y = y.replace(/\,/g,'');
                 var humanNotation = function($token) {
                     lastt = $token.slice(-1).toLowercase();
                     firstt = $token.slice(0,1);
@@ -115,7 +115,7 @@ document.addEventListener('click', function (e) {
                     }
                     return Number($token);
                 };
-                var temp = humanNotation(x) - humanNotation(y));
+                var temp = humanNotation(x.replace(/\,/g,'')) - humanNotation(y.replace(/\,/g,'')));
                 var bool = isNaN(temp) ? x.localeCompare(y) : temp;
                 return reverse_1 ? -bool : bool;
             };
