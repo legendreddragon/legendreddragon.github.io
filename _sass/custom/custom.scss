@@ -69,15 +69,17 @@ table.levels th, table.levels td {
 }
 */
 
-$mainColor: #ff0f0f;
+$tableColor: #b71212;
 
 th, tfoot td {
-    background: $mainColor;
+    background: $tableColor;
     font-weight: bold;
 }
-a {
-    color: $mainColor;
-}
+$linkColor: #ff1919;
+a, .nav-list .nav-list-item .nav-list-expander {
+    color: $linkColor;
+  }
+
 
 $tcorner: 7px;
 
