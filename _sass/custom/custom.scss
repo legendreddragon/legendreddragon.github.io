@@ -11,6 +11,7 @@ table.levels th, table.levels td {
     text-align: left !important;
 }*/
 
+
 .weapons td:nth-child(1), .weapons th:nth-child(1) {
     text-align: left !important;
 }
@@ -28,6 +29,19 @@ table.levels th, table.levels td {
     text-align: right !important;
 }
 
+
+.weaponsarmours td:nth-child(1), .weaponsarmours th:nth-child(1),
+.weaponsarmours td:nth-child(4), .weaponsarmours th:nth-child(4){
+    text-align: left !important;
+}
+.weaponsarmours td:nth-child(2), .weaponsarmours th:nth-child(2),
+.weaponsarmours td:nth-child(3), .weaponsarmours th:nth-child(3)
+.weaponsarmours td:nth-child(5), .weaponsarmours th:nth-child(5),
+.weaponsarmours td:nth-child(6), .weaponsarmours th:nth-child(6) {
+    text-align: right !important;
+}
+
+
 .masters td:nth-child(1), .masters th:nth-child(1),
 .masters td:nth-child(4), .masters th:nth-child(4) {
     text-align: left !important;
@@ -38,6 +52,7 @@ table.levels th, table.levels td {
 .masters td:nth-child(6), .masters th:nth-child(6) {
     text-align: right !important;
 }
+
 
 .monsters td:nth-child(1), .monsters th:nth-child(1),
 .monsters td:nth-child(7), .monsters th:nth-child(7),
@@ -51,6 +66,7 @@ table.levels th, table.levels td {
 .monsters td:nth-child(6), .monsters th:nth-child(6) {
     text-align: right !important;
 }
+
 
 th, .monsters tr:last-child td { 
   background: #594545;
