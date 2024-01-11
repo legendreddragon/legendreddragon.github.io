@@ -115,7 +115,7 @@ document.addEventListener('click', function (e) {
                     }
                     return Number($token);
                 };
-                var temp = humanNotation(x.replace(/\,/g,'')) - humanNotation(y.replace(/\,/g,'')));
+                var temp = humanNotation(x.replace(/\,/g,'')) - humanNotation(y.replace(/\,/g,''));
                 var bool = isNaN(temp) ? x.localeCompare(y) : temp;
                 return reverse_1 ? -bool : bool;
             };
