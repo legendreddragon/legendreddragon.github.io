@@ -75,14 +75,14 @@ th, tfoot td {
 }
 
 th:first-of-type {
-    border-top-left-radius: 8px;
+    border-top-left-radius: 4px;
 }
 th:last-of-type {
-    border-top-right-radius: 8px;
+    border-top-right-radius: 4px;
 }
 tr:last-of-type td:first-of-type {
-    border-bottom-left-radius: 8px;
+    border-bottom-left-radius: 4px;
 }
 tr:last-of-type td:last-of-type {
-    border-bottom-right-radius: 8px;
+    border-bottom-right-radius: 4px;
 }
