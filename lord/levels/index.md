@@ -6,7 +6,7 @@ has_children: true
 ---
 
 <!--<link rel="stylesheet" href="/assets/css/sortable-base.css" />
- <script src="/assets/js/sortable.js"></script> -->
+<script src="/assets/js/sortable.js"></script> -->
 
 
 # Testing all tables  
