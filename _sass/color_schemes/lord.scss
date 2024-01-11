@@ -1,4 +1,35 @@
 @import "./color_schemes/dark";
 
-$link-color: $red-000;
-$btn-primary-color: $red-200;
+$link-color: $red-200;
+$btn-primary-color: $red-300;
+
+
+th, td {
+    min-width: 0;
+}
+
+$tableColor: #700000;
+th, tfoot td {
+    background: $tableColor;
+    font-weight: bold;
+}
+
+//$link-color: #ffffff;
+/*
+a, .nav-list .nav-list-item .nav-list-expander {
+    color: $linkColor;
+}*/
+
+$tcorner: 7px;
+th:first-of-type {
+    border-top-left-radius: $tcorner;
+}
+th:last-of-type {
+    border-top-right-radius: $tcorner;
+}
+tr:last-of-type td:first-of-type {
+    border-bottom-left-radius: $tcorner;
+}
+tr:last-of-type td:last-of-type {
+    border-bottom-right-radius: $tcorner;
+}

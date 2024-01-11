@@ -1,6 +1,3 @@
-th, td {
-  min-width: 0;
-}
 
 /*
 table.levels th, table.levels td {
@@ -69,28 +66,3 @@ table.levels th, table.levels td {
 }
 */
 
-$tableColor: #700000;
-th, tfoot td {
-    background: $tableColor;
-    font-weight: bold;
-}
-
-$link-color: #ffffff;
-/*
-a, .nav-list .nav-list-item .nav-list-expander {
-    color: $linkColor;
-}*/
-
-$tcorner: 7px;
-th:first-of-type {
-    border-top-left-radius: $tcorner;
-}
-th:last-of-type {
-    border-top-right-radius: $tcorner;
-}
-tr:last-of-type td:first-of-type {
-    border-bottom-left-radius: $tcorner;
-}
-tr:last-of-type td:last-of-type {
-    border-bottom-right-radius: $tcorner;
-}
