@@ -3,7 +3,7 @@ description: A Wiki for the legendreddragon.net version of LoRD
 theme: just-the-docs
 #remote_theme: just-the-docs/just-the-docs
 
-color_scheme: dark
+color_scheme: lord
 
 url: https://legendreddragon.github.io
 
