@@ -74,15 +74,16 @@ th, tfoot td {
     font-weight: bold;
 }
 
+$tcorner: 12px;
 th:first-of-type {
-    border-top-left-radius: 6px;
+    border-top-left-radius: $tcorner;
 }
 th:last-of-type {
-    border-top-right-radius: 6px;
+    border-top-right-radius: $tcorner;
 }
 tr:last-of-type td:first-of-type {
-    border-bottom-left-radius: 6px;
+    border-bottom-left-radius: $tcorner;
 }
 tr:last-of-type td:last-of-type {
-    border-bottom-right-radius: 6px;
+    border-bottom-right-radius: $tcorner;
 }
