@@ -5,7 +5,7 @@ nav_order: 2
 has_children: true
 ---
 
-<link rel="stylesheet" href="/assets/css/sortable.min.css" />
+<!-- <link rel="stylesheet" href="/assets/css/sortable.min.css" /> -->
 <script src="/assets/js/sortable.min.js"></script>
 
 
