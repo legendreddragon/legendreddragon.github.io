@@ -2,14 +2,15 @@ th, td {
   min-width: 0;
 }
 
+/*
 table.levels th, table.levels td {
   text-align: right !important;
 }
 
-/*
+
 .levels td:nth-child(1), .levels th:nth-child(1) {
     text-align: left !important;
-}*/
+}
 
 
 .weapons td:nth-child(1), .weapons th:nth-child(1) {
@@ -66,7 +67,7 @@ table.levels th, table.levels td {
 .monsters td:nth-child(6), .monsters th:nth-child(6) {
     text-align: right !important;
 }
-
+*/
 
 th, .monsters tr:last-child td { 
   background: #594545;
