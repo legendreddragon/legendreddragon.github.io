@@ -52,7 +52,8 @@ table.levels th, table.levels td {
     text-align: right !important;
 }
 
-.monsters tr:last-child { 
-  background: yellow;
+.monsters tr:first-child td, .monsters tr:first-child th,
+.monsters tr:last-child td,  .monsters tr:last-child th, { 
+  background: #594545;
   font-weight: bold;
 }
