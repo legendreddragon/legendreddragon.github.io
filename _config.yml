@@ -3,7 +3,7 @@ description: A Wiki for the legendreddragon.net version of LoRD
 theme: just-the-docs
 #remote_theme: just-the-docs/just-the-docs
 url: https://legendreddragon.github.io
-repository: legendreddragon/just-the-docs
+repository: legendreddragon/legendreddragon.github.io
 
 permalink: pretty
 
@@ -161,7 +161,7 @@ callouts:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-github-metadata
+#  - jekyll-github-metadata
   - jekyll-include-cache
 
 kramdown:
