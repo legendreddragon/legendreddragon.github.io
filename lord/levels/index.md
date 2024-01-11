@@ -3,6 +3,10 @@ layout: default
 title: Levels
 nav_order: 2
 has_children: true
+customjs:
+ - assets/js/sortable.min.js
+customcss:
+ - assets/css/sortable.min.css
 ---
 
 # Testing all tables  
