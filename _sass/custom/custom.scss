@@ -75,10 +75,11 @@ th, tfoot td {
     font-weight: bold;
 }
 
-$linkColor: #ffffff;
+$link-color: #ffffff;
+/*
 a, .nav-list .nav-list-item .nav-list-expander {
     color: $linkColor;
-}
+}*/
 
 $tcorner: 7px;
 th:first-of-type {
