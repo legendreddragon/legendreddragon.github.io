@@ -117,8 +117,8 @@ has_children: true
 | NAME             | LVL | HP | ATT | XP | GOLD | WEAPON        | RARE | 
 |:-----------------|:----|:---|:----|:---|:-----|:--------------|:-----|
 | Large Mosquito   |   1 |  3 |   2 |  2 |   46 | Blood Sucker  |   No | 
-| Rude Boy         |   1 |  7 |   3 |  3 |    7 | Cudgel        |   No | 
 | Large Green Rat  |   1 |  4 |   3 |  1 |   32 | Sharp Teeth   |   No | 
+| Rude Boy         |   1 |  7 |   3 |  3 |    7 | Cudgel        |   No | 
 | Old Man          |   1 | 13 |   5 |  4 |   73 | Cane          |   No | 
 | Small Thief      |   1 |  9 |   6 |  2 |   56 | Small Dagger  |   No | 
 | Ugly Old Hag     |   1 |  9 |   6 |  4 |  109 | Garlic Breath |   No | 
@@ -137,9 +137,9 @@ has_children: true
 | Membrain Man                |   2 | 16 |  10 | 11 |  190 | Strange Ooze         |   No | 
 | Gath The Barbarian          |   2 | 13 |  12 |  9 |  134 | Huge Spiked Club     |   No | 
 | Bent River Dryad            |   2 | 16 |  12 |  9 |  150 | Pouring Waterfall    |   No | 
-| Green Python                |   2 | 17 |  13 |  6 |   80 | Dripping Fangs       |   No | 
-| Wild Man                    |   2 | 14 |  13 |  8 |  134 | Hands                |   No | 
 | Senile Senior Citizen       |   2 | 11 |  13 | 13 |  270 | Crazy Ravings        |   No | 
+| Wild Man                    |   2 | 14 |  13 |  8 |  134 | Hands                |   No | 
+| Green Python                |   2 | 17 |  13 |  6 |   80 | Dripping Fangs       |   No | 
 | Evil Wood Nymph             |   2 | 10 |  15 | 11 |  160 | Flirtatious Behavior |   No | 
 | Huge Bald Man               |   2 | 19 |  19 | 16 |  311 | Glare From Forehead  |   No | 
 | Brorandia The Viking        |   2 | 18 |  21 | 20 |  330 | Hugely Spiked Mace   |   No | 
@@ -152,13 +152,13 @@ has_children: true
 |:-----------------------|:----|:---|:----|:---|:-----|:----------------------|:-----|
 | Purple Monchichi       |   3 | 29 |  14 | 23 |  763 | Continuous Whining    |   No | 
 | Two Headed Rotweiler   |   3 | 32 |  18 | 17 |  384 | Twin Barking          |   No | 
-| Lazy Bum               |   3 | 29 |  19 | 18 |  380 | Unwashed Body Odor    |   No | 
 | Redneck                |   3 | 16 |  19 | 19 |  563 | Awful Country Slang   |   No | 
+| Lazy Bum               |   3 | 29 |  19 | 18 |  380 | Unwashed Body Odor    |   No | 
 | Headbanger Of The West |   3 | 27 |  23 | 43 |  245 | Ear Shattering Noises |   No | 
 | Muscled Midget         |   3 | 19 |  26 | 32 |  870 | Low Punch             |   No | 
 | Bone                   |   3 | 11 |  27 | 16 |  432 | Terrible Smoke Smell  |   No | 
-| Black Owl              |   3 | 29 |  28 | 26 |  711 | Hooked Beak           |   No | 
 | Morbid Walker          |   3 | 10 |  28 |  9 |  764 | Endless Walking       |   No | 
+| Black Owl              |   3 | 29 |  28 | 26 |  711 | Hooked Beak           |   No | 
 | Winged Demon Of Death  |   3 | 23 |  42 | 28 |  830 | Red Glare             |   No | 
 | AVERAGES               |     | 20 |  22 | 21 |  540 |                       |      | 
 {: .monsters }
@@ -204,12 +204,12 @@ has_children: true
 | Empty Armour       |   6 | 390 |  67 | 432 | 6,431 | Cutting Wind               |   No | 
 | Wild Stallion      |   6 | 245 |  78 | 532 | 4,643 | Hoofs                      |   No | 
 | Gold Man           |   6 | 354 |  86 | 493 | 8,964 | Rock Arm                   |  Yes | 
-| Screaming Zombie   |   6 | 286 |  98 | 354 | 5,322 | Gaping Mouth Full Of Teeth |   No | 
 | Raging Lion        |   6 | 274 |  98 | 365 | 3,643 | Teeth And Claws            |   No | 
+| Screaming Zombie   |   6 | 286 |  98 | 354 | 5,322 | Gaping Mouth Full Of Teeth |   No | 
 | Iron Warrior       |   6 | 253 | 100 | 364 | 6,542 | 3 Iron                     |   No | 
-| Black Soul         |   6 | 432 | 112 | 432 | 5,865 | Black Candle               |   No | 
 | Satans Helper      |   6 | 165 | 112 | 453 | 7,543 | Pack Of Lies               |   No | 
 | Huge Stone Warrior |   6 | 232 | 112 | 543 | 4,942 | Rock Fist                  |   No | 
+| Black Soul         |   6 | 432 | 112 | 432 | 5,865 | Black Candle               |   No | 
 | Belar              |   6 | 352 | 120 | 565 | 9,432 | Fists Of Rage              |   No | 
 | AVERAGES           |     | 271 |  89 | 412 | 5,757 |                            |      | 
 {: .monsters }
@@ -285,6 +285,7 @@ has_children: true
   
 | NAME                      | LVL |    HP |   ATT |     XP |    GOLD | WEAPON             | RARE | 
 |:--------------------------|:----|:------|:------|:-------|:--------|:-------------------|:-----|
+| Ables Creature            |  11 | 2,455 |   985 | 28,222 | 176,775 | Bear Hug           |   No | 
 | Gorma The Leper           |  11 | 2,766 | 1,132 | 26,333 | 168,774 | Contagious Disease |   No | 
 | Shogun Warrior            |  11 | 3,878 | 1,143 | 26,555 | 165,433 | Japenese Nortaki   |   No | 
 | Madman                    |  11 | 1,764 | 1,265 | 25,665 | 149,564 | Chant Of Insanity  |   No | 
@@ -293,7 +294,6 @@ has_children: true
 | Apparently Weak Old Woman |  11 | 1,878 | 1,543 | 37,762 | 173,522 | \*GODS HAMMER\*    |  Yes | 
 | Mountain                  |  11 | 1,284 | 1,544 | 38,774 | 186,454 | Landslide          |   No | 
 | ShadowStormWarrior        |  11 | 2,767 | 1,655 | 26,181 | 162,445 | Mystical Storm     |   No | 
-| Ables Creature            |  11 | 2,455 |   985 | 28,222 | 176,775 | Bear Hug           |   No | 
 | AVERAGES                  |     | 2,056 | 1,207 | 25,292 | 141,427 |                    |      | 
 {: .monsters }
     
@@ -301,6 +301,7 @@ has_children: true
   
 | NAME                   | LVL |    HP |   ATT |     XP |    GOLD | WEAPON             | RARE | 
 |:-----------------------|:----|:------|:------|:-------|:--------|:-------------------|:-----|
+| Kal Torak              |  12 | 6,666 |   876 | 94,663 | 447,774 | Cthrek Goru        |   No | 
 | Humongous Black Wyre   |  12 | 3,453 | 1,166 | 76,000 | 653,834 | Death Talons       |   No | 
 | Black Warlock          |  12 | 2,767 | 1,366 | 58,989 | 168,483 | Satanic Choruses   |   No | 
 | The Screaming Eunich   |  12 | 2,877 | 1,488 | 78,884 | 197,888 | High Pitched Voice |  Yes | 
@@ -310,6 +311,5 @@ has_children: true
 | Black Unicorn          |  12 | 1,587 | 1,899 | 41,738 | 336,693 | Shredding Horn     |   No | 
 | Corinthian Giant       |  12 | 2,544 | 2,400 | 60,333 | 336,643 | De-rooted Tree     |   No | 
 | Mutated Black Widow    |  12 | 1,276 | 2,575 | 98,993 | 434,370 | Venom Bite         |   No | 
-| Kal Torak              |  12 | 6,666 |   876 | 94,663 | 447,774 | Cthrek Goru        |   No | 
 | AVERAGES               |     | 2,526 | 1,513 | 59,130 | 289,180 |                    |      | 
 {: .monsters }
