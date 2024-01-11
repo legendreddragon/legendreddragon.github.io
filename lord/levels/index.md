@@ -3,16 +3,16 @@ layout: default
 title: Levels
 nav_order: 2
 has_children: true
-customjs:
- - _includes/js/sortable.min.js
-customcss:
- - _includes/css/sortable.min.css
 ---
+
+<link rel="stylesheet" href="includes/css/sortable.min.css" />
+<script src="_includes/js/sortable.min.js"></script>
+
 
 # Testing all tables  
   
   
-  
+
 ### Levels  
   
 | LEVEL |    HP | STRENGTH | DEFENSE |
