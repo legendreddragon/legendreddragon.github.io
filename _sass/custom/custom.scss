@@ -69,13 +69,13 @@ table.levels th, table.levels td {
 }
 */
 
-$tableColor: #b71212;
+$tableColor: #700000;
 th, tfoot td {
     background: $tableColor;
     font-weight: bold;
 }
 
-$linkColor: #ff1919;
+$linkColor: #ffffff;
 a, .nav-list .nav-list-item .nav-list-expander {
     color: $linkColor;
 }
