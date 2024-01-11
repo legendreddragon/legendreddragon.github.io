@@ -72,41 +72,41 @@ has_children: true
   
 ### Weapons / Armours  
   
-| WEAPON        | STRENGTH |       PRICE | ARMOUR           | DEFENSE |       PRICE |
-|:--------------|:---------|:------------|:-----------------|:--------|:------------|
-| Fists!        |        0 |           0 | Nothing!         |       0 |           0 |
-| Stick         |        5 |         200 | Coat             |       1 |         200 |
-| Dagger        |       10 |       1,000 | Heavy Coat       |       3 |       1,000 |
-| Short Sword   |       20 |       3,000 | Leather Vest     |      10 |       3,000 |
-| Long Sword    |       30 |      10,000 | Bronze Armour    |      15 |      10,000 |
-| Huge Axe      |       40 |      30,000 | Iron Armour      |      25 |      30,000 |
-| Bone Cruncher |       60 |     100,000 | Graphite Armour  |      35 |     100,000 |
-| Twin Swords   |       80 |     150,000 | Erdrick's Armour |      50 |     150,000 |
-| Power Axe     |      120 |     200,000 | Armour of Death  |      75 |     200,000 |
-| Able's Sword  |      180 |     400,000 | Able's Armour    |     100 |     400,000 |
-| Wan's Weapon  |      250 |   1,000,000 | Full Body Armour |     150 |   1,000,000 |
-| Spear of Gold |      350 |   4,000,000 | Blood Armour     |     225 |   4,000,000 |
-| Crystal Shard |      500 |  10,000,000 | Magic Protection |     300 |  10,000,000 |
-| Nira's Teeth  |      800 |  40,000,000 | Belar's Mail     |     400 |  40,000,000 |
-| Blood Sword   |    1,200 | 100,000,000 | Golden Armour    |     600 | 100,000,000 |
-| Death Sword   |    1,800 | 400,000,000 | Armour of Lore   |   1,000 | 400,000,000 |
+| WEAPON        |   ATT |       PRICE | ARMOUR           |   DEF |       PRICE |
+|:--------------|:------|:------------|:-----------------|:------|:------------|
+| Fists!        |     0 |           0 | Nothing!         |     0 |           0 |
+| Stick         |     5 |         200 | Coat             |     1 |         200 |
+| Dagger        |    10 |       1,000 | Heavy Coat       |     3 |       1,000 |
+| Short Sword   |    20 |       3,000 | Leather Vest     |    10 |       3,000 |
+| Long Sword    |    30 |      10,000 | Bronze Armour    |    15 |      10,000 |
+| Huge Axe      |    40 |      30,000 | Iron Armour      |    25 |      30,000 |
+| Bone Cruncher |    60 |     100,000 | Graphite Armour  |    35 |     100,000 |
+| Twin Swords   |    80 |     150,000 | Erdrick's Armour |    50 |     150,000 |
+| Power Axe     |   120 |     200,000 | Armour of Death  |    75 |     200,000 |
+| Able's Sword  |   180 |     400,000 | Able's Armour    |   100 |     400,000 |
+| Wan's Weapon  |   250 |   1,000,000 | Full Body Armour |   150 |   1,000,000 |
+| Spear of Gold |   350 |   4,000,000 | Blood Armour     |   225 |   4,000,000 |
+| Crystal Shard |   500 |  10,000,000 | Magic Protection |   300 |  10,000,000 |
+| Nira's Teeth  |   800 |  40,000,000 | Belar's Mail     |   400 |  40,000,000 |
+| Blood Sword   | 1,200 | 100,000,000 | Golden Armour    |   600 | 100,000,000 |
+| Death Sword   | 1,800 | 400,000,000 | Armour of Lore   | 1,000 | 400,000,000 |
 {: .weaponsarmours }
   
 ### Masters  
   
-| NAME           | LEVEL |    HP | WEAPON              | STRENGTH |  XP NEEDED | 
-|:---------------|:------|:------|:--------------------|:---------|:-----------|
-| Halder         |     1 |    30 | Short Sword         |       15 |        100 | 
-| Barak          |     2 |    40 | Battle Axe          |       17 |        400 | 
-| Aragorn        |     3 |    70 | Twin Swords         |       35 |      1,000 | 
-| Olodrin        |     4 |   120 | Power Axe           |       70 |      4,000 | 
-| Sandtiger      |     5 |   200 | Blessed Sword       |      100 |     10,000 | 
-| Sparhawk       |     6 |   400 | Double-Bladed Sword |      150 |     40,000 | 
-| Atsuko Sensei  |     7 |   600 | Huge Curved Blade   |      250 |    100,000 | 
-| Aladdin        |     8 |   800 | Shiny Lamp          |      350 |    400,000 | 
-| Prince Caspian |     9 | 1,200 | Flashing Rapier     |      500 |  1,000,000 | 
-| Gandalf        |    10 | 1,800 | Huge Fireballs      |      800 |  4,000,000 | 
-| Turgon         |    11 | 2,500 | Able's Sword        |    1,200 | 10,000,000 | 
+| NAME           | LVL |    HP | WEAPON              |   ATT |  XP NEEDED | 
+|:---------------|:----|:------|:--------------------|:------|:-----------|
+| Halder         |   1 |    30 | Short Sword         |    15 |        100 | 
+| Barak          |   2 |    40 | Battle Axe          |    17 |        400 | 
+| Aragorn        |   3 |    70 | Twin Swords         |    35 |      1,000 | 
+| Olodrin        |   4 |   120 | Power Axe           |    70 |      4,000 | 
+| Sandtiger      |   5 |   200 | Blessed Sword       |   100 |     10,000 | 
+| Sparhawk       |   6 |   400 | Double-Bladed Sword |   150 |     40,000 | 
+| Atsuko Sensei  |   7 |   600 | Huge Curved Blade   |   250 |    100,000 | 
+| Aladdin        |   8 |   800 | Shiny Lamp          |   350 |    400,000 | 
+| Prince Caspian |   9 | 1,200 | Flashing Rapier     |   500 |  1,000,000 | 
+| Gandalf        |  10 | 1,800 | Huge Fireballs      |   800 |  4,000,000 | 
+| Turgon         |  11 | 2,500 | Able's Sword        | 1,200 | 10,000,000 | 
 {: .masters }
     
   
