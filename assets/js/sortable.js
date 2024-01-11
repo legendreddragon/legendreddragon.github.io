@@ -149,7 +149,7 @@ function functionAddAttribute(){
     document.querySelector(".armours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
     document.querySelector(".weaponsarmours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
     document.querySelector(".masters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelectorAll(".monsters th:nth-child(4)").forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
+    document.querySelectorAll(".monsters th:nth-child(3)").forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
     document.querySelector(".raremonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
     document.querySelector(".disabledmonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
 
