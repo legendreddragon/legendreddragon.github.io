@@ -142,3 +142,8 @@ document.addEventListener('click', function (e) {
         // console.log(error)
     }
 });
+function functionAddAttribute(){
+    //document.getElementsByClassName('levels')[0].setAttribute('aria-sort', 'attributeValue');
+    document.querySelector(".levels th:nth-child(1)").setAttribute('aria-sort', 'ascending');
+};
+window.onload = functionAddAttribute;
