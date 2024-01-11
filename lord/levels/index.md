@@ -3,10 +3,12 @@ layout: default
 title: Levels
 nav_order: 2
 has_children: true
+head_scripts:
+ - /assets/js/sortable.js
 ---
 
 <link rel="stylesheet" href="/assets/css/sortable-base.css" />
-<script src="/assets/js/sortable.js"></script>
+<!-- <script src="/assets/js/sortable.js"></script> -->
 
 
 # Testing all tables  
