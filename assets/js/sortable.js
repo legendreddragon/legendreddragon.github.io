@@ -155,7 +155,6 @@ function addAriaAll(qs) {
     s.forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
 }
 
-
 function addAriaAttributes(){
     addAria(".levels th:nth-child(1)") ;
     addAria(".weapons th:nth-child(2)");
@@ -167,17 +166,4 @@ function addAriaAttributes(){
     addAriaAll(".monsters th:nth-child(3)");
 };
 
-//function functionAddAttribute(){
-//    //document.getElementsByClassName('levels')[0].setAttribute('aria-sort', 'attributeValue');
-//    document.querySelector(".levels th:nth-child(1)").setAttribute('aria-sort', 'ascending');
-//    document.querySelector(".weapons th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//    document.querySelector(".armours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//    document.querySelector(".weaponsarmours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//    document.querySelector(".masters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//    document.querySelectorAll(".monsters th:nth-child(3)").forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
-//    document.querySelector(".raremonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//    document.querySelector(".disabledmonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-//};
-
-//window.onload = functionAddAttribute;
 window.onload = addAriaAttributes();
