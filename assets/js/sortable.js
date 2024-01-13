@@ -166,4 +166,4 @@ function addAriaAttributes() {
     addAriaAll(".monsters th:nth-child(3)");
 }
 
-window.onload = addAriaAttributes();
+window.onload = addAriaAttributes;
