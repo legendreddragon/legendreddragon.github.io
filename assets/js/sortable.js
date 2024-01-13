@@ -155,7 +155,7 @@ function addAriaAll(qs) {
     s.forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
 }
 
-function addAriaAttributes(){
+function addAriaAttributes() {
     addAria(".levels th:nth-child(1)") ;
     addAria(".weapons th:nth-child(2)");
     addAria(".armours th:nth-child(2)");
@@ -164,6 +164,6 @@ function addAriaAttributes(){
     addAria(".raremonsters th:nth-child(2)");
     addAria(".disabledmonsters th:nth-child(2)");
     addAriaAll(".monsters th:nth-child(3)");
-};
+}
 
 window.onload = addAriaAttributes();
