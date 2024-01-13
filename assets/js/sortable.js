@@ -142,16 +142,42 @@ document.addEventListener('click', function (e) {
         // console.log(error)
     }
 });
-function functionAddAttribute(){
-    //document.getElementsByClassName('levels')[0].setAttribute('aria-sort', 'attributeValue');
-    document.querySelector(".levels th:nth-child(1)").setAttribute('aria-sort', 'ascending');
-    document.querySelector(".weapons th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelector(".armours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelector(".weaponsarmours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelector(".masters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelectorAll(".monsters th:nth-child(3)").forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
-    document.querySelector(".raremonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
-    document.querySelector(".disabledmonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
 
+function addAria(qs) {
+    s = document.querySelector(qs);
+    if(!s) return false;
+    s.setAttribute('aria-sort', 'ascending');
+}
+
+function addAriaAll(qs) {
+    s = document.querySelectorAll(qs);
+    if(s.length === 0) return false;
+    s.forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
+}
+
+
+function addAriaAttributes(){
+    addAria(".levels th:nth-child(1)") ;
+    addAria(".weapons th:nth-child(2)");
+    addAria(".armours th:nth-child(2)");
+    addAria(".weaponsarmours th:nth-child(2)");
+    addAria(".masters th:nth-child(2)");
+    addAria(".raremonsters th:nth-child(2)");
+    addAria(".disabledmonsters th:nth-child(2)");
+    addAriaAll(".monsters th:nth-child(3)");
 };
-window.onload = functionAddAttribute;
+
+//function functionAddAttribute(){
+//    //document.getElementsByClassName('levels')[0].setAttribute('aria-sort', 'attributeValue');
+//    document.querySelector(".levels th:nth-child(1)").setAttribute('aria-sort', 'ascending');
+//    document.querySelector(".weapons th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//    document.querySelector(".armours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//    document.querySelector(".weaponsarmours th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//    document.querySelector(".masters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//    document.querySelectorAll(".monsters th:nth-child(3)").forEach(e => { e.setAttribute('aria-sort', 'ascending'); });
+//    document.querySelector(".raremonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//    document.querySelector(".disabledmonsters th:nth-child(2)").setAttribute('aria-sort', 'ascending');
+//};
+
+//window.onload = functionAddAttribute;
+window.onload = addAriaAttributes();
