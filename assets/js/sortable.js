@@ -167,3 +167,42 @@ function addAriaAttributes() {
 }
 
 window.onload = addAriaAttributes;
+
+typeJennie="";
+window.addEventListener("keyup", function (event) {
+    if (event.defaultPrevented || event.target.type === 'text') {
+        return; // Do nothing if the event was already processed or is a text field
+    }
+    //console.log(event);
+    //console.log(event.target);
+    switch (event.key.toLowerCase()) {
+    case "j":
+        typeJennie="j";
+        break;
+    case "e":
+        if (typeJennie === 'j') typeJennie="je"
+        else if (typeJennie === 'jenni') {
+            alert("You are a Jennie!\nWell Done!")
+            typeJennie=""
+        } else typeJennie="";
+        break;
+    case "n":
+        if (typeJennie === 'je') typeJennie="jen"
+        else if (typeJennie === 'jen') typeJennie="jenn"
+        else typeJennie="";
+        break;
+    case "i":
+        // code for "right arrow" key press.
+        if (typeJennie === 'jenn') typeJennie="jenni"
+        else typeJennie="";
+        break;
+    default:
+        typeJennie="";
+        return; // Quit when this doesn't handle the key event.
+    }
+
+  // Cancel the default action to avoid it being handled twice
+  event.preventDefault();
+}, true);
+// the last option dispatches the event to the listener first,
+// then dispatches event to window
