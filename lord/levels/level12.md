@@ -60,6 +60,6 @@ Level 12 is survivable with a Wan's Weapon and Full Body Armour. You will need t
 {: .levelgold }
   
 
-### Special
+## Special
 
 Level 12 is the only level in which you may (S)earch for the dragon in the forest. Also, in green and red realms, it is considered camping to quit to the fields or get a room at the inn on level 12.

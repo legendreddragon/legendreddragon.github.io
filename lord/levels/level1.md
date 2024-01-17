@@ -82,6 +82,6 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 {: .levelgold }
   
 
-### Special
+## Special
 
 Level 1 is the only level in which you can not talk to the bartender. This means that level 1 players may not kill people in the Inn, change their name, or spend Gems on potions.
