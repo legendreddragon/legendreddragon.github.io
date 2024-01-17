@@ -43,7 +43,7 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 
 Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and Able's Armour, however it is generally advised to wait until you have a Wan's Weapon and Full Body Armour.
 
-### Odds for Prince Caspian
+### Odds for Prince Caspian (%)
 
 | Weapon | / | Armour | +40 Gems | HOTT +40 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

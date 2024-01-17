@@ -43,7 +43,7 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 
 Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armour of Death or a Power Axe and Iron Armour and with a lot of luck (or a Fairy) a Huge Axe and Iron Armour. Most players would use a Power Axe and Armour of Death.
 
-### Odds for Atsuko Sensei
+### Odds for Atsuko Sensei (%)
 
 | Weapon | / | Armour | +20 Gems | HOTT +20 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

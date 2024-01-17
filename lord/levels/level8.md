@@ -43,7 +43,7 @@ The eighth level of the game is the the level most commonly used to build up Gol
 
 Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of Death.
 
-### Odds for Aladdin
+### Odds for Aladdin (%)
 
 | Weapon | / | Armour | +40 Gems | HOTT +40 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

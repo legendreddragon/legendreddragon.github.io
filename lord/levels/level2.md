@@ -43,7 +43,7 @@ The second level of the game is a relatively easy one, which should pose no prob
 
 Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 
-### Odds for Barak
+### Odds for Barak (%)
 
 | Weapon | / | Armour | +10 Gems | HOTT +10 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

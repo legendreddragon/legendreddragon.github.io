@@ -43,7 +43,7 @@ The third level of the game is a relatively easy one, which should pose no probl
 
 Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Vest.
 
-### Odds for Aragorn
+### Odds for Aragorn (%)
 
 | Weapon | / | Armour | +10 Gems | HOTT +10 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

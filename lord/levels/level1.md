@@ -43,7 +43,7 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 
 Halder is the Level 1 master. He is easily beatable with a Stick and a Leather Vest.
 
-### Odds for Halder
+### Odds for Halder (%)
 
 | Weapon | / | Armour | +0 Gems | HOTT + 0 Gems |
 |-------:|:-:|:-------|--------:|--------------:|

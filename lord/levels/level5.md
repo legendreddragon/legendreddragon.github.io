@@ -43,7 +43,7 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 
 Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron Armour, however it's not guaranteed. Passing Sandtiger can take a couple of attempts at times.
 
-### Odds for Sandtiger
+### Odds for Sandtiger (%)
 
 | Weapon | / | Armour | +16 Gems | HOTT +16 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

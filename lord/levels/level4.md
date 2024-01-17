@@ -43,7 +43,7 @@ The fourth level of the game is a relatively easy one, which should pose no prob
 
 Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
 
-### Odds for Olodrin
+### Odds for Olodrin (%)
 
 | Weapon | / | Armour | +16 Gems | HOTT +16 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

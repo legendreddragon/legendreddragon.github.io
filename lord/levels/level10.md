@@ -42,7 +42,7 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 
 Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 50% chance. The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Gandalf a few times.
 
-### Odds for Gandalf
+### Odds for Gandalf (%)
 
 | Weapon | / | Armour | +40 Gems | HOTT +40 Gems |
 |-------:|:-:|:-------|---------:|--------------:|

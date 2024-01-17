@@ -43,7 +43,7 @@ The sixth level of the game is where things start getting a little more difficul
 
 Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour, however it is generally advisable to have at least Armour of Death before going to Level 7.
 
-### Odds for Sparhawk
+### Odds for Sparhawk (%)
 
 | Weapon | / | Armour | +20 Gems | HOTT +20 Gems |
 |-------:|:-:|:-------|---------:|--------------:|
