@@ -28,6 +28,7 @@ Each time you level up:
  - You get the ability to talk to the Bartender (lvl 2)
 
 ## Level Stats
+ 
 | LEVEL |    HP | STRENGTH | DEFENSE |
 |:-----:|------:|---------:|--------:|
 | 1     |    20 |        5 |       0 |
