@@ -59,9 +59,9 @@ The Red Dragon is effectively the master of Level 12.
 
 ### Red Dragon Stats
 
-|    HP |  ATT | WEAPON          | DEATH TEXT                                  |
-|------:|-----:|:----------------|:--------------------------------------------|
-| 15000 | 2000 | Scorching Flame | The earth shakes as the mighty beast falls. |
+|     HP |   ATT | WEAPON          | DEATH TEXT                                  |
+|-------:|------:|:----------------|:--------------------------------------------|
+| 15,000 | 2,000 | Scorching Flame | The earth shakes as the mighty beast falls. |
 {: .redradgontable }
   
 ## Equipment
