@@ -76,7 +76,7 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 
 Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult and should be avoided if it gets the first strike.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $                 |
 |:--------------------|:-----------------:|

@@ -76,7 +76,7 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 
 Level 4 is survivable with a Long Sword and Bronze Armour.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $               |
 |:--------------------|:---------------:|

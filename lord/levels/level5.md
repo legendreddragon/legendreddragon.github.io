@@ -76,7 +76,7 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 
 Level 5 is survivable with a Huge Axe and Iron Armour.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $                |
 |:--------------------|:----------------:|

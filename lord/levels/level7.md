@@ -76,7 +76,7 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 
 Level 7 is survivable with a Power Axe and Armour of Death. Anything less than this is difficult and you will have to tread very carefully in the Forest. Night Hawk, Goliath and Swiss Butcher are the most dangerous Forest Monsters.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $                 |
 |:--------------------|:-----------------:|

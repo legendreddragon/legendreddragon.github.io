@@ -76,7 +76,7 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 
 Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below this can be very risky. Earthshaker should never be fought.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $                 |
 |:--------------------|:-----------------:|

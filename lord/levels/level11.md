@@ -75,7 +75,7 @@ Turgon is the Level 11 master. He is most commonly fought with a Wan's Weapon an
 
 Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would probably need to have a Crystal Shard and Magic Protection to make a decent amount of Gold on Level 11. Some Forest Monsters on Level 11 are difficult even with a Nira's Teeth.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $                   |
 |:--------------------|:-------------------:|

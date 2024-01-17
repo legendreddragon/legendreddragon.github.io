@@ -76,7 +76,7 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 
 Level 3 is survivable with a Short Sword and a Leather Vest.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $               |
 |:--------------------|:---------------:|

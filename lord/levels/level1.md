@@ -76,7 +76,7 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 
 Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to be wary of is Bran the Warrior, who is dangerous if he gets the first strike. It can be advisable to use your Skills on him.
 
-## Gold Revenews and Costs
+## Gold Winnings and Costs
 
 | Event               | $             |
 |:--------------------|:-------------:|
