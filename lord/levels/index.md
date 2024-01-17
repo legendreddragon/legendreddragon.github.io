@@ -22,6 +22,7 @@ Each time you level up:
  - The Forest Monsters will change
  - You get unable to attack people in the Inn
    - From -1 your current level, you can attack
+ - You get the ability to talk to the Bartender (lvl 2)
 ## Level Stats
 
 | LEVEL |    HP | STRENGTH | DEFENSE |
