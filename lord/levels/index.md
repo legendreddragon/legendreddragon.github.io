@@ -22,6 +22,9 @@ Each time you level up:
  - The Forest Monsters will change
  - You get unable to attack people in the Inn
    - From -1 your current level, you can attack
+ - You get unable to use skills in Offline Battles
+   - Can use Skills on players 1 level above you
+   - Can use LightShield if on the same-level or above you
  - You get the ability to talk to the Bartender (lvl 2)
 ## Level Stats
 
