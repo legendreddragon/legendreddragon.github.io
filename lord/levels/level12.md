@@ -57,6 +57,13 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 
 The Red Dragon is effectively the master of Level 12. 
 
+### Red Dragon Stats
+
+|    HP |  ATT | WEAPON          | DEATH TEXT                                  |
+|------:|-----:|:----------------|:--------------------------------------------|
+| 15000 | 2000 | Scorching Flame | The earth shakes as the mighty beast falls. |
+{: .redradgontable }
+  
 ## Equipment
 
 Level 12 is survivable with a Wan's Weapon and Full Body Armour. You will need to pick how you fight however.  
