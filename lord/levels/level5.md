@@ -6,8 +6,15 @@ nav_order: 15
 has_children: false
 ---
 # Level 5
+{: .no_toc }
 
 The fifth level of the game is a relatively easy one, though Silent Death can be tough.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

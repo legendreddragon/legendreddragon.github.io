@@ -6,8 +6,15 @@ nav_order: 11
 has_children: false
 ---
 # Level 1
+{: .no_toc }
 
 The first level of the game is a relatively easy one, with only one dangerous Forest Monster. Bran the Warrior dominates this level.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

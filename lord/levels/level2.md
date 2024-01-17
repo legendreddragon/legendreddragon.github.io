@@ -6,8 +6,15 @@ nav_order: 12
 has_children: false
 ---
 # Level 2
+{: .no_toc }
 
 The second level of the game is a relatively easy one, which should pose no problems for most players.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

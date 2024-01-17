@@ -6,8 +6,15 @@ nav_order: 18
 has_children: false
 ---
 # Level 8
+{: .no_toc }
 
 The eighth level of the game is the the level most commonly used to build up Gold until a Player is equipped to go to Level 12. The Forest Monsters are mostly easy to deal with and it has a high Gold yield.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

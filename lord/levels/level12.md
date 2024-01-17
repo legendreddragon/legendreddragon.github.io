@@ -6,8 +6,15 @@ nav_order: 22
 has_children: false
 ---
 # Level 12
+{: .no_toc }
 
 The twelfth and final level of the game is where The Red Dragon is found. It is full of difficult to kill Forest Monsters who mostly provide a high Gold yield. A lot of time is spent on Level 12 by most Players. 
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

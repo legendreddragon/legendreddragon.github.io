@@ -6,8 +6,15 @@ nav_order: 19
 has_children: false
 ---
 # Level 9
+{: .no_toc }
 
 The ninth level of the game can be difficult, but with the right Weapon and Armour it can be a good stepping stone to Level 12.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

@@ -6,8 +6,15 @@ nav_order: 20
 has_children: false
 ---
 # Level 10
+{: .no_toc }
 
 The tenth level of the game is often seen as the worst in the game. The Forest Monsters are very difficult and the Gold yield is low. Most competitive Players will skip Level 10.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

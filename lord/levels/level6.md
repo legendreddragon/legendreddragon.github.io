@@ -6,8 +6,15 @@ nav_order: 16
 has_children: false
 ---
 # Level 6
+{: .no_toc }
 
 The sixth level of the game is where things start getting a little more difficult. Caution is needed in the Forest from now on.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

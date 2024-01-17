@@ -6,8 +6,15 @@ nav_order: 17
 has_children: false
 ---
 # Level 7
+{: .no_toc }
 
 The seventh level of the game is sometimes skipped by competitive players. The monsters are very difficult and have a low Gold yield. The only good reason to stay in Level 7 is if you want to get a very good Level 8 kill.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 

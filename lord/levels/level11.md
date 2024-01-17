@@ -6,8 +6,15 @@ nav_order: 21
 has_children: false
 ---
 # Level 11
+{: .no_toc }
 
 The eleventh level of the game is full of difficult Forest Monsters and is hard to survive, even with high level Weapon and Armour. Most competitive Players will skip Level 11. Mostly because the level 11 is Hell.
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 ## Forest Monsters
 
