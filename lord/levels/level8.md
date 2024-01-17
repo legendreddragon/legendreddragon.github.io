@@ -23,6 +23,10 @@ The eighth level of the game is the the level most commonly used to build up Gol
 | 345 |      144 |      92 |
 {: .levelstats }
   
+## Equipment
+
+Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of King Vidion. It's generally advised to never fight him.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of D
 |     4M | / | 4M     |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of King Vidion. It's generally advised to never fight him.
-
 ## Gold Winnings and Costs
 
 | Event               | $                 |

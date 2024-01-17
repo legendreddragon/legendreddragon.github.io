@@ -23,6 +23,10 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 | 220 |       94 |      57 |
 {: .levelstats }
   
+## Equipment
+
+Level 7 is survivable with a Power Axe and Armour of Death. Anything less than this is difficult and you will have to tread very carefully in the Forest. Night Hawk, Goliath and Swiss Butcher are the most dangerous Forest Monsters.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 |   200K | / | 200K   |       82 |            92 |
 {: .masterodds }
   
-## Equipment
-
-Level 7 is survivable with a Power Axe and Armour of Death. Anything less than this is difficult and you will have to tread very carefully in the Forest. Night Hawk, Goliath and Swiss Butcher are the most dangerous Forest Monsters.
-
 ## Gold Winnings and Costs
 
 | Event               | $                 |

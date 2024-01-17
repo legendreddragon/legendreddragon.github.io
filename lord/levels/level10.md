@@ -23,6 +23,10 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 | 780 |      329 |     232 |
 {: .levelstats }
   
+## Equipment
+
+Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would probably need to have a Crystal Shard and Magic Protection to make a decent amount of Gold on Level 10.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -78,10 +82,6 @@ Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon a
 |     4M | / | 4M     |       94 |            98 |
 {: .masterodds }
   
-## Equipment
-
-Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would probably need to have a Crystal Shard and Magic Protection to make a decent amount of Gold on Level 10.
-
 ## Gold Winnings and Costs
 
 | Event               | $                 |

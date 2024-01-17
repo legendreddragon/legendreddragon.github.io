@@ -23,6 +23,10 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 | 530 |      219 |     152 |
 {: .levelstats }
   
+## Equipment
+
+Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below this can be very risky. Earthshaker should never be fought.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 |     4M | / | 4M     |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below this can be very risky. Earthshaker should never be fought.
-
 ## Gold Winnings and Costs
 
 | Event               | $                 |

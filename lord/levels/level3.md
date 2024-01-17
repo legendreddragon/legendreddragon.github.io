@@ -23,6 +23,10 @@ The third level of the game is a relatively easy one, which should pose no probl
 | 45 |       17 |       5 |
 {: .levelstats }
   
+## Equipment
+
+Level 3 is survivable with a Short Sword and a Leather Vest.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 |    10K | / | 10K    |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 3 is survivable with a Short Sword and a Leather Vest.
-
 ## Gold Winnings and Costs
 
 | Event               | $               |

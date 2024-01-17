@@ -23,6 +23,10 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 | 95 |       39 |      20 |
 {: .levelstats }
   
+## Equipment
+
+Level 5 is survivable with a Huge Axe and Iron Armour.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 |    30K | / | 30K    |       84 |            93 |
 {: .masterodds }
   
-## Equipment
-
-Level 5 is survivable with a Huge Axe and Iron Armour.
-
 ## Gold Winnings and Costs
 
 | Event               | $                |

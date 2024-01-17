@@ -23,6 +23,10 @@ The eleventh level of the game is full of difficult Forest Monsters and is hard 
 | 1,130 |      479 |     352 |
 {: .levelstats }
   
+## Equipment
+
+Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would probably need to have a Crystal Shard and Magic Protection to make a decent amount of Gold on Level 11. Some Forest Monsters on Level 11 are difficult even with a Nira's Teeth.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -80,10 +84,6 @@ The problem happens when you die, get below 10 million XP and get stuck in the '
 |     4M | / | 4M     |       61 |            77 |
 {: .masterodds }
   
-## Equipment
-
-Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would probably need to have a Crystal Shard and Magic Protection to make a decent amount of Gold on Level 11. Some Forest Monsters on Level 11 are difficult even with a Nira's Teeth.
-
 ## Gold Winnings and Costs
 
 | Event               | $                   |

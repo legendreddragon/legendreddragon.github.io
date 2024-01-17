@@ -23,6 +23,10 @@ The sixth level of the game is where things start getting a little more difficul
 | 145 |       59 |      35 |
 {: .levelstats }
   
+## Equipment
+
+Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult and should be avoided if it gets the first strike.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 |   200K | / | 200K   |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult and should be avoided if it gets the first strike.
-
 ## Gold Winnings and Costs
 
 | Event               | $                 |

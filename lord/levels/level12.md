@@ -23,6 +23,20 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 | 1,680 |      679 |     502 |
 {: .levelstats }
   
+## Equipment
+
+Level 12 is survivable with a Wan's Weapon and Full Body Armour. You will need to pick how you fight however.  
+  
+Kal Torak, Humongous Black Wyre and The Wizard of Darkness are all killable.  
+  
+Black Unicorn and Mutated Black Widow are killable with Thieving Skills or Death Knight Skills.  
+  
+The Mighty Shadow and Black Warlock are generally not worth the effort, as their Gold yield is low.  
+  
+Cyclops Warrior is not to be attacked unless you have a Blood Sword.  
+  
+Corinthian Giant should never be fought in a competitve game.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -64,20 +78,6 @@ The Red Dragon is effectively the master of Level 12.
 | 15,000 | 2,000 | Scorching Flame | The earth shakes as the mighty beast falls. |
 {: .redradgontable }
   
-## Equipment
-
-Level 12 is survivable with a Wan's Weapon and Full Body Armour. You will need to pick how you fight however.  
-  
-Kal Torak, Humongous Black Wyre and The Wizard of Darkness are all killable.  
-  
-Black Unicorn and Mutated Black Widow are killable with Thieving Skills or Death Knight Skills.  
-  
-The Mighty Shadow and Black Warlock are generally not worth the effort, as their Gold yield is low.  
-  
-Cyclops Warrior is not to be attacked unless you have a Blood Sword.  
-  
-Corinthian Giant should never be fought in a competitve game.
-
 ## Gold Winnings and Costs
 
 | Event               | $                   |

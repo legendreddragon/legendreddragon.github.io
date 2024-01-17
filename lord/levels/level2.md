@@ -23,6 +23,10 @@ The second level of the game is a relatively easy one, which should pose no prob
 | 30 |       10 |       2 |
 {: .levelstats }
   
+## Equipment
+
+Level 2 is easily survivable with a Stick and Leather Vest.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 |    10K | / | 10K    |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 2 is easily survivable with a Stick and Leather Vest.
-
 ## Gold Winnings and Costs
 
 | Event               | $             |

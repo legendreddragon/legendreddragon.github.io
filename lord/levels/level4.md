@@ -23,6 +23,10 @@ The fourth level of the game is a relatively easy one, which should pose no prob
 | 65 |       27 |      10 |
 {: .levelstats }
   
+## Equipment
+
+Level 4 is survivable with a Long Sword and Bronze Armour.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 |    30K | / | 30K    |       99 |            99 |
 {: .masterodds }
   
-## Equipment
-
-Level 4 is survivable with a Long Sword and Bronze Armour.
-
 ## Gold Winnings and Costs
 
 | Event               | $               |

@@ -23,6 +23,10 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 | 20 |        5 |       0 |
 {: .levelstats }
   
+## Equipment
+
+Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to be wary of is Bran the Warrior, who is dangerous if he gets the first strike. It can be advisable to use your Skills on him.
+
 ## Forest Monsters
 
 ### Monster Relevance
@@ -79,10 +83,6 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 |    10K | / | 10K    |      99 |           99 |
 {: .masterodds }
   
-## Equipment
-
-Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to be wary of is Bran the Warrior, who is dangerous if he gets the first strike. It can be advisable to use your Skills on him.
-
 ## Gold Winnings and Costs
 
 | Event               | $             |
