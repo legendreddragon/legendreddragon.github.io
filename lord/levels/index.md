@@ -40,17 +40,3 @@ Each time you level up:
 | 12    | 1,680 |      679 |     502 |
 {: .sortable .levels }
   
-## Level Information
-
-   [Level 1](lord/levels/level1/){: .btn .level-btn }
-   [Level 2](lord/levels/level2/){: .btn .level-btn }
-   [Level 3](lord/levels/level3/){: .btn .level-btn }
-   [Level 4](lord/levels/level4/){: .btn .level-btn }
-   [Level 5](lord/levels/level5/){: .btn .level-btn }
-   [Level 6](lord/levels/level6/){: .btn .level-btn }
-   [Level 7](lord/levels/level7/){: .btn .level-btn }
-   [Level 8](lord/levels/level8/){: .btn .level-btn }
-   [Level 9](lord/levels/level9/){: .btn .level-btn }
-   [Level 10](lord/levels/level10/){: .btn .level-btn }
-   [Level 11](lord/levels/level11/){: .btn .level-btn }
-   [Level 12](lord/levels/level12/){: .btn .level-btn }
