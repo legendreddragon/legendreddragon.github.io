@@ -26,8 +26,8 @@ Each time you level up:
    - Can use Skills on players 1 level above you (or more)
    - Can use LightShield if on the same-level or above you
  - You get the ability to talk to the Bartender (lvl 2)
-## Level Stats
 
+## Level Stats
 | LEVEL |    HP | STRENGTH | DEFENSE |
 |:-----:|------:|---------:|--------:|
 | 1     |    20 |        5 |       0 |
