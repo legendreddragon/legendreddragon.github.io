@@ -13,12 +13,12 @@ The third level of the game is a relatively easy one, which should pose no probl
 
 ### Monster Relevance
 
-| Rank     | Monster                |
-|:---------|:-----------------------|
-| Gold     | Muscled Midget         |
-| Strength | Winged Demon Of Death  |
-| MaxHp    | Two Headed Rotweiler   |
-| Exp      | Headbanger Of The West |
+| Rank               | Monster                |
+|:-------------------|:-----------------------|
+| Highest Paying     | Muscled Midget         |
+| Strongest          | Winged Demon Of Death  |
+| Longest Lasting    | Two Headed Rotweiler   |
+| Highest Experience | Headbanger Of The West |
 {: .monsterrank }
   
 ### All Monsters

@@ -13,12 +13,12 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 
 ### Monster Relevance
 
-| Rank     | Monster                    |
-|:---------|:---------------------------|
-| Gold     | Clancy, Son Of Emperor Len |
-| Strength | Silent Death               |
-| MaxHp    | Clancy, Son Of Emperor Len |
-| Exp      | Clancy, Son Of Emperor Len |
+| Rank               | Monster                    |
+|:-------------------|:---------------------------|
+| Highest Paying     | Clancy, Son Of Emperor Len |
+| Strongest          | Silent Death               |
+| Longest Lasting    | Clancy, Son Of Emperor Len |
+| Highest Experience | Clancy, Son Of Emperor Len |
 {: .monsterrank }
   
 ### All Monsters

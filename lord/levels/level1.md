@@ -13,12 +13,12 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 
 ### Monster Relevance
 
-| Rank     | Monster          |
-|:---------|:-----------------|
-| Gold     | Bran The Warrior |
-| Strength | Bran The Warrior |
-| MaxHp    | Bran The Warrior |
-| Exp      | Bran The Warrior |
+| Rank               | Monster          |
+|:-------------------|:-----------------|
+| Highest Paying     | Bran The Warrior |
+| Strongest          | Bran The Warrior |
+| Longest Lasting    | Bran The Warrior |
+| Highest Experience | Bran The Warrior |
 {: .monsterrank }
   
 ### All Monsters

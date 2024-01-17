@@ -13,12 +13,12 @@ The fourth level of the game is a relatively easy one, which should pose no prob
 
 ### Monster Relevance
 
-| Rank     | Monster         |
-|:---------|:----------------|
-| Gold     | Huge Black Bear |
-| Strength | Huge Black Bear |
-| MaxHp    | Evil Hobbit     |
-| Exp      | Huge Black Bear |
+| Rank               | Monster         |
+|:-------------------|:----------------|
+| Highest Paying     | Huge Black Bear |
+| Strongest          | Huge Black Bear |
+| Longest Lasting    | Evil Hobbit     |
+| Highest Experience | Huge Black Bear |
 {: .monsterrank }
   
 ### All Monsters

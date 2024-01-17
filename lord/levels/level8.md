@@ -13,12 +13,12 @@ The eighth level of the game is the the level most commonly used to build up Gol
 
 ### Monster Relevance
 
-| Rank     | Monster     |
-|:---------|:------------|
-| Gold     | King Vidion |
-| Strength | King Vidion |
-| MaxHp    | Baby Dragon |
-| Exp      | King Vidion |
+| Rank               | Monster     |
+|:-------------------|:------------|
+| Highest Paying     | King Vidion |
+| Strongest          | King Vidion |
+| Longest Lasting    | Baby Dragon |
+| Highest Experience | King Vidion |
 {: .monsterrank }
   
 ### All Monsters

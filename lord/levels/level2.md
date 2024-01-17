@@ -13,12 +13,12 @@ The second level of the game is a relatively easy one, which should pose no prob
 
 ### Monster Relevance
 
-| Rank     | Monster                     |
-|:---------|:----------------------------|
-| Gold     | Brorandia The Viking        |
-| Strength | Brorandia The Viking        |
-| MaxHp    | Fredrick the Limping Baboon |
-| Exp      | Brorandia The Viking        |
+| Rank               | Monster                     |
+|:-------------------|:----------------------------|
+| Highest Paying     | Brorandia The Viking        |
+| Strongest          | Brorandia The Viking        |
+| Longest Lasting    | Fredrick the Limping Baboon |
+| Highest Experience | Brorandia The Viking        |
 {: .monsterrank }
   
 ### All Monsters

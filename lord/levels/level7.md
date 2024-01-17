@@ -13,12 +13,12 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 
 ### Monster Relevance
 
-| Rank     | Monster          |
-|:---------|:-----------------|
-| Gold     | Massive Dinosaur |
-| Strength | Goliath          |
-| MaxHp    | Massive Dinosaur |
-| Exp      | Massive Dinosaur |
+| Rank               | Monster          |
+|:-------------------|:-----------------|
+| Highest Paying     | Massive Dinosaur |
+| Strongest          | Goliath          |
+| Longest Lasting    | Massive Dinosaur |
+| Highest Experience | Massive Dinosaur |
 {: .monsterrank }
   
 ### All Monsters

@@ -13,12 +13,12 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 
 ### Monster Relevance
 
-| Rank     | Monster      |
-|:---------|:-------------|
-| Gold     | Apeman       |
-| Strength | Earth Shaker |
-| MaxHp    | Ernest Brown |
-| Exp      | Rentakis Pet |
+| Rank               | Monster      |
+|:-------------------|:-------------|
+| Highest Paying     | Apeman       |
+| Strongest          | Earth Shaker |
+| Longest Lasting    | Ernest Brown |
+| Highest Experience | Rentakis Pet |
 {: .monsterrank }
   
 ### All Monsters

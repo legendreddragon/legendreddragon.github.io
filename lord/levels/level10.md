@@ -13,12 +13,12 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 
 ### Monster Relevance
 
-| Rank     | Monster                   |
-|:---------|:--------------------------|
-| Gold     | Slock                     |
-| Strength | Sweet Looking Little Girl |
-| MaxHp    | Adult Gold Dragon         |
-| Exp      | Adult Gold Dragon         |
+| Rank               | Monster                   |
+|:-------------------|:--------------------------|
+| Highest Paying     | Slock                     |
+| Strongest          | Sweet Looking Little Girl |
+| Longest Lasting    | Adult Gold Dragon         |
+| Highest Experience | Adult Gold Dragon         |
 {: .monsterrank }
   
 ### All Monsters

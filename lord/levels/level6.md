@@ -13,12 +13,12 @@ The sixth level of the game is where things start getting a little more difficul
 
 ### Monster Relevance
 
-| Rank     | Monster    |
-|:---------|:-----------|
-| Gold     | Belar      |
-| Strength | Belar      |
-| MaxHp    | Black Soul |
-| Exp      | Belar      |
+| Rank               | Monster    |
+|:-------------------|:-----------|
+| Highest Paying     | Belar      |
+| Strongest          | Belar      |
+| Longest Lasting    | Black Soul |
+| Highest Experience | Belar      |
 {: .monsterrank }
   
 ### All Monsters

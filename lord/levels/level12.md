@@ -13,12 +13,12 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 
 ### Monster Relevance
 
-| Rank     | Monster              |
-|:---------|:---------------------|
-| Gold     | Humongous Black Wyre |
-| Strength | Mutated Black Widow  |
-| MaxHp    | Kal Torak            |
-| Exp      | Mutated Black Widow  |
+| Rank               | Monster              |
+|:-------------------|:---------------------|
+| Highest Paying     | Humongous Black Wyre |
+| Strongest          | Mutated Black Widow  |
+| Longest Lasting    | Kal Torak            |
+| Highest Experience | Mutated Black Widow  |
 {: .monsterrank }
   
 ### All Monsters

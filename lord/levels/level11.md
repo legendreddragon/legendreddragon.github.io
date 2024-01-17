@@ -13,12 +13,12 @@ The eleventh level of the game is full of difficult Forest Monsters and is hard 
 
 ### Monster Relevance
 
-| Rank     | Monster            |
-|:---------|:-------------------|
-| Gold     | Mountain           |
-| Strength | ShadowStormWarrior |
-| MaxHp    | Shogun Warrior     |
-| Exp      | Mountain           |
+| Rank               | Monster            |
+|:-------------------|:-------------------|
+| Highest Paying     | Mountain           |
+| Strongest          | ShadowStormWarrior |
+| Longest Lasting    | Shogun Warrior     |
+| Highest Experience | Mountain           |
 {: .monsterrank }
   
 ### All Monsters
