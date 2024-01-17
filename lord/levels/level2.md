@@ -16,6 +16,13 @@ The second level of the game is a relatively easy one, which should pose no prob
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+| Hp | Strength | Defense |
+|---:|---------:|--------:|
+| 30 |       10 |       2 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

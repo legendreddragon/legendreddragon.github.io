@@ -16,6 +16,13 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+| Hp | Strength | Defense |
+|---:|---------:|--------:|
+| 95 |       39 |      20 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

@@ -16,6 +16,13 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+|  Hp | Strength | Defense |
+|----:|---------:|--------:|
+| 220 |       94 |      57 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

@@ -16,6 +16,13 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+|  Hp | Strength | Defense |
+|----:|---------:|--------:|
+| 530 |      219 |     152 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

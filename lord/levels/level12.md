@@ -16,6 +16,13 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+|    Hp | Strength | Defense |
+|------:|---------:|--------:|
+| 1,680 |      679 |     502 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

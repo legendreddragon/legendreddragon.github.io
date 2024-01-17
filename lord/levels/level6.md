@@ -16,6 +16,13 @@ The sixth level of the game is where things start getting a little more difficul
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+|  Hp | Strength | Defense |
+|----:|---------:|--------:|
+| 145 |       59 |      35 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance

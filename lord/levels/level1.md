@@ -16,6 +16,13 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 1. TOC
 {:toc}
 
+## Level Base Stats
+
+| Hp | Strength | Defense |
+|---:|---------:|--------:|
+| 20 |        5 |       0 |
+{: .levelstats }
+  
 ## Forest Monsters
 
 ### Monster Relevance
