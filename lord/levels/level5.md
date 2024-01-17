@@ -16,7 +16,7 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 5 Base Stats
 
 | Hp | Strength | Defense |
 |---:|---------:|--------:|

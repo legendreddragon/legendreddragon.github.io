@@ -16,7 +16,7 @@ The sixth level of the game is where things start getting a little more difficul
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 6 Base Stats
 
 |  Hp | Strength | Defense |
 |----:|---------:|--------:|

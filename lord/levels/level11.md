@@ -16,7 +16,7 @@ The eleventh level of the game is full of difficult Forest Monsters and is hard 
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 11 Base Stats
 
 |    Hp | Strength | Defense |
 |------:|---------:|--------:|

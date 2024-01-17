@@ -16,7 +16,7 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 9 Base Stats
 
 |  Hp | Strength | Defense |
 |----:|---------:|--------:|

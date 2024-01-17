@@ -16,7 +16,7 @@ The eighth level of the game is the the level most commonly used to build up Gol
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 8 Base Stats
 
 |  Hp | Strength | Defense |
 |----:|---------:|--------:|

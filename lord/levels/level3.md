@@ -16,7 +16,7 @@ The third level of the game is a relatively easy one, which should pose no probl
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 3 Base Stats
 
 | Hp | Strength | Defense |
 |---:|---------:|--------:|

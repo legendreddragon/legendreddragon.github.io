@@ -16,7 +16,7 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 10 Base Stats
 
 |  Hp | Strength | Defense |
 |----:|---------:|--------:|

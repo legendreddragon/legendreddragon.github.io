@@ -16,7 +16,7 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 7 Base Stats
 
 |  Hp | Strength | Defense |
 |----:|---------:|--------:|

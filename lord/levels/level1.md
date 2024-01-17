@@ -16,7 +16,7 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 1. TOC
 {:toc}
 
-## Level Base Stats
+## Level 1 Base Stats
 
 | Hp | Strength | Defense |
 |---:|---------:|--------:|
