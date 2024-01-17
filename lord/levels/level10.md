@@ -19,7 +19,7 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 | Strength | Sweet Looking Little Girl |
 | MaxHp    | Adult Gold Dragon         |
 | Exp      | Adult Gold Dragon         |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -62,7 +62,7 @@ Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon a
 |     4M | / | 400K   |       56 |            76 |
 |     4M | / | 1M     |       77 |            90 |
 |     4M | / | 4M     |       94 |            98 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -78,6 +78,6 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | Jennie "lady"       | 10,000            |
 | Room at the Inn     | 4,000             |
 | Bribe the Bartender | 16,000            |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

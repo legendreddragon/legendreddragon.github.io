@@ -19,7 +19,7 @@ The third level of the game is a relatively easy one, which should pose no probl
 | Strength | Winged Demon Of Death  |
 | MaxHp    | Two Headed Rotweiler   |
 | Exp      | Headbanger Of The West |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 |    10K | / | 1K     |       98 |            99 |
 |    10K | / | 3K     |       99 |            99 |
 |    10K | / | 10K    |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 | Jennie "lady"       | 3,000           |
 | Room at the Inn     | 1,200           |
 | Bribe the Bartender | 4,800           |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

@@ -19,7 +19,7 @@ The ninth level of the game can be difficult, but with the right Weapon and Armo
 | Strength | Earth Shaker |
 | MaxHp    | Ernest Brown |
 | Exp      | Rentakis Pet |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 |     4M | / | 400K   |       96 |            99 |
 |     4M | / | 1M     |       99 |            99 |
 |     4M | / | 4M     |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 | Jennie "lady"       | 9,000             |
 | Room at the Inn     | 3,600             |
 | Bribe the Bartender | 14,400            |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

@@ -19,7 +19,7 @@ The fourth level of the game is a relatively easy one, which should pose no prob
 | Strength | Huge Black Bear |
 | MaxHp    | Evil Hobbit     |
 | Exp      | Huge Black Bear |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 |    30K | / | 3K     |       80 |            92 |
 |    30K | / | 10K    |       91 |            97 |
 |    30K | / | 30K    |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 | Jennie "lady"       | 4,000           |
 | Room at the Inn     | 1,600           |
 | Bribe the Bartender | 6,400           |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

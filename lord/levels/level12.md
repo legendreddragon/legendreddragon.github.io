@@ -19,7 +19,7 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 | Strength | Mutated Black Widow  |
 | MaxHp    | Kal Torak            |
 | Exp      | Mutated Black Widow  |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -57,7 +57,7 @@ Level 12 is survivable with a Wan's Weapon and Full Body Armour. You will need t
 | Jennie "lady"       | 12,000              |
 | Room at the Inn     | 4,800               |
 | Bribe the Bartender | 19,200              |
-{: .sortable .levelgold }
+{: .levelgold }
   
 
 ### Special

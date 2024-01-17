@@ -19,7 +19,7 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 | Strength | Bran The Warrior |
 | MaxHp    | Bran The Warrior |
 | Exp      | Bran The Warrior |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 |    10K | / | 1K     |      99 |            99 |
 |    10K | / | 3K     |      99 |            99 |
 |    10K | / | 10K    |      99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,7 +79,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 | Jennie "lady"       | 1,000         |
 | Room at the Inn     | 400           |
 | Bribe the Bartender | Not Available |
-{: .sortable .levelgold }
+{: .levelgold }
   
 
 ### Special

@@ -19,7 +19,7 @@ The eleventh level of the game is full of difficult Forest Monsters and is hard 
 | Strength | ShadowStormWarrior |
 | MaxHp    | Shogun Warrior     |
 | Exp      | Mountain           |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -62,7 +62,7 @@ Turgon is the Level 11 master. He is most commonly fought with a Wan's Weapon an
 |     4M | / | 400K   |       29 |            45 |
 |     4M | / | 1M     |       39 |            57 |
 |     4M | / | 4M     |       61 |            77 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -78,6 +78,6 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | Jennie "lady"       | 11,000              |
 | Room at the Inn     | 4,400               |
 | Bribe the Bartender | 17,600              |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

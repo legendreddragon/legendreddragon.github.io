@@ -19,7 +19,7 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 | Strength | Silent Death               |
 | MaxHp    | Clancy, Son Of Emperor Len |
 | Exp      | Clancy, Son Of Emperor Len |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 |    30K | / | 3K     |       40 |            59 |
 |    30K | / | 10K    |       55 |            74 |
 |    30K | / | 30K    |       84 |            93 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 | Jennie "lady"       | 5,000            |
 | Room at the Inn     | 2,000            |
 | Bribe the Bartender | 8,000            |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

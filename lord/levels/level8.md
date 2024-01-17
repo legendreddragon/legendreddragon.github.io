@@ -19,7 +19,7 @@ The eighth level of the game is the the level most commonly used to build up Gol
 | Strength | King Vidion |
 | MaxHp    | Baby Dragon |
 | Exp      | King Vidion |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of D
 |     4M | / | 400K   |       99 |            99 |
 |     4M | / | 1M     |       99 |            99 |
 |     4M | / | 4M     |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 | Jennie "lady"       | 8,000             |
 | Room at the Inn     | 3,200             |
 | Bribe the Bartender | 12,800            |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

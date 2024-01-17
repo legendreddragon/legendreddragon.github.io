@@ -19,7 +19,7 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 | Strength | Goliath          |
 | MaxHp    | Massive Dinosaur |
 | Exp      | Massive Dinosaur |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 |   200K | / | 100K   |       33 |            50 |
 |   200K | / | 150K   |       51 |            69 |
 |   200K | / | 200K   |       82 |            92 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 | Jennie "lady"       | 7,000             |
 | Room at the Inn     | 2,800             |
 | Bribe the Bartender | 11,200            |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

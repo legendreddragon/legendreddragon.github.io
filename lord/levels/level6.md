@@ -19,7 +19,7 @@ The sixth level of the game is where things start getting a little more difficul
 | Strength | Belar      |
 | MaxHp    | Black Soul |
 | Exp      | Belar      |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 |   200K | / | 100K   |       91 |            97 |
 |   200K | / | 150K   |       98 |            99 |
 |   200K | / | 200K   |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 | Jennie "lady"       | 6,000             |
 | Room at the Inn     | 2,400             |
 | Bribe the Bartender | 9,600             |
-{: .sortable .levelgold }
+{: .levelgold }
   
 

@@ -19,7 +19,7 @@ The second level of the game is a relatively easy one, which should pose no prob
 | Strength | Brorandia The Viking        |
 | MaxHp    | Fredrick the Limping Baboon |
 | Exp      | Brorandia The Viking        |
-{: .sortable .monsterrank }
+{: .monsterrank }
   
 ### All Monsters
 
@@ -63,7 +63,7 @@ Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 |    10K | / | 1K     |       99 |            99 |
 |    10K | / | 3K     |       99 |            99 |
 |    10K | / | 10K    |       99 |            99 |
-{: .sortable .masterodds }
+{: .masterodds }
   
 ## Equipment
 
@@ -79,6 +79,6 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 | Jennie "lady"       | 2,000         |
 | Room at the Inn     | 800           |
 | Bribe the Bartender | 3,200         |
-{: .sortable .levelgold }
+{: .levelgold }
   
 
