@@ -385,22 +385,22 @@ window.addEventListener("keydown", function (event) {
 // the last option dispatches the event to the listener first,
 // then dispatches event to window
 
-
+Date.prototype.addHours = function (hours) {
+    const date = new Date(this.valueOf())
+    date.setTime(date.getTime() + hours * 60 * 60 * 1000)
+    return date
+}
 
 //var d = new Date(0); // epoch
 //var servertimeseconds = parseInt(document.getElementById("ServerTime").value);
 //d.setUTCSeconds(servertimeseconds);
-var serverTime = (new Date()).getTime().addHours(-3);
+var serverTime = (new Date()).addHours(-3);
+var serverTime = (new Date()).getTime();
 var timeDiff = (new Date()).getTime() - serverTime;
 var displaytime = new Date();
 var lastTime = "";
 
 function UpdateClock() {
-    Date.prototype.addHours = function (hours) {
-        const date = new Date(this.valueOf())
-        date.setTime(date.getTime() + hours * 60 * 60 * 1000)
-        return date
-    }
     
     displaytime.setTime((new Date()).getTime() - timeDiff);
 
