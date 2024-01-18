@@ -325,8 +325,8 @@ function processJennie(k) {
 
 //window.addEventListener("keyup touchend input", function (event) {
 window.addEventListener("keydown", function (event) {
-    //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
-    if (event.defaultPrevented) {
+    //if (event.defaultPrevented) {
+    if (event.defaultPrevented || (event.target.type === 'text') {
         return; // Do nothing if the event was already processed or is a text field
     }
     //console.log(event);
