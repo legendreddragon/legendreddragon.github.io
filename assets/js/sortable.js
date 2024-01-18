@@ -184,10 +184,10 @@ document.addEventListener('click', function (e) {
                 return false;
             }
             console.log('tapedTwice 3' + tapedTwice);
-            e.preventDefault();
+            //e.preventDefault();
+            alert('You tapped me Twice !!!');
             //action on double tap goes below
             document.getElementById('jennie-form').focus(true, false);
-            alert('You tapped me Twice !!!');
         }
     }
     catch (error) {
