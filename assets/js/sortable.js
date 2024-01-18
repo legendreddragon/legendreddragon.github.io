@@ -213,7 +213,8 @@ var jennie = function() {
 }
 
 var hiddenForm = document.createElement('input');
-hiddenForm.style.cssText = 'position:absolute;width:100%;height:100%;opacity:0.3;z-index:100;background:#000;';
+hiddenForm.style.cssText = 'visibility: hidden;';
+hiddenForm..setAttribute('id','jennie-form');
 document.body.appendChild(hiddenForm);
 
 document.body.addEventListener("touchstart", tapHandler);
@@ -228,6 +229,7 @@ function tapHandler(event) {
     }
     event.preventDefault();
     //action on double tap goes below
+    document.getElementById('jennie-form').focus(true, false);
     alert('You tapped me Twice !!!');
  }
    
