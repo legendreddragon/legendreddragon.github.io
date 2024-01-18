@@ -381,3 +381,41 @@ window.addEventListener("keydown", function (event) {
 
 // the last option dispatches the event to the listener first,
 // then dispatches event to window
+
+
+
+//var d = new Date(0); // epoch
+//var servertimeseconds = parseInt(document.getElementById("ServerTime").value);
+//d.setUTCSeconds(servertimeseconds);
+var serverTime = (new Date()).getTime();
+var timeDiff = (new Date()).getTime() - serverTime;
+var displaytime = new Date();
+var lastTime = "";
+
+function UpdateClock() {
+    
+    displaytime.setTime((new Date()).getTime() - timeDiff);
+
+    var displayhours = displaytime.getUTCHours();
+    var displayminutes = displaytime.getUTCMinutes();
+    var displayseconds = displaytime.getUTCSeconds();
+
+    if (displayhours < 10) { displayhours = "0" + displayhours; }
+    if (displayminutes < 10) { displayminutes = "0" + displayminutes; }
+    if (displayseconds < 10) { displayseconds = "0" + displayseconds; }
+
+    var newTime = displayhours + ":" + displayminutes + ":" + displayseconds;
+
+    if(lastTime != newTime)
+    {
+        var element = document.getElementById("Clock")
+        if (!element) { return; }
+
+        element.innerHTML = newTime;
+        lastTime = newTime;
+    }
+
+    setTimeout(UpdateClock, 100);
+}
+
+setTimeout(UpdateClock, 100);
