@@ -225,7 +225,7 @@ function addAriaAttributes() {
 
 window.onload = function(e) { 
     addAriaAttributes();
-    document.body.appendChild(hiddenForm);
+    //document.body.appendChild(hiddenForm);
     //dt = document.querySelectorAll('');
     //dt.addEventListener("touchstart", tapHandler);
     //document.addEventListener("touchstart", tapHandler);
