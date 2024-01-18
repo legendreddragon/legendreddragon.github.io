@@ -212,6 +212,26 @@ var jennie = function() {
 //    }
 }
 
+var hiddenForm = document.createElement('input');
+hiddenForm.style.cssText = 'position:absolute;width:100%;height:100%;opacity:0.3;z-index:100;background:#000;';
+document.body.appendChild(hiddenForm);
+
+document.body.addEventListener("touchstart", tapHandler);
+
+var tapedTwice = false;
+
+function tapHandler(event) {
+    if(!tapedTwice) {
+        tapedTwice = true;
+        setTimeout( function() { tapedTwice = false; }, 300 );
+        return false;
+    }
+    event.preventDefault();
+    //action on double tap goes below
+    alert('You tapped me Twice !!!');
+ }
+   
+
 typeJennie="";
 window.addEventListener("keyup", function (event) {
     if (event.defaultPrevented || event.target.type === 'text') {
