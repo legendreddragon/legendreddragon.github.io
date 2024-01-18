@@ -274,15 +274,7 @@ function tapHandler(event) {
    
 
 typeJennie="";
-//window.addEventListener("keyup touchend input", function (event) {
-window.addEventListener("keydown", function (event) {
-    //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
-    if (event.defaultPrevented) {
-        return; // Do nothing if the event was already processed or is a text field
-    }
-    //console.log(event);
-    //console.log(event.target);
-    k = event.key ? event.key.toLowerCase() : event.data.toLowerCase();
+function processJennie(k) {
     console.log(k);
     switch (k) {
     case "j":
@@ -310,9 +302,21 @@ window.addEventListener("keydown", function (event) {
         typeJennie="";
         return; // Quit when this doesn't handle the key event.
     }
+}
 
-  // Cancel the default action to avoid it being handled twice
-  event.preventDefault();
+//window.addEventListener("keyup touchend input", function (event) {
+window.addEventListener("keydown", function (event) {
+    //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
+    if (event.defaultPrevented) {
+        return; // Do nothing if the event was already processed or is a text field
+    }
+    //console.log(event);
+    //console.log(event.target);
+    k = event.key ? event.key.toLowerCase() : event.data.toLowerCase();
+    processJennie(k);
+
+    // Cancel the default action to avoid it being handled twice
+    event.preventDefault();
 }, true);
 // the last option dispatches the event to the listener first,
 // then dispatches event to window
