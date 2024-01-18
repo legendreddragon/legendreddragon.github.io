@@ -189,10 +189,15 @@ window.onload = addAriaAttributes;
 var jennie = function() {
     let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level11'];
     let jcode = prompt("", "");
-    if (levelPages.includes(jcode.toLowerCase())) {
-        window.open("/lord/levels/"+jcode.toLowerCase(), "_self");
+    jcode = jcode.toLowerCase();
+    if (levelPages.includes(jcode)) {
+        window.open("/lord/levels/"+jcode, "_self");
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
+    } else if (jcode == 'home') {
+        window.open("/lord/", "_self");
+    } else if (jcode == 'lord') {
+        window.open("https://legendreddragon.net/", "_blank");
     }
 //    if (jcode != null) {
 //        document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
