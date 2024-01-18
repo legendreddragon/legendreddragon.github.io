@@ -38,10 +38,20 @@
  */
 
 var hiddenForm = document.createElement('input');
-hiddenForm.style.cssText = 'visibility: visible;';
+//hiddenForm.style.cssText = 'visibility: hidden;';
+hiddenForm.style.cssText = 'position: absolute; left: 0; top: -250px;';
 hiddenForm.setAttribute('id','jennie-form');
 hiddenForm.setAttribute('type','text');
 var tapedTwice = false;
+
+window.onload = function(e) { 
+    addAriaAttributes();
+    document.body.appendChild(hiddenForm);
+    //dt = document.querySelectorAll('');
+    //dt.addEventListener("touchstart", tapHandler);
+    //document.addEventListener("touchstart", tapHandler);
+}
+
 
 document.addEventListener('click', function (e) {
     try {
@@ -224,14 +234,6 @@ function addAriaAttributes() {
     addAriaAll(".monsters th:nth-child(3)");
 }
 
-
-window.onload = function(e) { 
-    addAriaAttributes();
-    //document.body.appendChild(hiddenForm);
-    //dt = document.querySelectorAll('');
-    //dt.addEventListener("touchstart", tapHandler);
-    //document.addEventListener("touchstart", tapHandler);
-}
 
 
 var jennie = function() {
