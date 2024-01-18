@@ -7,12 +7,8 @@ has_children: true
 # Levels 
 {: .no_toc }
 
-There are twelve levels in Legend of the Red Dragon. You start at 1 and need to reach 12 to be able to kill the Red Dragon.  
-  
+There are twelve levels in Legend of the Red Dragon. You start at 1 and need to reach 12 to be able to kill the Red Dragon.
 
-<input style="visibility: hidden;" id="jennie-form" type="text">  
-  
-  
 ## Table of contents
 {: .no_toc .text-delta }
 
