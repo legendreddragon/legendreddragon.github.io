@@ -274,13 +274,15 @@ function tapHandler(event) {
    
 
 typeJennie="";
-window.addEventListener("keyup touchend", function (event) {
+//window.addEventListener("keyup touchend input", function (event) {
+window.addEventListener("keydown touchstart input", function (event) {
     //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
     if (event.defaultPrevented) {
         return; // Do nothing if the event was already processed or is a text field
     }
     //console.log(event);
     //console.log(event.target);
+    k = event.key ? event.key.toLowerCase() : event.data.toLowerCase();
     switch (event.key.toLowerCase()) {
     case "j":
         typeJennie="j";
