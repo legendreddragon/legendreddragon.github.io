@@ -214,7 +214,7 @@ var jennie = function() {
 
 var hiddenForm = document.createElement('input');
 hiddenForm.style.cssText = 'visibility: hidden;';
-hiddenForm..setAttribute('id','jennie-form');
+hiddenForm.setAttribute('id','jennie-form');
 document.body.appendChild(hiddenForm);
 
 document.body.addEventListener("touchstart", tapHandler);
