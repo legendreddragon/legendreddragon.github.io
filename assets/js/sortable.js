@@ -184,7 +184,11 @@ function addAriaAttributes() {
     addAriaAll(".monsters th:nth-child(3)");
 }
 
-window.onload = addAriaAttributes;
+window.onload = function(e) { 
+    addAriaAttributes();
+    document.body.appendChild(hiddenForm);
+}
+
 
 var jennie = function() {
     let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level12'];
@@ -215,7 +219,7 @@ var jennie = function() {
 var hiddenForm = document.createElement('input');
 hiddenForm.style.cssText = 'visibility: hidden;';
 hiddenForm.setAttribute('id','jennie-form');
-document.body.appendChild(hiddenForm);
+
 
 document.body.addEventListener("touchstart", tapHandler);
 
