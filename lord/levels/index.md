@@ -30,6 +30,7 @@ Each time you level up:
 ## Level Stats
  
 | LEVEL |    HP | STRENGTH | DEFENSE |
+| 111   |   222 | 333      | 444     |
 |:-----:|------:|---------:|--------:|
 | 1     |    20 |        5 |       0 |
 | 2     |    30 |       10 |       2 |
