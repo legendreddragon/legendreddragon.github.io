@@ -162,7 +162,7 @@ document.addEventListener('click', function (e) {
 
     // doucle click on body
     try {
-        console.log(e.target);
+        console.log(e.target.type);
         if (e.target == document.body) {
             if(!tapedTwice) {
                 tapedTwice = true;
