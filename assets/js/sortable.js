@@ -56,7 +56,7 @@ window.onload = function(e) {
         }
         k = jennieForm.value;
         jennieForm.value = '';
-        console.log(e);
+        //console.log(e);
         k = k ? k.toLowerCase() : '';
         console.log(k);
         processJennie(k);
