@@ -195,7 +195,7 @@ var jennie = function() {
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
     } else if (jcode == 'home') {
-        window.open("/lord/", "_self");
+        window.open("/", "_self");
     } else if (jcode == 'lord') {
         window.open("https://legendreddragon.net/", "_blank");
     }
