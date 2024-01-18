@@ -196,8 +196,12 @@ var jennie = function() {
         window.open("/lord/levels", "_self");
     } else if (jcode == 'home') {
         window.open("/", "_self");
-    } else if (jcode == 'lord') {
+    } else if (jcode == 'lord' || jcode == 'play') {
         window.open("https://legendreddragon.net/", "_blank");
+    } else if (jcode == 'status') {
+        window.open("https://status.gearhost.com/", "_blank");
+    } else if (jcode == 'forum') {
+        window.open("https://www.facebook.com/groups/1556690911146602", "_blank");
     }
 //    if (jcode != null) {
 //        document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
