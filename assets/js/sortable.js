@@ -298,29 +298,47 @@ function processJennie(k) {
     switch (k) {
     case "j":
         typeJennie="j";
+        return true;
         break;
     case "e":
-        if (typeJennie === 'j') typeJennie="je"
-        else if (typeJennie === 'jenni') {
+        if (typeJennie === 'j') {
+            typeJennie="je";
+            return true;
+        } else if (typeJennie === 'jenni') {
             //alert("You are a Jennie!\nWell Done!")
+            typeJennie="";
             jennie();
-            typeJennie=""
-        } else typeJennie="";
+            return true;
+        } else {
+            typeJennie="";
+        }
         break;
     case "n":
-        if (typeJennie === 'je') typeJennie="jen"
-        else if (typeJennie === 'jen') typeJennie="jenn"
-        else typeJennie="";
+        if (typeJennie === 'je') {
+            typeJennie="jen";
+            return true;
+        } else if (typeJennie === 'jen') {
+            typeJennie="jenn";
+            return true;
+        } else { 
+            typeJennie="";
+        }
         break;
     case "i":
         // code for "right arrow" key press.
-        if (typeJennie === 'jenn') typeJennie="jenni"
-        else typeJennie="";
+        if (typeJennie === 'jenn') {
+            typeJennie="jenni";
+            return true;
+        }
+        else {
+            typeJennie="";
+        }
         break;
     default:
         typeJennie="";
-        return; // Quit when this doesn't handle the key event.
+        return false; // Quit when this doesn't handle the key event.
     }
+    return false;
 }
 
 //window.addEventListener("keyup touchend input", function (event) {
@@ -332,10 +350,11 @@ window.addEventListener("keydown", function (event) {
     //console.log(event);
     //console.log(event.target);
     k = event.key ? event.key.toLowerCase() : '';
-    processJennie(k);
-
-    // Cancel the default action to avoid it being handled twice
-    event.preventDefault();
+    if (processJennie(k)) {
+        // Cancel the default action to avoid it being handled twice
+        event.preventDefault();
+    }
+   
 }, true);
 
 // the last option dispatches the event to the listener first,
