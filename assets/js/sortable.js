@@ -205,8 +205,8 @@ document.addEventListener('click', function (e) {
         //console.log('5 => ' + e.target.tagName);
         //console.log('4 => ' + e.target.attr('type'));
 
-        if (e.target.tagName == 'H1' || e.target.tagName == 'H2') {
-            console.log('tapedTwice 1' + tapedTwice);
+        if (e.target.tagName == 'H1') {
+            //console.log('tapedTwice 1' + tapedTwice);
             if(!tapedTwice) {
                 //console.log('tapedTwice 2' + tapedTwice);
                 tapedTwice = true;
@@ -215,7 +215,7 @@ document.addEventListener('click', function (e) {
             }
             
             e.preventDefault();
-            console.log('Double-Click!' + tapedTwice);
+            //console.log('Double-Click!' + tapedTwice);
             //alert('You tapped me Twice !!!');
             //action on double tap goes below
             jform = document.getElementById('jennie-form');
