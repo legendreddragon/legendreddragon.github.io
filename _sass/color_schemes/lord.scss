@@ -14,15 +14,16 @@ $link-color: #9e0000;
 }
 
 $tcorner: 7px;
-th:first-of-type {
+
+th:first-of-type, table {
     border-top-left-radius: $tcorner;
 }
-th:last-of-type {
+th:last-of-type, table {
     border-top-right-radius: $tcorner;
 }
-tr:last-of-type td:first-of-type {
+tr:last-of-type td:first-of-type, table {
     border-bottom-left-radius: $tcorner;
 }
-tr:last-of-type td:last-of-type {
+tr:last-of-type td:last-of-type, table {
     border-bottom-right-radius: $tcorner;
 }
