@@ -194,7 +194,7 @@ var jennie = function() {
         window.open("/lord/levels/"+jcode, "_self");
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
-    } else if (jcode == 'home') {
+    } else if (jcode == 'home' || jcode == 'wiki') {
         window.open("/", "_self");
     } else if (jcode == 'lord' || jcode == 'play') {
         window.open("https://legendreddragon.net/", "_blank");
@@ -202,6 +202,10 @@ var jennie = function() {
         window.open("https://status.gearhost.com/", "_blank");
     } else if (jcode == 'forum') {
         window.open("https://www.facebook.com/groups/1556690911146602", "_blank");
+    } else if (jcode == 'about') {
+        window.open("https://legendreddragon.net/About", "_blank");
+    } else if (jcode == 'oldwiki') {
+        window.open("https://nuklearlord.fandom.com/wiki/Special:AllPages", "_blank");
     }
 //    if (jcode != null) {
 //        document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
