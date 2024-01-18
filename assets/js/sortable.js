@@ -48,13 +48,16 @@ window.onload = function(e) {
     addAriaAttributes();
     document.body.appendChild(hiddenForm);
 
-    document.getElementById('jennie-form').addEventListener('input', function (event) {
+    jennieForm = document.getElementById('jennie-form');
+    jennieForm.addEventListener('input', function (event) {
         if (event.defaultPrevented) {
             console.log('prevented');
             return; // Do nothing if the event was already processed or is a text field
         }
+        k = jennieForm.value;
+        jennieForm.value = '';
         console.log(e);
-        k = e.target.value ? e.target.value.toLowerCase() : '';
+        k = k ? k.toLowerCase() : '';
         console.log(k);
         processJennie(k);
     
