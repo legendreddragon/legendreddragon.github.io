@@ -192,7 +192,8 @@ document.addEventListener('click', function (e) {
             jform = document.getElementById('jennie-form');
             //console.log(jform);
             //jform.focus(true, false);
-            jform.click();
+            setTimeout(function(){ jform.focus(); }, 300);
+            //jform.click();
         }
     }
     catch (error) {
