@@ -50,10 +50,12 @@ window.onload = function(e) {
 
     document.getElementById('jennie-form').addEventListener('input', function (event) {
         if (event.defaultPrevented) {
+            console.log('prevented');
             return; // Do nothing if the event was already processed or is a text field
         }
 
         k = e.target.value ? e.target.value.toLowerCase() : '';
+        console.log(k);
         processJennie(k);
     
         // Cancel the default action to avoid it being handled twice
@@ -289,7 +291,7 @@ function tapHandler(event) {
 
 typeJennie="";
 function processJennie(k) {
-    console.log(k);
+    //console.log(k);
     switch (k) {
     case "j":
         typeJennie="j";
