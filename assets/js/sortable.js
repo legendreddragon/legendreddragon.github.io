@@ -187,8 +187,11 @@ function addAriaAttributes() {
 window.onload = addAriaAttributes;
 
 var jennie = function() {
+    let lordPages = ['levels','level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11'];
     let jcode = prompt("", "");
-    if (jcode == 'levels' || jcode == 'level') {
+    if (lordPages.includes(jcode)) {
+        window.open("/lord/"+jcode, "_self");
+    } else if (jcode == 'level') {
         window.open("/lord/levels", "_self");
     }
 //    if (jcode != null) {
