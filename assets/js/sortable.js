@@ -184,9 +184,15 @@ function addAriaAttributes() {
     addAriaAll(".monsters th:nth-child(3)");
 }
 
+var hiddenForm = document.createElement('input');
+hiddenForm.style.cssText = 'visibility: hidden;';
+hiddenForm.setAttribute('id','jennie-form');
+
+
 window.onload = function(e) { 
     addAriaAttributes();
     document.body.appendChild(hiddenForm);
+    document.body.addEventListener("touchstart", tapHandler);
 }
 
 
@@ -211,20 +217,10 @@ var jennie = function() {
     } else if (jcode == 'oldwiki') {
         window.open("https://nuklearlord.fandom.com/wiki/Special:AllPages", "_blank");
     }
-//    if (jcode != null) {
-//        document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
-//    }
 }
 
-var hiddenForm = document.createElement('input');
-hiddenForm.style.cssText = 'visibility: hidden;';
-hiddenForm.setAttribute('id','jennie-form');
-
-
-document.body.addEventListener("touchstart", tapHandler);
 
 var tapedTwice = false;
-
 function tapHandler(event) {
     if(!tapedTwice) {
         tapedTwice = true;
