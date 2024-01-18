@@ -81,12 +81,12 @@ window.onload = function(e) {
     //document.addEventListener("touchstart", tapHandler);
 
     const clockDiv = document.createElement("div");
-    clockDiv.style.backgroundColor = 'gray';
-    clockDiv.style.width  = '100%';
-    clockDiv.style.height = '72px';
+    //clockDiv.style.backgroundColor = 'gray';
+    //clockDiv.style.width  = '100%';
+    //clockDiv.style.height = '72px';
     clockDiv.setAttribute('id','Clock');
-    const siteNav = document.getElementById('site-nav');
     clockDiv.textContent = "00:00:00";
+    const siteNav = document.getElementById('site-nav');
     siteNav.style.paddingTop = '1rem';
     siteNav.insertAdjacentElement("beforebegin", clockDiv);
     //siteNav.style.cssText = 'position: absolute; left: 0; top: -250px;';
