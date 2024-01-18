@@ -81,7 +81,7 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 |     4M | / | 400K   |       96 |            99 |
 |     4M | / | 1M     |       99 |            99 |
 |     4M | / | 4M     |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

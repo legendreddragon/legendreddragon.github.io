@@ -81,7 +81,7 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 |    30K | / | 3K     |       80 |            92 |
 |    30K | / | 10K    |       91 |            97 |
 |    30K | / | 30K    |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

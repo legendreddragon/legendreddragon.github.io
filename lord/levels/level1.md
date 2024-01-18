@@ -81,7 +81,7 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 |    10K | / | 1K     |      99 |           99 |
 |    10K | / | 3K     |      99 |           99 |
 |    10K | / | 10K    |      99 |           99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

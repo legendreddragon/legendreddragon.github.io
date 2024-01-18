@@ -81,7 +81,7 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 |   200K | / | 100K   |       33 |            50 |
 |   200K | / | 150K   |       51 |            69 |
 |   200K | / | 200K   |       82 |            92 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

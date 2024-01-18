@@ -81,7 +81,7 @@ Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of D
 |     4M | / | 400K   |       99 |            99 |
 |     4M | / | 1M     |       99 |            99 |
 |     4M | / | 4M     |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

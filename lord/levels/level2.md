@@ -81,7 +81,7 @@ Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 |    10K | / | 1K     |       99 |            99 |
 |    10K | / | 3K     |       99 |            99 |
 |    10K | / | 10K    |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

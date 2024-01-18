@@ -80,7 +80,7 @@ Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon a
 |     4M | / | 400K   |       56 |            76 |
 |     4M | / | 1M     |       77 |            90 |
 |     4M | / | 4M     |       94 |            98 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

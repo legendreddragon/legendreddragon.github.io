@@ -81,7 +81,7 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 |    30K | / | 3K     |       40 |            59 |
 |    30K | / | 10K    |       55 |            74 |
 |    30K | / | 30K    |       84 |            93 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

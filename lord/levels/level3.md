@@ -81,7 +81,7 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 |    10K | / | 1K     |       98 |            99 |
 |    10K | / | 3K     |       99 |            99 |
 |    10K | / | 10K    |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 

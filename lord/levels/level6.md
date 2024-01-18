@@ -81,7 +81,7 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 |   200K | / | 100K   |       91 |            97 |
 |   200K | / | 150K   |       98 |            99 |
 |   200K | / | 200K   |       99 |            99 |
-{: .masterodds }
+{: .sortable .masterodds }
   
 ## Gold Winnings and Costs
 
