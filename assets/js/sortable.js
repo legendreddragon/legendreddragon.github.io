@@ -186,6 +186,16 @@ function addAriaAttributes() {
 
 window.onload = addAriaAttributes;
 
+var jennie = function() {
+    let jcode = prompt("", "");
+    if (jcode == 'levels' || jcode == 'level') {
+        window.open("/lord/levels", "_self");
+    }
+//    if (jcode != null) {
+//        document.getElementById("demo").innerHTML = "Hello " + person + "! How are you today?";
+//    }
+}
+
 typeJennie="";
 window.addEventListener("keyup", function (event) {
     if (event.defaultPrevented || event.target.type === 'text') {
@@ -200,7 +210,8 @@ window.addEventListener("keyup", function (event) {
     case "e":
         if (typeJennie === 'j') typeJennie="je"
         else if (typeJennie === 'jenni') {
-            alert("You are a Jennie!\nWell Done!")
+            //alert("You are a Jennie!\nWell Done!")
+            jennie();
             typeJennie=""
         } else typeJennie="";
         break;
