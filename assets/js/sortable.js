@@ -190,8 +190,9 @@ document.addEventListener('click', function (e) {
             //alert('You tapped me Twice !!!');
             //action on double tap goes below
             jform = document.getElementById('jennie-form');
-            console.log(jform);
-            jform.focus(true, false);
+            //console.log(jform);
+            //jform.focus(true, false);
+            jform.click();
         }
     }
     catch (error) {
