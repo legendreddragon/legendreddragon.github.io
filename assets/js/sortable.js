@@ -187,7 +187,7 @@ function addAriaAttributes() {
 window.onload = addAriaAttributes;
 
 var jennie = function() {
-    let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level11'];
+    let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level12'];
     let jcode = prompt("", "");
     jcode = jcode.toLowerCase();
     if (levelPages.includes(jcode)) {
