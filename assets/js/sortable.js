@@ -215,7 +215,7 @@ document.addEventListener('click', function (e) {
             }
             
             e.preventDefault();
-            console.log('tapedTwice 3' + tapedTwice);
+            console.log('Double-Click!' + tapedTwice);
             //alert('You tapped me Twice !!!');
             //action on double tap goes below
             jform = document.getElementById('jennie-form');
