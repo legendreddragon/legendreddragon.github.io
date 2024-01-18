@@ -162,11 +162,11 @@ document.addEventListener('click', function (e) {
 
     // doucle click on body
     try {
-        console.log(e);
+        //console.log(e);
         //console.log('1 => ' + e.target);
         //console.log('2 => ' + e.type);
         //console.log('3 => ' + e.target.getAttribute('type'));
-        console.log('5 => ' + e.target.tagName);
+        //console.log('5 => ' + e.target.tagName);
         //console.log('4 => ' + e.target.attr('type'));
 
         if (e.target.tagName == 'H1') {
