@@ -157,7 +157,25 @@ document.addEventListener('click', function (e) {
         }
     }
     catch (error) {
-        // console.log(error)
+        console.log(error)
+    }
+
+    // doucle click on body
+    try {
+        if (e.target == document.body) {
+            if(!tapedTwice) {
+                tapedTwice = true;
+                setTimeout( function() { tapedTwice = false; }, 300 );
+                return false;
+            }
+            e.preventDefault();
+            //action on double tap goes below
+            document.getElementById('jennie-form').focus(true, false);
+            alert('You tapped me Twice !!!');
+        }
+    }
+    catch (error) {
+        console.log(error)
     }
 });
 
@@ -192,7 +210,9 @@ hiddenForm.setAttribute('id','jennie-form');
 window.onload = function(e) { 
     addAriaAttributes();
     document.body.appendChild(hiddenForm);
-    document.body.addEventListener("touchstart", tapHandler);
+    //dt = document.querySelectorAll('');
+    //dt.addEventListener("touchstart", tapHandler);
+    //document.addEventListener("touchstart", tapHandler);
 }
 
 
