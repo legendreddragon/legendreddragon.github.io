@@ -187,10 +187,10 @@ function addAriaAttributes() {
 window.onload = addAriaAttributes;
 
 var jennie = function() {
-    let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11'];
+    let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level11'];
     let jcode = prompt("", "");
-    if (levelPages.includes(jcode)) {
-        window.open("/lord/levels/"+jcode, "_self");
+    if (levelPages.includes(jcode.toLowerCase())) {
+        window.open("/lord/levels/"+jcode.toLowerCase(), "_self");
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
     }
