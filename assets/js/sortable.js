@@ -205,7 +205,7 @@ document.addEventListener('click', function (e) {
         //console.log('5 => ' + e.target.tagName);
         //console.log('4 => ' + e.target.attr('type'));
 
-        if (e.target.tagName == 'H1') {
+        if (e.target.tagName == 'H1' || e.target.tagName == 'H2') {
             //console.log('tapedTwice 1' + tapedTwice);
             if(!tapedTwice) {
                 //console.log('tapedTwice 2' + tapedTwice);
@@ -221,7 +221,7 @@ document.addEventListener('click', function (e) {
             jform = document.getElementById('jennie-form');
             //console.log(jform);
             //jform.focus(true, false);
-            setTimeout(function(){ jform.focus(); }, 150);
+            setTimeout(function(){ jform.focus(true, false); }, 150);
             //jform.click();
         }
     }
