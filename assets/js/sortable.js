@@ -169,7 +169,7 @@ document.addEventListener('click', function (e) {
         console.log('5 => ' + e.target.tagName);
         //console.log('4 => ' + e.target.attr('type'));
 
-        if (e.target == document.body) {
+        if (e.target.tagName == 'H1') {
             if(!tapedTwice) {
                 tapedTwice = true;
                 setTimeout( function() { tapedTwice = false; }, 300 );
