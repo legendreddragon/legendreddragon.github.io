@@ -47,10 +47,22 @@ var tapedTwice = false;
 window.onload = function(e) { 
     addAriaAttributes();
     document.body.appendChild(hiddenForm);
+
+    document.getElementById('jennie-form').addEventListener('input', function (event) {
+        if (event.defaultPrevented) {
+            return; // Do nothing if the event was already processed or is a text field
+        }
+        k = e.target.value ? e.target.value.toLowerCase() : '';
+        processJennie(k);
+    
+        // Cancel the default action to avoid it being handled twice
+        event.preventDefault();
+    }, true);
     //dt = document.querySelectorAll('');
     //dt.addEventListener("touchstart", tapHandler);
     //document.addEventListener("touchstart", tapHandler);
 }
+
 
 
 document.addEventListener('click', function (e) {
