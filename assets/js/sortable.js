@@ -176,12 +176,14 @@ document.addEventListener('click', function (e) {
         //console.log('4 => ' + e.target.attr('type'));
 
         if (e.target.tagName == 'H1') {
-            console.log('CLICK ON ' + e.target.tagName);
+            console.log('tapedTwice 1' + tapedTwice);
             if(!tapedTwice) {
+                console.log('tapedTwice 2' + tapedTwice);
                 tapedTwice = true;
                 setTimeout( function() { tapedTwice = false; }, 300 );
                 return false;
             }
+            console.log('tapedTwice 3' + tapedTwice);
             e.preventDefault();
             //action on double tap goes below
             document.getElementById('jennie-form').focus(true, false);
