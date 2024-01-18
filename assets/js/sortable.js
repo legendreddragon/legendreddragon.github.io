@@ -157,11 +157,12 @@ document.addEventListener('click', function (e) {
         }
     }
     catch (error) {
-        console.log(error)
+        //console.log(error)
     }
 
     // doucle click on body
     try {
+        console.log(e.target);
         if (e.target == document.body) {
             if(!tapedTwice) {
                 tapedTwice = true;
@@ -175,7 +176,7 @@ document.addEventListener('click', function (e) {
         }
     }
     catch (error) {
-        console.log(error)
+        //console.log(error)
     }
 });
 
