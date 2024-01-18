@@ -53,7 +53,7 @@ window.onload = function(e) {
             console.log('prevented');
             return; // Do nothing if the event was already processed or is a text field
         }
-
+        console.log(e);
         k = e.target.value ? e.target.value.toLowerCase() : '';
         console.log(k);
         processJennie(k);
