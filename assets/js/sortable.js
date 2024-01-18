@@ -274,7 +274,7 @@ function tapHandler(event) {
    
 
 typeJennie="";
-window.addEventListener("keyup", function (event) {
+window.addEventListener("keyup touchend", function (event) {
     //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
     if (event.defaultPrevented) {
         return; // Do nothing if the event was already processed or is a text field
