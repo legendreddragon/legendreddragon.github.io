@@ -86,9 +86,9 @@ window.onload = function(e) {
     clockDiv.style.height = '72px';
     clockDiv.setAttribute('id','Clock');
     const siteNav = document.getElementById('site-nav');
+    siteNav.style.paddingTop = '1rem';
     siteNav.insertAdjacentElement("beforebegin", clockDiv);
     //siteNav.style.cssText = 'position: absolute; left: 0; top: -250px;';
-    siteNav.style.paddingTop = '1 rem !important';
 }
 
 
