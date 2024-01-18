@@ -40,6 +40,7 @@
 var hiddenForm = document.createElement('input');
 hiddenForm.style.cssText = 'visibility: visible;';
 hiddenForm.setAttribute('id','jennie-form');
+hiddenForm.setAttribute('type','text');
 var tapedTwice = false;
 
 document.addEventListener('click', function (e) {
