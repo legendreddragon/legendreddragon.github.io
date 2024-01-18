@@ -239,7 +239,7 @@ function addAriaAttributes() {
 var jennie = function() {
     let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level12'];
     let jcode = prompt("", "");
-    jcode = jcode.toLowerCase();
+    jcode = jcode ? jcode.toLowerCase() : null;
     if (levelPages.includes(jcode)) {
         window.open("/lord/levels/"+jcode, "_self");
     } else if (jcode == 'level' || jcode == 'levels') {
@@ -275,7 +275,7 @@ function tapHandler(event) {
 
 typeJennie="";
 //window.addEventListener("keyup touchend input", function (event) {
-window.addEventListener("keyup", function (event) {
+window.addEventListener("keydown", function (event) {
     //if (event.defaultPrevented || (event.target.type === 'text' && event.target.getAttribute('id') != 'jennie-form')) {
     if (event.defaultPrevented) {
         return; // Do nothing if the event was already processed or is a text field
