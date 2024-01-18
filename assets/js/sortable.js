@@ -51,15 +51,7 @@ var tapedTwice = false; // detects double-click / tap
 
 
 
-const clockDiv = document.createElement("div");
-clockDiv.style.backgroundColor = 'red';
-clockDiv.style.width  = '100%';
-clockDiv.style.height = '72px';
-clockDiv.setAttribute('id','Clock');
-const siteNav = document.getElementById('site-nav');
-siteNav.insertAdjacentElement("beforebegin", clockDiv);
-siteNav.style.cssText = 'position: absolute; left: 0; top: -250px;';
-siteNav.style.paddingTop = '1 rem !important';
+
 
 
 
@@ -87,6 +79,16 @@ window.onload = function(e) {
     //dt = document.querySelectorAll('');
     //dt.addEventListener("touchstart", tapHandler);
     //document.addEventListener("touchstart", tapHandler);
+
+    const clockDiv = document.createElement("div");
+    clockDiv.style.backgroundColor = 'red';
+    clockDiv.style.width  = '100%';
+    clockDiv.style.height = '72px';
+    clockDiv.setAttribute('id','Clock');
+    const siteNav = document.getElementById('site-nav');
+    siteNav.insertAdjacentElement("beforebegin", clockDiv);
+    siteNav.style.cssText = 'position: absolute; left: 0; top: -250px;';
+    siteNav.style.paddingTop = '1 rem !important';
 }
 
 
