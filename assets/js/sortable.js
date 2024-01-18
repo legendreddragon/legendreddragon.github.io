@@ -115,7 +115,25 @@ document.addEventListener('click', function (e) {
                     }
                     return Number(token);
                 };
-                var temp = humanNotation(x) - humanNotation(y);
+                // compare
+                var temp = 0;
+                // check for Weapon / Armour sorting
+                xSplit = x.split('/', 3);
+                ySplit = y.split('/', 3);
+                if (xSplit.length == 2 && ySplit.length == 2) {
+                    x1 = humanNotation(xSplit[0]);
+                    x2 = humanNotation(xSplit[1]);
+                    y1 = humanNotation(ySplit[0]);
+                    y2 = humanNotation(ySplit[1]);
+                    if (!isNaN(x1) || !isNaN(x2) || !isNaN(y1) || !isNaN(y1)) {
+                        temp = x1 - y1;
+                        temp = temp == 0 ? x2 - y2 : temp;
+                    } else {
+                        temp = humanNotation(x) - humanNotation(y);
+                    }
+                } else {
+                    temp = humanNotation(x) - humanNotation(y);
+                }
                 var bool = isNaN(temp) ? x.localeCompare(y) : temp;
                 return reverse_1 ? -bool : bool;
             };
