@@ -16,6 +16,7 @@ vendor/
 
 # Parser
 parseAndPublish.sh
+publish.sh
 
 # Test files
 levels.html
