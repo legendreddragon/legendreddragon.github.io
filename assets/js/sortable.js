@@ -36,6 +36,12 @@
  * For more information, please refer to <http://unlicense.org>
  *
  */
+
+var hiddenForm = document.createElement('input');
+hiddenForm.style.cssText = 'visibility: hidden;';
+hiddenForm.setAttribute('id','jennie-form');
+var tapedTwice = false;
+
 document.addEventListener('click', function (e) {
     try {
         // allows for elements inside TH
@@ -210,10 +216,6 @@ function addAriaAttributes() {
     addAriaAll(".monsters th:nth-child(3)");
 }
 
-var hiddenForm = document.createElement('input');
-hiddenForm.style.cssText = 'visibility: hidden;';
-hiddenForm.setAttribute('id','jennie-form');
-
 
 window.onload = function(e) { 
     addAriaAttributes();
@@ -248,7 +250,6 @@ var jennie = function() {
 }
 
 
-var tapedTwice = false;
 function tapHandler(event) {
     if(!tapedTwice) {
         tapedTwice = true;
