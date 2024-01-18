@@ -395,7 +395,7 @@ Date.prototype.addHours = function (hours) {
 //var servertimeseconds = parseInt(document.getElementById("ServerTime").value);
 //d.setUTCSeconds(servertimeseconds);
 var serverTime = (new Date()).addHours(-3);
-var serverTime = (new Date()).getTime();
+var serverTime = serverTime.getTime();
 var timeDiff = (new Date()).getTime() - serverTime;
 console.log(timeDiff);
 var displaytime = new Date();
