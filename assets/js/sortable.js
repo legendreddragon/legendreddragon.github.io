@@ -176,9 +176,9 @@ document.addEventListener('click', function (e) {
         //console.log('4 => ' + e.target.attr('type'));
 
         if (e.target.tagName == 'H1') {
-            console.log('tapedTwice 1' + tapedTwice);
+            //console.log('tapedTwice 1' + tapedTwice);
             if(!tapedTwice) {
-                console.log('tapedTwice 2' + tapedTwice);
+                //console.log('tapedTwice 2' + tapedTwice);
                 tapedTwice = true;
                 setTimeout( function() { tapedTwice = false; }, 300 );
                 return false;
@@ -188,7 +188,9 @@ document.addEventListener('click', function (e) {
             console.log('tapedTwice 3' + tapedTwice);
             alert('You tapped me Twice !!!');
             //action on double tap goes below
-            document.getElementById('jennie-form').focus(true, false);
+            jform = document.getElementById('jennie-form');
+            console.log(jform);
+            jform.focus(true, false);
         }
     }
     catch (error) {
