@@ -51,14 +51,14 @@ window.onload = function(e) {
     jennieForm = document.getElementById('jennie-form');
     jennieForm.addEventListener('input', function (event) {
         if (event.defaultPrevented) {
-            console.log('prevented');
+            //console.log('prevented');
             return; // Do nothing if the event was already processed or is a text field
         }
         k = jennieForm.value;
         jennieForm.value = '';
         //console.log(e);
         k = k ? k.toLowerCase() : '';
-        console.log(k);
+        //console.log(k);
         processJennie(k);
     
         // Cancel the default action to avoid it being handled twice
