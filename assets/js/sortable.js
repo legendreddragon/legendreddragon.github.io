@@ -221,7 +221,7 @@ document.addEventListener('click', function (e) {
             jform = document.getElementById('jennie-form');
             //console.log(jform);
             //jform.focus(true, false);
-            setTimeout(function(){ jform.focus(); }, 150);
+            setTimeout(function(){ jform.focus({ preventScroll: true }); }, 100);
             //jform.click();
         }
     }
