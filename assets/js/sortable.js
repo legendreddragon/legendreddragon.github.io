@@ -48,13 +48,6 @@ hiddenForm.setAttribute('type','text');
 var tapedTwice = false; // detects double-click / tap
 
 
-
-
-
-
-
-
-
 window.onload = function(e) { 
     setTimeout(UpdateClock, 100);
 
@@ -89,9 +82,10 @@ window.onload = function(e) {
     //clockDiv.style.height = '72px';
     clockDiv.setAttribute('id','Clock');
     clockDiv.textContent = "00:00:00";
-    const siteNav = document.getElementById('site-nav');
-    siteNav.style.paddingTop = '1rem';
-    siteNav.insertAdjacentElement("beforebegin", clockDiv);
+    //const siteNav = document.getElementById('site-nav');
+    //siteNav.style.paddingTop = '1rem';
+    const eAfter = document.getElementById('menu-button');
+    eAfter.insertAdjacentElement("beforebegin", clockDiv);
     //siteNav.style.cssText = 'position: absolute; left: 0; top: -250px;';
 }
 
@@ -397,7 +391,7 @@ Date.prototype.addHours = function (hours) {
 var serverTime = (new Date()).addHours(-3);
 serverTime = serverTime.getTime();
 var timeDiff = (new Date()).getTime() - serverTime;
-console.log(timeDiff);
+//console.log(timeDiff);
 var displaytime = new Date();
 var lastTime = "";
 
