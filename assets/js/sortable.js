@@ -52,12 +52,14 @@ window.onload = function(e) {
         if (event.defaultPrevented) {
             return; // Do nothing if the event was already processed or is a text field
         }
+
         k = e.target.value ? e.target.value.toLowerCase() : '';
         processJennie(k);
     
         // Cancel the default action to avoid it being handled twice
         event.preventDefault();
     }, true);
+
     //dt = document.querySelectorAll('');
     //dt.addEventListener("touchstart", tapHandler);
     //document.addEventListener("touchstart", tapHandler);
@@ -324,11 +326,12 @@ window.addEventListener("keydown", function (event) {
     }
     //console.log(event);
     //console.log(event.target);
-    k = event.key ? event.key.toLowerCase() : event.data.toLowerCase();
+    k = event.key ? event.key.toLowerCase() : '';
     processJennie(k);
 
     // Cancel the default action to avoid it being handled twice
     event.preventDefault();
 }, true);
+
 // the last option dispatches the event to the listener first,
 // then dispatches event to window
