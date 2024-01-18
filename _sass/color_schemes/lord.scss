@@ -8,6 +8,26 @@ $link-color: #9e0000;
 //$link-color: $red-300;
 //$btn-primary-color: $link-color;
 
+@font-face {
+	font-family: 'consolas-webfont';
+	src: local(Consolas), url('/assets/fonts/Consolas.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'consolas-webfont';
+	src: local(Consolas), url('/assets/fonts/Consolas-Bold.woff') format('woff');
+	font-weight: bold;
+}
+
+@font-face {
+	font-family: 'Tangerine';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Tangerine'), url('/assets/fonts/Tangerine_Regular.woff') format('woff');
+	font-display: block;
+}
+
+
 .homeh1 {
     font-size: 1.75rem !important;
     color: $link-color;
@@ -32,12 +52,14 @@ div#Clock {
     /*
     background-color: rgb(225, 223, 223);
     width: 100%;
-    */
+    
     width: 16.5rem;
     height: 72px;
     text-align: center;
     line-height: 72px;
+    */
+    font-family: "Consolas", "consolas-webfont", "Courier New", monospace;
     color: $link-color;
-    font-size: 1.5rem;
+    font-size: 1.07rem;
     font-weight: bold;
 }
