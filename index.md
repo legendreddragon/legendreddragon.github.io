@@ -4,6 +4,7 @@ layout: home
 nav_order: 0
 ---
 # Legend Of the Red Dragon (LoRD)  
+{ .homeh1 } 
 ![](assets/images/slider2.webp){: .mt-5 }
   
   
