@@ -183,8 +183,9 @@ document.addEventListener('click', function (e) {
                 setTimeout( function() { tapedTwice = false; }, 300 );
                 return false;
             }
+            
+            e.preventDefault();
             console.log('tapedTwice 3' + tapedTwice);
-            //e.preventDefault();
             alert('You tapped me Twice !!!');
             //action on double tap goes below
             document.getElementById('jennie-form').focus(true, false);
