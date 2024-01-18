@@ -29,8 +29,11 @@ tr:last-of-type td:last-of-type, table {
 }
 
 div#Clock {
+    /*
     background-color: rgb(225, 223, 223);
     width: 100%;
+    */
+    width: 16.5rem;
     height: 72px;
     text-align: center;
     line-height: 72px;
