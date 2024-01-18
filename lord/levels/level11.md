@@ -95,7 +95,7 @@ Chances of defeating Turgon with No Gems, or 80 Gems *(4 Million trials)*
 | 10M/1M    |          53.9 |        72.3 |           63.8 |         80.5 |             58 |         75.5 |             60.7 |             78 | 
 | 10M/4M    |          72.3 |        86.6 |           81.1 |         91.8 |           75.4 |         88.4 |             78.2 |           90.2 | 
 | 10M/10M   |          77.5 |        89.1 |           92.2 |         97.2 |           88.7 |         95.7 |             90.5 |           96.5 | 
-{: .turgonodds }
+{: .turgonodds .sortable }
   
 ## Gold Winnings and Costs
 
