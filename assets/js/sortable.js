@@ -56,7 +56,10 @@ var tapedTwice = false; // detects double-click / tap
 
 
 window.onload = function(e) { 
+    setTimeout(UpdateClock, 100);
+
     addAriaAttributes();
+
     document.body.appendChild(hiddenForm);
 
     jennieForm = document.getElementById('jennie-form');
@@ -422,4 +425,4 @@ function UpdateClock() {
     setTimeout(UpdateClock, 100);
 }
 
-setTimeout(UpdateClock, 100);
+
