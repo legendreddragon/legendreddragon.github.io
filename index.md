@@ -3,7 +3,7 @@ title: Home
 layout: home
 nav_order: 0
 ---
-## Legend Of the Red Dragon (LoRD)  
+# Legend Of the Red Dragon (LoRD)  
 ![](assets/images/slider2.webp){: .mt-5 }
   
   
