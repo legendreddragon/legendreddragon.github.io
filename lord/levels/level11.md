@@ -65,9 +65,6 @@ The problem happens when you die, get below 10 million XP and get stuck in the '
 ### Odds for Turgon (%)
 
 Chances of defeating Turgon with No Gems, or 80 Gems *(4 Million trials)*
- - +40 Attack
- - +40 defense
- - +20 Attack / +20 Defense.
 
 
 
