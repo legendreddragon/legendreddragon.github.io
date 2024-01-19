@@ -31,7 +31,7 @@ $link-color: #9e0000;
 .homeh1 {
     font-size: 1.70rem !important;
     color: whitesmoke;
-    text-shadow: $link-color 1px 0 8px;
+    text-shadow: $link-color 1px 0 10px;
     font-weight: 400;
 }
 
@@ -64,7 +64,7 @@ div#Clock {
     */
     font-family: "Consolas", "consolas-webfont", "Courier New", monospace;
     color: #333;
-    text-shadow: $link-color 1px 0 4px;
+    text-shadow: $link-color 1px 0 2px;
     font-size: 1.16rem;
     font-weight: bold;
     margin-right: 0.7rem;
