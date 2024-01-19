@@ -63,8 +63,8 @@ div#Clock {
     line-height: 72px;
     */
     font-family: "Consolas", "consolas-webfont", "Courier New", monospace;
-    color: white;
-    text-shadow: $link-color 1px 0 3px;
+    color: $link-color;
+    text-shadow: $link-color 1px 0 1px;
     font-size: 1.16rem;
     font-weight: bold;
     margin-right: 0.7rem;
