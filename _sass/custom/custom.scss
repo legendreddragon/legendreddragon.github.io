@@ -12,6 +12,16 @@ table.turgonodds th {
     text-align: center !important;
 }
 
+@media (min-width: 50rem) {
+    .site-nav {
+      padding-top: 1.5rem;
+    }
+
+    .site-title {
+        padding-right: 1.28rem !important;
+      }
+}
+
 
 /*
 
