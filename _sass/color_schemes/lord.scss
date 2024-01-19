@@ -30,8 +30,9 @@ $link-color: #9e0000;
 
 .homeh1 {
     font-size: 1.70rem !important;
-    /* color: $link-color; */
+    color: $link-color;
     text-shadow: $link-color 1px 0 10px;
+    font-weight: 400;
 }
 
 $tcorner: 7px;
