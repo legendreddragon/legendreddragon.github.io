@@ -29,8 +29,9 @@ $link-color: #9e0000;
 
 
 .homeh1 {
-    font-size: 1.75rem !important;
-    color: $link-color;
+    font-size: 1.70rem !important;
+    /* color: $link-color; */
+    text-shadow: $link-color 1px 0 10px;
 }
 
 $tcorner: 7px;
