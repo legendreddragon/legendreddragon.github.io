@@ -22,9 +22,23 @@ table.turgonodds th {
       }
 }
 
+
+.homeh1 {
+    /*
+    font-size: 1.70rem !important;
+    
+    color: white;
+    text-shadow: $link-color 1px 0 5px;
+    */
+    text-shadow: $link-color -1px 1px 3px;
+    font-weight: 800;
+}
+
 h1, h2, h3, h4, h5 {
     font-weight: bold;
 }
+
+
 
 /*
 
