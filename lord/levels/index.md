@@ -25,7 +25,7 @@ Each time you level up:
    - From -1 your current level, you can attack
  - You will be unable to use skills in Offline Battles
    - Can use Skills on players 1 level above you (or more)
-   - Can use LightShield if on the same-level or above you
+   - Can use LightShield if on the same level or above you
  - You get the ability to talk to the Bartender (lvl 2)
 
 ## Level Stats
