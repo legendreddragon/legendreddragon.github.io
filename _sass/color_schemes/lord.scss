@@ -34,7 +34,7 @@ $link-color: #9e0000;
     color: white;
     text-shadow: $link-color 1px 0 5px;
     */
-    text-shadow: $link-color 1px 0 2px;
+    text-shadow: $link-color -1px 1px 3px;
     font-weight: 800;
 }
 
