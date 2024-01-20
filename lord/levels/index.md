@@ -20,6 +20,7 @@ There are twelve levels in Legend of the Red Dragon. You start at 1 and need to 
 Each time you level up:
  - Your Base Hp, Strength and Defense increases
  - The Forest Monsters will change
+ - Monsters will be stronger, but will give more cash
  - You will be unable to attack people in the Inn
    - From -1 your current level, you can attack
  - You will be unable to use skills in Offline Battles
