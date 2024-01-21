@@ -63,9 +63,7 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 
 ### Odds for Prince Caspian (%)
 
-Chances of defeating Prince Caspian with 0 or 50 Gems.  
-
-*\*100 Million trials on each simulation*
+Chances of defeating Prince Caspian with 0 or 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 25D<br> | 25D<br>H | 25A<br> | 25A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

@@ -63,9 +63,7 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 
 ### Odds for Sparhawk (%)
 
-Chances of defeating Sparhawk with 0 or 24 Gems.  
-
-*\*100 Million trials on each simulation*
+Chances of defeating Sparhawk with 0 or 24 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 12D<br> | 12D<br>H | 12A<br> | 12A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
