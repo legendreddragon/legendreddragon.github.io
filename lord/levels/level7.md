@@ -63,8 +63,9 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 
 ### Odds for Atsuko Sensei (%)
 
-Chances of defeating Atsuko Sensei with 0 or 30 Gems.
-*\*100M trials on each simulation*
+Chances of defeating Atsuko Sensei with 0 or 30 Gems.  
+
+*\*100 Million trials on each simulation*
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 15D<br> | 15D<br>H | 15A<br> | 15A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

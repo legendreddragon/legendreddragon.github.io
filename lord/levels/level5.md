@@ -63,8 +63,9 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 
 ### Odds for Sandtiger (%)
 
-Chances of defeating Sandtiger with 0 or 20 Gems.
-*\*100M trials on each simulation*
+Chances of defeating Sandtiger with 0 or 20 Gems.  
+
+*\*100 Million trials on each simulation*
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 10D<br> | 10D<br>H | 10A<br> | 10A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

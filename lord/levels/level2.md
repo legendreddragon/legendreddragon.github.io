@@ -63,8 +63,9 @@ Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 
 ### Odds for Barak (%)
 
-Chances of defeating Barak with 0 or 8 Gems.
-*\*100M trials on each simulation*
+Chances of defeating Barak with 0 or 8 Gems.  
+
+*\*100 Million trials on each simulation*
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 4D<br> | 4D<br>H | 4A<br> | 4A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|

@@ -63,8 +63,9 @@ Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of D
 
 ### Odds for Aladdin (%)
 
-Chances of defeating Aladdin with 0 or 40 Gems.
-*\*100M trials on each simulation*
+Chances of defeating Aladdin with 0 or 40 Gems.  
+
+*\*100 Million trials on each simulation*
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 20D<br> | 20D<br>H | 20A<br> | 20A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
