@@ -62,9 +62,8 @@ Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon a
 
 ### Odds for Gandalf (%)
 
-Chances of defeating Gandalf with 0 to 60.  
-  
-*100M trials on each simulation*
+Chances of defeating Gandalf with 0 or 60 Gems.
+*\*100M trials on each simulation*
 
 | Kit<br>W/A | 0 G<br> | 0 G<br>H | 30D<br> | 30D<br>H | 30A<br> | 30A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
