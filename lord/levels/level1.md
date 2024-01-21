@@ -63,7 +63,7 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 
 ### Odds for Halder (%)
 
-Chances of defeating Halder with 0 or 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | Kit<br>W/A | 0 Gems<br> | 0 Gems<br>Hott |
 |:----------:|-----------:|---------------:|
