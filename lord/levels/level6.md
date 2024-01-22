@@ -2,7 +2,7 @@
 layout: default
 title: Level 6
 parent: Levels
-nav_order: 16
+nav_order: 60
 has_children: false
 ---
 # Level 6

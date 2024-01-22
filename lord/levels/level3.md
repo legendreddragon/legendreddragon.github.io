@@ -2,7 +2,7 @@
 layout: default
 title: Level 3
 parent: Levels
-nav_order: 13
+nav_order: 30
 has_children: false
 ---
 # Level 3

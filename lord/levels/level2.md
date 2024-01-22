@@ -2,7 +2,7 @@
 layout: default
 title: Level 2
 parent: Levels
-nav_order: 12
+nav_order: 20
 has_children: false
 ---
 # Level 2
