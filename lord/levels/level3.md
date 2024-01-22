@@ -94,6 +94,8 @@ Chances of defeating Aragorn with 0 or 12 Gems.<br><span class="oddsinfo">*\*100
 | 10K/10K    |   99.97 |   100.00 | 100.00 |  100.00 |  99.99 |  100.00 |
 {: .sortable .masterodds }
   
+<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 6D = +6 Defense | 6A = +6 Attack</span>
+
 ## Gold Winnings and Costs
 
 | EVENT               | $               |

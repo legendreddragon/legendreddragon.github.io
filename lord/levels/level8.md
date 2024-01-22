@@ -85,6 +85,8 @@ Chances of defeating Aladdin with 0 or 40 Gems.<br><span class="oddsinfo">*\*100
 | 4M/4M      |  100.00 |   100.00 |  100.00 |   100.00 |  100.00 |   100.00 |
 {: .sortable .masterodds }
   
+<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 20D = +20 Defense | 20A = +20 Attack</span>
+
 ## Gold Winnings and Costs
 
 | EVENT               | $                 |

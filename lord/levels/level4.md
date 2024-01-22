@@ -94,6 +94,8 @@ Chances of defeating Olodrin with 0 or 16 Gems.<br><span class="oddsinfo">*\*100
 | 30K/30K    |   94.68 |    97.96 |  98.86 |   99.70 |  96.42 |   98.69 |
 {: .sortable .masterodds }
   
+<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 8D = +8 Defense | 8A = +8 Attack</span>
+
 ## Gold Winnings and Costs
 
 | EVENT               | $               |

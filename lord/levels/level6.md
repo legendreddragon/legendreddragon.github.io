@@ -85,6 +85,8 @@ Chances of defeating Sparhawk with 0 or 24 Gems.<br><span class="oddsinfo">*\*10
 | 200K/200K  |   99.77 |    99.96 |   99.97 |    99.99 |   99.84 |    99.97 |
 {: .sortable .masterodds }
   
+<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 12D = +12 Defense | 12A = +12 Attack</span>
+
 ## Gold Winnings and Costs
 
 | EVENT               | $                 |

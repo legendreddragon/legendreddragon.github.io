@@ -85,6 +85,8 @@ Chances of defeating Prince Caspian with 0 or 50 Gems.<br><span class="oddsinfo"
 | 4M/4M      |   99.96 |    99.99 |   99.99 |   100.00 |   99.97 |   100.00 |
 {: .sortable .masterodds }
   
+<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 25D = +25 Defense | 25A = +25 Attack</span>
+
 ## Gold Winnings and Costs
 
 | EVENT               | $                 |
