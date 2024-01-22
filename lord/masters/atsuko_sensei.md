@@ -39,7 +39,7 @@ You are ready to be tested on the battle field!
 
 ## Defeating Atsuko Sensei
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Atsuko Sensei with 0 and 30 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

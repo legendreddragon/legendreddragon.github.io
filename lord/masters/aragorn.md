@@ -41,7 +41,7 @@ You have learned everything I can teach you.
 
 ## Defeating Aragorn
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

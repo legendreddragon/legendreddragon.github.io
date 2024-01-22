@@ -41,7 +41,7 @@ You know, you are actually getting pretty good with that thing...
 
 ## Defeating Barak
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Oh wait, no they don't, because Barak is a complete wuss. If you just defeated the Dragon, and you put the mere 10 gems you got as a reward in defense, you could face him with Fists and Nothing!.
 

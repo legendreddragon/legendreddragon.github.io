@@ -39,7 +39,7 @@ Gee, your muscles are getting bigger than mine...
 
 ## Defeating Halder
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

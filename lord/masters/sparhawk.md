@@ -41,7 +41,7 @@ You're getting the hang of it now!
 
 ## Defeating Sparhawk
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Sparhawk with 0 and 24 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

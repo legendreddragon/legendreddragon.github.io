@@ -39,7 +39,7 @@ You REALLY know how to use your <weapon>!!! <-- Current Weapon
 
 ## Defeating Aladdin
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Aladdin with 0 and 40 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

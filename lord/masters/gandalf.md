@@ -41,7 +41,7 @@ You're becoming a very skilled warrior.
 
 ## Defeating Gandalf
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

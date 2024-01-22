@@ -39,7 +39,7 @@ Something tells me you are as good as I am now..
 
 ## Defeating Prince Caspian
 
-Your odds of success depend on your weapon/armour combination
+Your odds of success depend on your weapon/armour combination.
 
 Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
