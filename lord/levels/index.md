@@ -46,14 +46,3 @@ Each time you level up:
 | 12    | 1,680 |      679 |     502 |
 {: .sortable .levels }
   
-  
-testing [level1][1] 
-  
-
-outro [teste][1323]
-
-[1323]: level4
-[1]: /
-
-
-oh no
