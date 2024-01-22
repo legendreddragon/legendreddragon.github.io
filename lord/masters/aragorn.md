@@ -8,7 +8,7 @@ has_children: false
 # Aragorn
 {: .no_toc }
 
-Aragorn is the level three master. His weapon is the Twin Swords. He has 70 Hit Points and a Strength of 35. You require 1,000 Experience to challenge Aragorn.
+Aragorn is the level three master. His weapon is the Twin Swords. He has 70 Hit Points and a Strength of 35. You need to have 1,000 Experience to challenge Aragorn.
 
 ## Table of contents
 {: .no_toc .text-delta }

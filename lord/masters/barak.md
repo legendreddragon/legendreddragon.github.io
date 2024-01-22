@@ -8,7 +8,7 @@ has_children: false
 # Barak
 {: .no_toc }
 
-Barak is the level two master. His weapon is the Battle Axe. He has 40 Hit Points and a Strength of 17. You require 400 Experience to challenge Barak.
+Barak is the level two master. His weapon is the Battle Axe. He has 40 Hit Points and a Strength of 17. You need to have 400 Experience to challenge Barak.
 
 ## Table of contents
 {: .no_toc .text-delta }
