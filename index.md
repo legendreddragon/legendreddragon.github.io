@@ -16,7 +16,7 @@ nav_order: 0
 ## About
 Legend Of the Red Dragon is a <a href="https://en.wikipedia.org/wiki/Door_(bulletin_board_system)" target="_blank">BBS 'Door' Game</a> that became very popular in the early internet stages at the 90s. It could be said that it was a popular role-playing online game before the internet even existed (or was open).  
   
-Dial up BBS's were the public's main connection to the online world with message forums, ANSI art galleries, downloadable files, and of course, games.  
+<a href="https://en.wikipedia.org/wiki/Bulletin_board_system" target="_blank">Dial up BBS's</a> were the public's main connection to the online world with message forums, ANSI art galleries, downloadable files, and of course, games.  
   
 This wiki focuses on the modern browser-based version of <a href="https://legendreddragon.net/" target="_blank">LoRD hosted on Gearhost</a>, which is a successor to the <a href="https://nuklearlord.fandom.com/wiki/Special:AllPages" target="_blank">NuKlear LoRD</a> version.  
 
@@ -25,7 +25,7 @@ Nuklear Lord, built in the year 2000, was meant to demonstrate the possibility o
   
 After a slow but steady decline, Nuklear LoRD went down in early 2019.  
 
-## <a href="https://legendreddragon.net/" target="_blank">legendreddragon.net</a>  
+## legendreddragon.net  
 Also called `'Gear LoRD'`, or `'LoRD Gearhost'` because of the hosting provider, <a href="https://www.gearhost.com/" target="_blank">Gearhost</a>.  
   
 The game is very similar to Nuklear, with five realms with slightly different rules.
