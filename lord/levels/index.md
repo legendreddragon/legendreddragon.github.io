@@ -47,9 +47,12 @@ Each time you level up:
 {: .sortable .levels }
   
   
-testing [[level1]] link  
+testing [[level1]link] link  
   
 test [[level 1]] test  
+
+outro [teste]
+[teste]:[/level4]
 
 
 oh no
