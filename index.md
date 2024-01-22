@@ -33,10 +33,10 @@ The game is very similar to Nuklear, with five realms with slightly different ru
 ### The Realms
 |:-----:|:------|
 | [Eternal](https://legendreddragon.net/Realm/Eternal){: .realm-button .btn .btn-purple } | Same as River, but you can choose to keep playing your current game even when a realm restarts |
-| [River](https://legendreddragon.net/Realm/River){: .realm-button .btn .btn-purple } | free use of weapons and armour regardless of level (camping allowed), no online battles without prior agreement |
-| [Forest](https://legendreddragon.net/Realm/Forest){: .realm-button .btn .btn-purple } | weapons restricted to certain levels, no online battles without prior agreement, camping prevention |
-| [Fire](https://legendreddragon.net/Realm/Fire){: .realm-button .btn .btn-purple } | same as Forest, but there is no option to decline online battles |
-| [Mist](https://legendreddragon.net/Realm/Mist){: .realm-button .btn .btn-purple } | same as Forest, but stats outside the game are delayed one day |
+| [River](https://legendreddragon.net/Realm/River){: .realm-button .btn .btn-purple } | Free use of weapons and armour regardless of level (camping allowed), no online battles without prior agreement |
+| [Forest](https://legendreddragon.net/Realm/Forest){: .realm-button .btn .btn-purple } | Weapons restricted to certain levels, no online battles without prior agreement, camping prevention |
+| [Fire](https://legendreddragon.net/Realm/Fire){: .realm-button .btn .btn-purple } | Same as Forest, but there is no option to decline online battles |
+| [Mist](https://legendreddragon.net/Realm/Mist){: .realm-button .btn .btn-purple } | Same as Forest, but stats outside the game are delayed one day |
 {: .realms-table }
 
 ### History
