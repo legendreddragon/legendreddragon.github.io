@@ -52,7 +52,7 @@ testing [[level1]link] link
 test [[level 1]] test  
 
 outro [teste]
-[teste]:[/level4]
+[teste]:[level4]
 
 
 oh no
