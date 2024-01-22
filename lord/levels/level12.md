@@ -41,7 +41,7 @@ Corinthian Giant should never be fought in a competitve game.
 
 ### Monster Relevance
 
-| Rank               | Monster              |
+| RANK               | MONSTER              |
 |:-------------------|:---------------------|
 | Highest Paying     | Humongous Black Wyre |
 | Strongest          | Mutated Black Widow  |
@@ -80,7 +80,7 @@ The Red Dragon is effectively the master of Level 12.
   
 ## Gold Winnings and Costs
 
-| Event               | $                   |
+| EVENT               | $                   |
 |:--------------------|:-------------------:|
 | Bag of Gold         | 36,000 - 107,856    |
 | Bank Robbery        | 864,000 - 1,726,272 |

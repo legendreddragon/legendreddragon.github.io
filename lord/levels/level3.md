@@ -31,7 +31,7 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 
 ### Monster Relevance
 
-| Rank               | Monster                |
+| RANK               | MONSTER                |
 |:-------------------|:-----------------------|
 | Highest Paying     | Muscled Midget         |
 | Strongest          | Winged Demon Of Death  |
@@ -65,7 +65,7 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 
 Chances of defeating Aragorn with 0 or 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 6D<br> | 6D<br>H | 6A<br> | 6A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 6D<br> | 6D<br>H | 6A<br> | 6A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|
 | 0/0        |    2.91 |     6.31 |  13.78 |   24.55 |  17.36 |   25.60 |
 | 0/200      |    3.68 |     8.06 |  17.85 |   30.76 |  19.41 |   28.82 |
@@ -96,7 +96,7 @@ Chances of defeating Aragorn with 0 or 12 Gems.<br><span class="oddsinfo">*\*100
   
 ## Gold Winnings and Costs
 
-| Event               | $               |
+| EVENT               | $               |
 |:--------------------|:---------------:|
 | Bag of Gold         | 2,250 - 6,741   |
 | Bank Robbery        | 13,500 - 26,973 |

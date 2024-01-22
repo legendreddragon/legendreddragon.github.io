@@ -31,7 +31,7 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 
 ### Monster Relevance
 
-| Rank               | Monster      |
+| RANK               | MONSTER      |
 |:-------------------|:-------------|
 | Highest Paying     | Apeman       |
 | Strongest          | Earth Shaker |
@@ -65,7 +65,7 @@ Prince Caspian is the Level 9 master. He can be beaten with an Able's Sword and 
 
 Chances of defeating Prince Caspian with 0 or 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 25D<br> | 25D<br>H | 25A<br> | 25A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 25D<br> | 25D<br>H | 25A<br> | 25A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 200K/200K  |   43.98 |    62.13 |   61.37 |    78.33 |   51.05 |    69.29 |
 | 200K/400K  |   61.38 |    78.33 |   77.88 |    89.95 |   67.90 |    83.51 |
@@ -87,7 +87,7 @@ Chances of defeating Prince Caspian with 0 or 50 Gems.<br><span class="oddsinfo"
   
 ## Gold Winnings and Costs
 
-| Event               | $                 |
+| EVENT               | $                 |
 |:--------------------|:-----------------:|
 | Bag of Gold         | 20,250 - 60,669   |
 | Bank Robbery        | 364,500 - 728,271 |

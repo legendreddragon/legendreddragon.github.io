@@ -31,7 +31,7 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 
 ### Monster Relevance
 
-| Rank               | Monster         |
+| RANK               | MONSTER         |
 |:-------------------|:----------------|
 | Highest Paying     | Huge Black Bear |
 | Strongest          | Huge Black Bear |
@@ -65,7 +65,7 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 
 Chances of defeating Olodrin with 0 or 16 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 8D<br> | 8D<br>H | 8A<br> | 8A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 8D<br> | 8D<br>H | 8A<br> | 8A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|
 | 200/200    |    2.56 |     5.36 |   6.56 |   11.62 |  10.30 |   14.08 |
 | 200/1K     |    3.25 |     6.65 |   8.28 |   13.93 |  11.21 |   15.86 |
@@ -96,7 +96,7 @@ Chances of defeating Olodrin with 0 or 16 Gems.<br><span class="oddsinfo">*\*100
   
 ## Gold Winnings and Costs
 
-| Event               | $               |
+| EVENT               | $               |
 |:--------------------|:---------------:|
 | Bag of Gold         | 4,000 - 11,984  |
 | Bank Robbery        | 32,000 - 63,936 |

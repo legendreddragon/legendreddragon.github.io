@@ -31,7 +31,7 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 
 ### Monster Relevance
 
-| Rank               | Monster          |
+| RANK               | MONSTER          |
 |:-------------------|:-----------------|
 | Highest Paying     | Massive Dinosaur |
 | Strongest          | Goliath          |
@@ -65,7 +65,7 @@ Atsuko Sensei is the Level 7 master. She can be beaten with a Huge Axe and Armou
 
 Chances of defeating Atsuko Sensei with 0 or 30 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 15D<br> | 15D<br>H | 15A<br> | 15A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 15D<br> | 15D<br>H | 15A<br> | 15A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 30K/30K    |    3.05 |     6.07 |    6.13 |    11.43 |    6.20 |    10.94 |
 | 30K/100K   |    4.83 |     9.27 |    9.95 |    17.42 |    8.89 |    15.08 |
@@ -87,7 +87,7 @@ Chances of defeating Atsuko Sensei with 0 or 30 Gems.<br><span class="oddsinfo">
   
 ## Gold Winnings and Costs
 
-| Event               | $                 |
+| EVENT               | $                 |
 |:--------------------|:-----------------:|
 | Bag of Gold         | 12,250 - 36,701   |
 | Bank Robbery        | 171,500 - 342,657 |

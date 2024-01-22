@@ -31,7 +31,7 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 
 ### Monster Relevance
 
-| Rank               | Monster                    |
+| RANK               | MONSTER                    |
 |:-------------------|:---------------------------|
 | Highest Paying     | Clancy, Son Of Emperor Len |
 | Strongest          | Silent Death               |
@@ -65,7 +65,7 @@ Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron
 
 Chances of defeating Sandtiger with 0 or 20 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 10D<br> | 10D<br>H | 10A<br> | 10A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 10D<br> | 10D<br>H | 10A<br> | 10A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 1K/1K      |    2.69 |     5.48 |    6.71 |    12.02 |    8.44 |    13.88 |
 | 1K/3K      |    5.12 |     9.41 |   12.96 |    21.55 |   12.88 |    19.64 |
@@ -96,7 +96,7 @@ Chances of defeating Sandtiger with 0 or 20 Gems.<br><span class="oddsinfo">*\*1
   
 ## Gold Winnings and Costs
 
-| Event               | $                |
+| EVENT               | $                |
 |:--------------------|:----------------:|
 | Bag of Gold         | 6,250 - 18,725   |
 | Bank Robbery        | 62,500 - 124,875 |

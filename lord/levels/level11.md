@@ -31,7 +31,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 
 ### Monster Relevance
 
-| Rank               | Monster            |
+| RANK               | MONSTER            |
 |:-------------------|:-------------------|
 | Highest Paying     | Mountain           |
 | Strongest          | ShadowStormWarrior |
@@ -66,7 +66,7 @@ The problem happens when you die, get below 10 million XP and get stuck in the '
 
 Chances of defeating Turgon with 0 or 80 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 40D<br> | 40D<br>H | 40A<br> | 40A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 40D<br> | 40D<br>H | 40A<br> | 40A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 200K/200K  |    8.36 |    14.53 |   11.42 |    19.14 |   11.40 |    18.76 |
 | 200K/400K  |   10.15 |    17.25 |   13.92 |    22.86 |   13.52 |    21.90 |
@@ -97,7 +97,7 @@ Chances of defeating Turgon with 0 or 80 Gems.<br><span class="oddsinfo">*\*100 
   
 ## Gold Winnings and Costs
 
-| Event               | $                   |
+| EVENT               | $                   |
 |:--------------------|:-------------------:|
 | Bag of Gold         | 30,250 - 90,629     |
 | Bank Robbery        | 665,500 - 1,329,669 |

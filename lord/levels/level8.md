@@ -31,7 +31,7 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 
 ### Monster Relevance
 
-| Rank               | Monster     |
+| RANK               | MONSTER     |
 |:-------------------|:------------|
 | Highest Paying     | King Vidion |
 | Strongest          | King Vidion |
@@ -65,7 +65,7 @@ Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of D
 
 Chances of defeating Aladdin with 0 or 40 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 20D<br> | 20D<br>H | 20A<br> | 20A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 20D<br> | 20D<br>H | 20A<br> | 20A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 200K/200K  |   61.01 |    77.40 |   78.18 |    89.81 |   68.11 |    83.43 |
 | 200K/400K  |   81.77 |    91.96 |   92.37 |    97.21 |   86.24 |    94.47 |
@@ -87,7 +87,7 @@ Chances of defeating Aladdin with 0 or 40 Gems.<br><span class="oddsinfo">*\*100
   
 ## Gold Winnings and Costs
 
-| Event               | $                 |
+| EVENT               | $                 |
 |:--------------------|:-----------------:|
 | Bag of Gold         | 16,000 - 47,936   |
 | Bank Robbery        | 256,000 - 511,488 |

@@ -31,7 +31,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 
 ### Monster Relevance
 
-| Rank               | Monster          |
+| RANK               | MONSTER          |
 |:-------------------|:-----------------|
 | Highest Paying     | Bran The Warrior |
 | Strongest          | Bran The Warrior |
@@ -65,7 +65,7 @@ Halder is the Level 1 master. He is easily beatable with a Stick and a Leather V
 
 Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 Gems<br> | 0 Gems<br>Hott |
+| KIT<br>W/A | 0 GEMS<br> | 0 GEMS<br>HOTT |
 |:----------:|-----------:|---------------:|
 | 0/0        |       0.00 |           0.01 |
 | 0/200      |       0.01 |           0.01 |
@@ -96,7 +96,7 @@ Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Millio
   
 ## Gold Winnings and Costs
 
-| Event               | $             |
+| EVENT               | $             |
 |:--------------------|:-------------:|
 | Bag of Gold         | 250 - 749     |
 | Bank Robbery        | 500 - 999     |

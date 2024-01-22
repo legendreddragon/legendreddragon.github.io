@@ -31,7 +31,7 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 
 ### Monster Relevance
 
-| Rank               | Monster    |
+| RANK               | MONSTER    |
 |:-------------------|:-----------|
 | Highest Paying     | Belar      |
 | Strongest          | Belar      |
@@ -65,7 +65,7 @@ Sparhawk is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour
 
 Chances of defeating Sparhawk with 0 or 24 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 12D<br> | 12D<br>H | 12A<br> | 12A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 12D<br> | 12D<br>H | 12A<br> | 12A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 30K/30K    |   15.10 |    24.50 |   31.96 |    47.33 |   22.26 |    34.31 |
 | 30K/100K   |   28.16 |    42.59 |   55.76 |    72.30 |   38.33 |    54.87 |
@@ -87,7 +87,7 @@ Chances of defeating Sparhawk with 0 or 24 Gems.<br><span class="oddsinfo">*\*10
   
 ## Gold Winnings and Costs
 
-| Event               | $                 |
+| EVENT               | $                 |
 |:--------------------|:-----------------:|
 | Bag of Gold         | 9,000 - 26,964    |
 | Bank Robbery        | 108,000 - 215,784 |

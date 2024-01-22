@@ -31,7 +31,7 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 
 ### Monster Relevance
 
-| Rank               | Monster                     |
+| RANK               | MONSTER                     |
 |:-------------------|:----------------------------|
 | Highest Paying     | Brorandia The Viking        |
 | Strongest          | Brorandia The Viking        |
@@ -65,7 +65,7 @@ Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 
 Chances of defeating Barak with 0 or 8 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 4D<br> | 4D<br>H | 4A<br> | 4A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 4D<br> | 4D<br>H | 4A<br> | 4A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|
 | 0/0        |   16.35 |    27.54 |  68.47 |   88.40 |  48.32 |   71.45 |
 | 0/200      |   22.84 |    37.29 |  86.86 |   96.85 |  62.13 |   83.20 |
@@ -96,7 +96,7 @@ Chances of defeating Barak with 0 or 8 Gems.<br><span class="oddsinfo">*\*100 Mi
   
 ## Gold Winnings and Costs
 
-| Event               | $             |
+| EVENT               | $             |
 |:--------------------|:-------------:|
 | Bag of Gold         | 1,000 - 2,996 |
 | Bank Robbery        | 4,000 - 7,992 |

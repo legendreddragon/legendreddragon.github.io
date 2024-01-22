@@ -31,7 +31,7 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 
 ### Monster Relevance
 
-| Rank               | Monster                   |
+| RANK               | MONSTER                   |
 |:-------------------|:--------------------------|
 | Highest Paying     | Slock                     |
 | Strongest          | Sweet Looking Little Girl |
@@ -64,7 +64,7 @@ Gandalf is the Level 10 master. He is most commonly fought with a Wan's Weapon a
 
 Chances of defeating Gandalf with 0 or 60 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
-| Kit<br>W/A | 0 G<br> | 0 G<br>H | 30D<br> | 30D<br>H | 30A<br> | 30A<br>H |
+| KIT<br>W/A | 0 G<br> | 0 G<br>H | 30D<br> | 30D<br>H | 30A<br> | 30A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
 | 200K/200K  |   14.33 |    23.22 |   19.84 |    31.20 |   18.00 |    28.30 |
 | 200K/400K  |   18.76 |    29.69 |   26.30 |    40.08 |   23.15 |    35.66 |
@@ -86,7 +86,7 @@ Chances of defeating Gandalf with 0 or 60 Gems.<br><span class="oddsinfo">*\*100
   
 ## Gold Winnings and Costs
 
-| Event               | $                 |
+| EVENT               | $                 |
 |:--------------------|:-----------------:|
 | Bag of Gold         | 25,000 - 74,900   |
 | Bank Robbery        | 500,000 - 999,000 |
