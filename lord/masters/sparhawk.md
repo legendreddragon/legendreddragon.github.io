@@ -25,7 +25,7 @@ Sparhawk is the level six master. His weapon is the Double-Bladed Sword. He has 
   
 ## Encountering Sparhawk
 
-This is the dialogue you see when you first go to the training center at level 6.
+This is the dialogue you see when you first go to the training center at level 6:
 ```
 You are level six! Vengeance is yours!
 

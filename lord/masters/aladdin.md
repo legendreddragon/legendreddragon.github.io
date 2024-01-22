@@ -25,7 +25,7 @@ Aladdin is the level eight master. His weapon is the Shiny Lamp. He has 800 Hit 
   
 ## Encountering Aladdin
 
-This is the dialogue you see when you first go to the training center at level 8.
+This is the dialogue you see when you first go to the training center at level 8:
 ```
 You are now level eight. Remember, do not use your great strength in bullying the other warriors. Do not be a braggart. Be humble, and remember, honor is everything.
 ```

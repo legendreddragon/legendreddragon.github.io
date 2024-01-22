@@ -25,7 +25,7 @@ Sandtiger is the level five master. His weapon is the Blessed Sword. He has 200 
   
 ## Encountering Sandtiger
 
-This is the dialogue you see when you first go to the training center at level 5.
+This is the dialogue you see when you first go to the training center at level 5:
 ```
 You are now level five..Not bad...Not bad at all..
 

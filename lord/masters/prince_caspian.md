@@ -25,7 +25,7 @@ Prince Caspian is the level nine master. His weapon is the Flashing Rapier. He h
   
 ## Encountering Prince Caspian
 
-This is the dialogue you see when you first go to the training center at level 9.
+This is the dialogue you see when you first go to the training center at level 9:
 ```
 You are now level nine. You have traveled far on the road of hardships, but what doesn't kill you, only makes you stronger. Never stop fighting.
 ```

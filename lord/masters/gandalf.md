@@ -25,7 +25,7 @@ Gandalf is the level ten master. His weapon is the Huge Fireballs. He has 1,800 
   
 ## Encountering Gandalf
 
-This is the dialogue you see when you first go to the training center at level 10.
+This is the dialogue you see when you first go to the training center at level 10:
 ```
 You are now level ten.. A true honor!
 

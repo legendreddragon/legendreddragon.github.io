@@ -25,7 +25,7 @@ Turgon is the level eleven master. His weapon is the Able's Sword. He has 2,500 
   
 ## Encountering Turgon
 
-This is the dialogue you see when you first go to the training center at level 11.
+This is the dialogue you see when you first go to the training center at level 11:
 ```
 I am Turgon, son. The greatest warrior in the realm.
 

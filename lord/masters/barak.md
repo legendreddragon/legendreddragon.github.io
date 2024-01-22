@@ -25,7 +25,7 @@ Barak is the level two master. His weapon is the Battle Axe. He has 40 Hit Point
   
 ## Encountering Barak
 
-This is the dialogue you see when you first go to the training center at level 2.
+This is the dialogue you see when you first go to the training center at level 2:
 ```
 You are now level two, and a respected warrior.
 

@@ -25,7 +25,7 @@ Aragorn is the level three master. His weapon is the Twin Swords. He has 70 Hit 
   
 ## Encountering Aragorn
 
-This is the dialogue you see when you first go to the training center at level 3.
+This is the dialogue you see when you first go to the training center at level 3:
 ```
 You are now level three, and you are actually becoming
 

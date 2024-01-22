@@ -25,7 +25,7 @@ Olodrin is the level four master. His weapon is the Power Axe. He has 120 Hit Po
   
 ## Encountering Olodrin
 
-This is the dialogue you see when you first go to the training center at level 4.
+This is the dialogue you see when you first go to the training center at level 4:
 ```
 You are now level four. But don't get cocky - There
 

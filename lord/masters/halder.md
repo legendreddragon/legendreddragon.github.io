@@ -25,7 +25,7 @@ Halder is the level one master. His weapon is the Short Sword. He has 30 Hit Poi
   
 ## Encountering Halder
 
-This is the dialogue you see when you first go to the training center at level 1.
+This is the dialogue you see when you first go to the training center at level 1:
 ```
 Hi there. Although I may not look muscular, I ain't all that weak. You cannot advance to another Master until you can best me in battle. I don't really have any advice except wear a groin cup at all times. I learned the hard way.
 ```

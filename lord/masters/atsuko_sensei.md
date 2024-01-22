@@ -25,7 +25,7 @@ Atsuko Sensei is the level seven master. His weapon is the Huge Curved Blade. He
   
 ## Encountering Atsuko Sensei
 
-This is the dialogue you see when you first go to the training center at level 7.
+This is the dialogue you see when you first go to the training center at level 7:
 ```
 Even in my country, you would be considered a good warrior. But you have much to learn. Remember to always respect your teachers, for it is right.
 ```
