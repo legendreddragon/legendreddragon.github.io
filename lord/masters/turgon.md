@@ -37,10 +37,9 @@ This is the dialogue you see when you first go to the training center at level 1
 ## Questioning Turgon
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
-```
-You are truly the BEST warrior in the realm.
-```
-{: .game-dialogs }
+
+> You are truly the BEST warrior in the realm.
+{: .game-citation }
 
 ## Defeating Turgon
 
