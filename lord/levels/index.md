@@ -47,12 +47,13 @@ Each time you level up:
 {: .sortable .levels }
   
   
-testing [level1]link] link  
+testing [level1][1] 
   
-test [[level 1]] test  
 
 outro [teste][1323]
+
 [1323]: level4
+[1]: /
 
 
 oh no
