@@ -31,6 +31,7 @@ Also called `'Gear LoRD'`, or `'LoRD Gearhost'` because of the hosting provider,
 The game is very similar to Nuklear, with five realms with slightly different rules.
 
 ### The Realms
+|:-----:|:------|
 | [Eternal](https://legendreddragon.net/Realm/Eternal){: .realm-button .btn .btn-purple } | Same as River, but you can choose to keep playing your current game even when a realm restarts |
 | [River](https://legendreddragon.net/Realm/River){: .realm-button .btn .btn-purple } | free use of weapons and armour regardless of level (camping allowed), no online battles without prior agreement |
 | [Forest](https://legendreddragon.net/Realm/Forest){: .realm-button .btn .btn-purple } | weapons restricted to certain levels, no online battles without prior agreement, camping prevention |
