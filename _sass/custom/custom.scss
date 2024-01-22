@@ -56,8 +56,19 @@ h1, h2, h3, h4, h5 {
 }
 
 .realm-button {
-    width: 12rem;
+    width: 6.8rem;
+    text-align: center;
 }
+
+.btn-red {
+    @include btn-color($white, $red-300);
+}
+
+.btn-gray {
+    @include btn-color($white, $grey-dk-200);
+}
+  
+
 
 
 /*
