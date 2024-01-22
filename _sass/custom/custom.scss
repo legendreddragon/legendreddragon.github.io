@@ -75,7 +75,7 @@ h1, h2, h3, h4, h5 {
     @include btn-color($white, $grey-dk-200);
 }
   
-div.game-dialogs > div > code {
+div.game-dialogs > div > pre > code {
     white-space: pre-wrap;
 }
 
