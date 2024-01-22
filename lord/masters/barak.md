@@ -34,7 +34,7 @@ Try talking to the Bartender, he will see you now. He is a worthy asset... Remem
 
 ## Questioning Barak
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You know, you are actually getting pretty good with that thing...
 ```

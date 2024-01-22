@@ -34,7 +34,7 @@ You are a great warrior, and if you best me, you must find and kill the Red Drag
 
 ## Questioning Turgon
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You are truly the BEST warrior in the realm.
 ```

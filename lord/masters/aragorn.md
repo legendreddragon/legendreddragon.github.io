@@ -34,7 +34,7 @@ well known in the realm. I heard your name being mentioned {C}by Violet.... Ye G
 
 ## Questioning Aragorn
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You have learned everything I can teach you.
 ```

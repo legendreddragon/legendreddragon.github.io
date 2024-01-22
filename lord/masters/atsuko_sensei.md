@@ -32,7 +32,7 @@ Even in my country, you would be considered a good warrior. But you have much to
 
 ## Questioning Atsuko Sensei
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You are ready to be tested on the battle field!
 ```

@@ -32,7 +32,7 @@ You are now level nine. You have traveled far on the road of hardships, but what
 
 ## Questioning Prince Caspian
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 Something tells me you are as good as I am now..
 ```

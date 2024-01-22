@@ -34,7 +34,7 @@ I am called Sandtiger - Because.. Actually I can't remember why people call me t
 
 ## Questioning Sandtiger
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 Gee - You really know how to handle your shaft!
 ```

@@ -34,7 +34,7 @@ You can now beat up on all those young punks that made fun of you when you were 
 
 ## Questioning Sparhawk
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You're getting the hang of it now!
 ```

@@ -32,7 +32,7 @@ You are now level eight. Remember, do not use your great strength in bullying th
 
 ## Questioning Aladdin
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You REALLY know how to use your <weapon>!!! <-- Current Weapon
 ```

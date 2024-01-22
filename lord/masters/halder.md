@@ -32,7 +32,7 @@ Hi there. Although I may not look muscular, I ain't all that weak. You cannot ad
 
 ## Questioning Halder
 
-When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge them:
+When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 Gee, your muscles are getting bigger than mine...
 ```
