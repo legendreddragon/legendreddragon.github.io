@@ -8,7 +8,7 @@ has_children: false
 # Gandalf
 {: .no_toc }
 
-Gandalf is the level ten master. His weapon is the Huge Fireballs. He has 1,800 Hit Points and a Strength of 800. You need to have 4,000,000 Experience to challenge Gandalf.
+Gandalf is the level ten master. His weapon is the Huge Fireballs. She has 1,800 Hit Points and a Strength of 800. You need to have 4,000,000 Experience to challenge Gandalf.
 
 ## Table of contents
 {: .no_toc .text-delta }

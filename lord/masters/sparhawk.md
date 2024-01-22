@@ -8,7 +8,7 @@ has_children: false
 # Sparhawk
 {: .no_toc }
 
-Sparhawk is the level six master. His weapon is the Double-Bladed Sword. He has 400 Hit Points and a Strength of 150. You need to have 40,000 Experience to challenge Sparhawk.
+Sparhawk is the level six master. His weapon is the Double-Bladed Sword. She has 400 Hit Points and a Strength of 150. You need to have 40,000 Experience to challenge Sparhawk.
 
 ## Table of contents
 {: .no_toc .text-delta }

@@ -8,7 +8,7 @@ has_children: false
 # Halder
 {: .no_toc }
 
-Halder is the level one master. His weapon is the Short Sword. He has 30 Hit Points and a Strength of 15. You need to have 100 Experience to challenge Halder.
+Halder is the level one master. His weapon is the Short Sword. She has 30 Hit Points and a Strength of 15. You need to have 100 Experience to challenge Halder.
 
 ## Table of contents
 {: .no_toc .text-delta }
