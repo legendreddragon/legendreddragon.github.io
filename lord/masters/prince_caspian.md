@@ -28,16 +28,14 @@ Prince Caspian is the level nine master. His weapon is the Flashing Rapier. He h
 This is the dialogue you see when you first go to the training center at level 9:
 ```
 You are now level nine. You have traveled far on the road of hardships, but what doesn't kill you, only makes you stronger. Never stop fighting.
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Questioning Prince Caspian
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 Something tells me you are as good as I am now..
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Defeating Prince Caspian
 
@@ -78,8 +76,7 @@ Good show, chap! Jolly good show!
 You receive 250 hitpoints, 110 strength and 80 defense points!
 
 YOU ARE NOW LEVEL 10.
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Strategy
 

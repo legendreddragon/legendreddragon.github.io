@@ -28,16 +28,14 @@ Aladdin is the level eight master. His weapon is the Shiny Lamp. He has 800 Hit 
 This is the dialogue you see when you first go to the training center at level 8:
 ```
 You are now level eight. Remember, do not use your great strength in bullying the other warriors. Do not be a braggart. Be humble, and remember, honor is everything.
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Questioning Aladdin
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You REALLY know how to use your <weapon>!!! <-- Current Weapon
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Defeating Aladdin
 
@@ -78,8 +76,7 @@ I don't need a genie to see that you beat me, man!
 You receive 185 hitpoints, 75 strength and 60 defense points!
 
 YOU ARE NOW LEVEL 9.
-```
-{: .game-dialogs }
+```{: .game-dialogs }
 
 ## Strategy
 
