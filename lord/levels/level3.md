@@ -63,7 +63,7 @@ Aragorn is the Level 3 master. He is easily beatable with Short Sword/Leather Ve
 
 ### Odds for Aragorn (%)
 
-Chances of defeating Aragorn with 0 or 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 6D<br> | 6D<br>H | 6A<br> | 6A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|

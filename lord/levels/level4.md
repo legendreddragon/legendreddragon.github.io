@@ -63,7 +63,7 @@ Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armo
 
 ### Odds for Olodrin (%)
 
-Chances of defeating Olodrin with 0 or 16 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Olodrin with 0 and 16 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 8D<br> | 8D<br>H | 8A<br> | 8A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|
