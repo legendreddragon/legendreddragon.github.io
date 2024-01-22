@@ -8,7 +8,7 @@ has_children: false
 # Sandtiger
 {: .no_toc }
 
-Sandtiger is the level five master. His weapon is the Blessed Sword. She has 200 Hit Points and a Strength of 100. You need to have 10,000 Experience to challenge Sandtiger.
+Sandtiger is the level five master. His weapon is the Blessed Sword. He has 200 Hit Points and a Strength of 100. You need to have 10,000 Experience to challenge Sandtiger.
 
 ## Table of contents
 {: .no_toc .text-delta }

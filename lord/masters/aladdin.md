@@ -8,7 +8,7 @@ has_children: false
 # Aladdin
 {: .no_toc }
 
-Aladdin is the level eight master. His weapon is the Shiny Lamp. She has 800 Hit Points and a Strength of 350. You need to have 400,000 Experience to challenge Aladdin.
+Aladdin is the level eight master. His weapon is the Shiny Lamp. He has 800 Hit Points and a Strength of 350. You need to have 400,000 Experience to challenge Aladdin.
 
 ## Table of contents
 {: .no_toc .text-delta }
