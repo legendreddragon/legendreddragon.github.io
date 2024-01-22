@@ -51,8 +51,8 @@ testing [level1]link] link
   
 test [[level 1]] test  
 
-outro [teste][teste]
-[teste]: level4
+outro [teste][1]
+[1]: level4
 
 
 oh no
