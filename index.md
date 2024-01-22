@@ -77,5 +77,9 @@ It is a rewrite of the work done by The Mystical One, a lot of credit goes to Ma
  - New accounts cannot be created while using a proxy, vpn or tor to prevent one person hiding their ip address in order to create multiple accounts.
  - Players who have used the same ip address in the last month are barred from attacking, transferring gold, or sending romantic mail to each other.
 
-
+### Rules
+ - One account per person.
+ - No team play. eg. using multiple accounts to gain player info, exp, gold, gems or lays.
+ - Be kind. No hate speech or harrassing other players.
+ - The game contains adult themes but please keep your personal fantasies private.
 
