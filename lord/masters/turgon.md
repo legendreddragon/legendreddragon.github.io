@@ -30,14 +30,16 @@ This is the dialogue you see when you first go to the training center at level 1
 I am Turgon, son. The greatest warrior in the realm.
 
 You are a great warrior, and if you best me, you must find and kill the Red Dragon. I have every faith in you.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Questioning Turgon
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You are truly the BEST warrior in the realm.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Defeating Turgon
 
@@ -87,7 +89,8 @@ You are a master warrior!
 You receive 550 hitpoints, 200 strength and 150 defense points!
 
 YOU ARE NOW LEVEL 12.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ### Return Message
 
@@ -96,7 +99,8 @@ If you return to the training center on level 11, you'll see this message:
 You pay your respects to Turgon, and stroll around the grounds.
 
 Lesser warriors bow low as you pass. Turgon's last words advise you to find and kill the Red Dragon..
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Strategy
 

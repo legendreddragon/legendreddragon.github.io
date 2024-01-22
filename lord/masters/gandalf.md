@@ -30,14 +30,16 @@ This is the dialogue you see when you first go to the training center at level 1
 You are now level ten.. A true honor!
 
 Do not stop now... You may be the one to rid the realm of the Red Dragon yet... Only two more levels to go until you are the greatest warrior in the land. 
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Questioning Gandalf
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You're becoming a very skilled warrior.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Defeating Gandalf
 
@@ -78,7 +80,8 @@ Torak's Tooth! You are great!
 You receive 350 hitpoints, 150 strength and 120 defense points!
 
 YOU ARE NOW LEVEL 11.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Strategy
 

@@ -30,14 +30,16 @@ This is the dialogue you see when you first go to the training center at level 2
 You are now level two, and a respected warrior.
 
 Try talking to the Bartender, he will see you now. He is a worthy asset... Remember, your ultimate goal is to reach Ultimate Warrior status, which is level twelve.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Questioning Barak
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You know, you are actually getting pretty good with that thing...
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Defeating Barak
 
@@ -89,7 +91,8 @@ Children Of Mara!!! You have bested me??!
 You receive 15 Hit Points, 7 strength and 3 defense points!
 
 YOU ARE NOW LEVEL 3.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Strategy
 

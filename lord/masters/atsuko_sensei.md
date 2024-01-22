@@ -28,14 +28,16 @@ Atsuko Sensei is the level seven master. His weapon is the Huge Curved Blade. He
 This is the dialogue you see when you first go to the training center at level 7:
 ```
 Even in my country, you would be considered a good warrior. But you have much to learn. Remember to always respect your teachers, for it is right.
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Questioning Atsuko Sensei
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
 ```
 You are ready to be tested on the battle field!
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Defeating Atsuko Sensei
 
@@ -76,7 +78,8 @@ Even though you beat me, I am proud of you.
 You receive 125 hitpoints, 50 strength and 35 defense points!
 
 YOU ARE NOW LEVEL 8. 
-```{: .game-dialogs }
+```
+{: .game-dialogs }
 
 ## Strategy
 
