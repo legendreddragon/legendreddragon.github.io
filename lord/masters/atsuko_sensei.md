@@ -8,7 +8,7 @@ has_children: false
 # Atsuko Sensei
 {: .no_toc }
 
-Atsuko Sensei is the level seven master. His weapon is the Huge Curved Blade. He has 600 Hit Points and a Strength of 250. You need to have 100,000 Experience to challenge Atsuko Sensei.
+Atsuko Sensei is the level seven master. Her weapon is the Huge Curved Blade. He has 600 Hit Points and a Strength of 250. You need to have 100,000 Experience to challenge Atsuko Sensei.
 
 ## Table of contents
 {: .no_toc .text-delta }
