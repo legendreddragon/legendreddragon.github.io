@@ -31,6 +31,7 @@ You are now level two, and a respected warrior.
 
 Try talking to the Bartender, he will see you now. He is a worthy asset... Remember, your ultimate goal is to reach Ultimate Warrior status, which is level twelve.
 ```
+{: .game-dialogs }
 
 ## Questioning Barak
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You know, you are actually getting pretty good with that thing...
 ```
+{: .game-dialogs }
 
 ## Defeating Barak
 
@@ -90,6 +92,7 @@ You receive 15 Hit Points, 7 strength and 3 defense points!
 
 YOU ARE NOW LEVEL 3.
 ```
+{: .game-dialogs }
 
 ## Strategy
 

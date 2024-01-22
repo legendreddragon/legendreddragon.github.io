@@ -31,6 +31,7 @@ You are now level three, and you are actually becoming
 
 well known in the realm. I heard your name being mentioned {C}by Violet.... Ye Gods she's hot....
 ```
+{: .game-dialogs }
 
 ## Questioning Aragorn
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You have learned everything I can teach you.
 ```
+{: .game-dialogs }
 
 ## Defeating Aragorn
 
@@ -88,6 +90,7 @@ You receive 20 hitpoints, 10 strength and 5 defense points!
 
 YOU ARE NOW LEVEL 4.
 ```
+{: .game-dialogs }
 
 ## Strategy
 

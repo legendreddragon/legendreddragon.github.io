@@ -29,6 +29,7 @@ This is the dialogue you see when you first go to the training center at level 7
 ```
 Even in my country, you would be considered a good warrior. But you have much to learn. Remember to always respect your teachers, for it is right.
 ```
+{: .game-dialogs }
 
 ## Questioning Atsuko Sensei
 
@@ -36,6 +37,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You are ready to be tested on the battle field!
 ```
+{: .game-dialogs }
 
 ## Defeating Atsuko Sensei
 
@@ -77,6 +79,7 @@ You receive 125 hitpoints, 50 strength and 35 defense points!
 
 YOU ARE NOW LEVEL 8. 
 ```
+{: .game-dialogs }
 
 ## Strategy
 

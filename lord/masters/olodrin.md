@@ -31,6 +31,7 @@ You are now level four. But don't get cocky - There
 
 are many in the realm that could kick your... Nevermind, I'm just not good at being insperational.
 ```
+{: .game-dialogs }
 
 ## Questioning Olodrin
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You're becoming a very skilled warrior.
 ```
+{: .game-dialogs }
 
 ## Defeating Olodrin
 
@@ -88,6 +90,7 @@ You receive 30 hitpoints, 12 strength and 10 defense points!
 
 YOU ARE NOW LEVEL 5.
 ```
+{: .game-dialogs }
 
 ## Strategy
 

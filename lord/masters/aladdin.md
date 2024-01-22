@@ -29,6 +29,7 @@ This is the dialogue you see when you first go to the training center at level 8
 ```
 You are now level eight. Remember, do not use your great strength in bullying the other warriors. Do not be a braggart. Be humble, and remember, honor is everything.
 ```
+{: .game-dialogs }
 
 ## Questioning Aladdin
 
@@ -36,6 +37,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You REALLY know how to use your <weapon>!!! <-- Current Weapon
 ```
+{: .game-dialogs }
 
 ## Defeating Aladdin
 
@@ -77,6 +79,7 @@ You receive 185 hitpoints, 75 strength and 60 defense points!
 
 YOU ARE NOW LEVEL 9.
 ```
+{: .game-dialogs }
 
 ## Strategy
 

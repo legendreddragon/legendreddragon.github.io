@@ -31,6 +31,7 @@ You are now level ten.. A true honor!
 
 Do not stop now... You may be the one to rid the realm of the Red Dragon yet... Only two more levels to go until you are the greatest warrior in the land. 
 ```
+{: .game-dialogs }
 
 ## Questioning Gandalf
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You're becoming a very skilled warrior.
 ```
+{: .game-dialogs }
 
 ## Defeating Gandalf
 
@@ -79,6 +81,7 @@ You receive 350 hitpoints, 150 strength and 120 defense points!
 
 YOU ARE NOW LEVEL 11.
 ```
+{: .game-dialogs }
 
 ## Strategy
 

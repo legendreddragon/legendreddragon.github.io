@@ -31,6 +31,7 @@ You are now level five..Not bad...Not bad at all..
 
 I am called Sandtiger - Because.. Actually I can't remember why people call me that. Oh - Don't pay attention to that stupid bartender - I could make a much better one.
 ```
+{: .game-dialogs }
 
 ## Questioning Sandtiger
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 Gee - You really know how to handle your shaft!
 ```
+{: .game-dialogs }
 
 ## Defeating Sandtiger
 
@@ -88,6 +90,7 @@ You receive 50 hitpoints, 20 strength and 15 defense points!
 
 YOU ARE NOW LEVEL 6. 
 ```
+{: .game-dialogs }
 
 ## Strategy
 

@@ -31,6 +31,7 @@ I am Turgon, son. The greatest warrior in the realm.
 
 You are a great warrior, and if you best me, you must find and kill the Red Dragon. I have every faith in you.
 ```
+{: .game-dialogs }
 
 ## Questioning Turgon
 
@@ -38,6 +39,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 You are truly the BEST warrior in the realm.
 ```
+{: .game-dialogs }
 
 ## Defeating Turgon
 
@@ -88,6 +90,7 @@ You receive 550 hitpoints, 200 strength and 150 defense points!
 
 YOU ARE NOW LEVEL 12.
 ```
+{: .game-dialogs }
 
 ### Return Message
 
@@ -97,6 +100,7 @@ You pay your respects to Turgon, and stroll around the grounds.
 
 Lesser warriors bow low as you pass. Turgon's last words advise you to find and kill the Red Dragon..
 ```
+{: .game-dialogs }
 
 ## Strategy
 

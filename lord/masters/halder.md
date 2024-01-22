@@ -29,6 +29,7 @@ This is the dialogue you see when you first go to the training center at level 1
 ```
 Hi there. Although I may not look muscular, I ain't all that weak. You cannot advance to another Master until you can best me in battle. I don't really have any advice except wear a groin cup at all times. I learned the hard way.
 ```
+{: .game-dialogs }
 
 ## Questioning Halder
 
@@ -36,6 +37,7 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 ```
 Gee, your muscles are getting bigger than mine...
 ```
+{: .game-dialogs }
 
 ## Defeating Halder
 
@@ -86,6 +88,7 @@ You receive 10 Hit Points, 5 strength and 2 defense points!
 
 YOU ARE NOW LEVEL 2.
 ```
+{: .game-dialogs }
 
 ## Strategy
 
