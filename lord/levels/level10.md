@@ -18,7 +18,7 @@ The tenth level of the game is often seen as the worst in the game. The Forest M
 
 ## Level 10 Base Stats
 
-|  Hp | Strength | Defense |
+|  HP | STRENGTH | DEFENSE |
 |----:|---------:|--------:|
 | 780 |      329 |     232 |
 {: .levelstats }

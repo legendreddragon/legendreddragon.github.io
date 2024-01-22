@@ -18,7 +18,7 @@ The fifth level of the game is a relatively easy one, though Silent Death can be
 
 ## Level 5 Base Stats
 
-| Hp | Strength | Defense |
+| HP | STRENGTH | DEFENSE |
 |---:|---------:|--------:|
 | 95 |       39 |      20 |
 {: .levelstats }

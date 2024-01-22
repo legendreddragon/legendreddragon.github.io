@@ -18,7 +18,7 @@ The fourth level of the game is a relatively easy one, which should pose no prob
 
 ## Level 4 Base Stats
 
-| Hp | Strength | Defense |
+| HP | STRENGTH | DEFENSE |
 |---:|---------:|--------:|
 | 65 |       27 |      10 |
 {: .levelstats }

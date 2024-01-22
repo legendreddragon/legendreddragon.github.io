@@ -18,7 +18,7 @@ The twelfth and final level of the game is where The Red Dragon is found. It is 
 
 ## Level 12 Base Stats
 
-|    Hp | Strength | Defense |
+|    HP | STRENGTH | DEFENSE |
 |------:|---------:|--------:|
 | 1,680 |      679 |     502 |
 {: .levelstats }

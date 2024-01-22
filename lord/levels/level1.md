@@ -18,7 +18,7 @@ The first level of the game is a relatively easy one, with only one dangerous Fo
 
 ## Level 1 Base Stats
 
-| Hp | Strength | Defense |
+| HP | STRENGTH | DEFENSE |
 |---:|---------:|--------:|
 | 20 |        5 |       0 |
 {: .levelstats }

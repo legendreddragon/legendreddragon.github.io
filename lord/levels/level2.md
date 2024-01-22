@@ -18,7 +18,7 @@ The second level of the game is a relatively easy one, which should pose no prob
 
 ## Level 2 Base Stats
 
-| Hp | Strength | Defense |
+| HP | STRENGTH | DEFENSE |
 |---:|---------:|--------:|
 | 30 |       10 |       2 |
 {: .levelstats }

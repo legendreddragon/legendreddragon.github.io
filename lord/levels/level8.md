@@ -18,7 +18,7 @@ The eighth level of the game is the the level most commonly used to build up Gol
 
 ## Level 8 Base Stats
 
-|  Hp | Strength | Defense |
+|  HP | STRENGTH | DEFENSE |
 |----:|---------:|--------:|
 | 345 |      144 |      92 |
 {: .levelstats }

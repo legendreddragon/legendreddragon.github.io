@@ -18,7 +18,7 @@ The seventh level of the game is sometimes skipped by competitive players. The m
 
 ## Level 7 Base Stats
 
-|  Hp | Strength | Defense |
+|  HP | STRENGTH | DEFENSE |
 |----:|---------:|--------:|
 | 220 |       94 |      57 |
 {: .levelstats }

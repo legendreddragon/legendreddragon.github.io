@@ -18,7 +18,7 @@ The sixth level of the game is where things start getting a little more difficul
 
 ## Level 6 Base Stats
 
-|  Hp | Strength | Defense |
+|  HP | STRENGTH | DEFENSE |
 |----:|---------:|--------:|
 | 145 |       59 |      35 |
 {: .levelstats }

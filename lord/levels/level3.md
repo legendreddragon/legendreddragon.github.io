@@ -18,7 +18,7 @@ The third level of the game is a relatively easy one, which should pose no probl
 
 ## Level 3 Base Stats
 
-| Hp | Strength | Defense |
+| HP | STRENGTH | DEFENSE |
 |---:|---------:|--------:|
 | 45 |       17 |       5 |
 {: .levelstats }
