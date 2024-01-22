@@ -50,8 +50,7 @@ h1, h2, h3, h4, h5 {
     font-weight: bold;
 }
 
-.realms-table {
-    margin-bottom: 0.4rem;
+.table-wrapper:has(table.realms-table) {
     box-shadow: unset;
 }
 
@@ -59,7 +58,9 @@ h1, h2, h3, h4, h5 {
     border: 0;
     background: unset;
 }
-
+.realms-table tr {
+    margin-bottom: 0.4rem;
+}
 
 .realm-button {
     width: 6.8rem;
