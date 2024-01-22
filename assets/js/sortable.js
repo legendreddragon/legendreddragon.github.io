@@ -263,6 +263,7 @@ function addAriaAll(qs) {
 
 function addAriaAttributes() {
     addAria(".levels th:nth-child(1)") ;
+    addAria(".masterodds th:nth-child(1)") ;
     addAria(".weapons th:nth-child(2)");
     addAria(".armours th:nth-child(2)");
     addAria(".weaponsarmours th:nth-child(2)");
