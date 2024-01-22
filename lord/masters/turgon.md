@@ -26,12 +26,11 @@ Turgon is the level eleven master. His weapon is the Able's Sword. He has 2,500 
 ## Encountering Turgon
 
 This is the dialogue you see when you first go to the training center at level 11:
-```
-I am Turgon, son. The greatest warrior in the realm.
 
-You are a great warrior, and if you best me, you must find and kill the Red Dragon. I have every faith in you.
-```
-{: .game-dialogs }
+| I am Turgon, son. The greatest warrior in the realm.
+| 
+| You are a great warrior, and if you best me, you must find and kill the Red Dragon. I have every faith in you.
+{: .game-citation }
 
 ## Questioning Turgon
 
