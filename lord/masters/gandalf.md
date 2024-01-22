@@ -26,20 +26,17 @@ Gandalf is the level ten master. His weapon is the Huge Fireballs. He has 1,800 
 ## Encountering Gandalf
 
 This is the dialogue you see when you first go to the training center at level 10:
-```
-You are now level ten.. A true honor!
 
-Do not stop now... You may be the one to rid the realm of the Red Dragon yet... Only two more levels to go until you are the greatest warrior in the land. 
-```
-{: .game-dialogs }
+> You are now level ten.. A true honor!
+> Do not stop now... You may be the one to rid the realm of the Red Dragon yet... Only two more levels to go until you are the greatest warrior in the land. 
+{: .game-citation }
 
 ## Questioning Gandalf
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
-```
-You're becoming a very skilled warrior.
-```
-{: .game-dialogs }
+
+> You're becoming a very skilled warrior.
+{: .game-citation }
 
 ## Defeating Gandalf
 
@@ -72,16 +69,12 @@ Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*10
 ### Defeat Message
 
 Upon defeating Gandalf, you receive the following message:
-```
-You have bested Gandalf!
 
-Torak's Tooth! You are great!
-
-You receive 350 hitpoints, 150 strength and 120 defense points!
-
-YOU ARE NOW LEVEL 11.
-```
-{: .game-dialogs }
+> You have bested Gandalf!
+> Torak's Tooth! You are great!
+> You receive 350 hitpoints, 150 strength and 120 defense points!
+> YOU ARE NOW LEVEL 11.
+{: .game-citation }
 
 ## Strategy
 

@@ -26,20 +26,17 @@ Olodrin is the level four master. His weapon is the Power Axe. He has 120 Hit Po
 ## Encountering Olodrin
 
 This is the dialogue you see when you first go to the training center at level 4:
-```
-You are now level four. But don't get cocky - There
 
-are many in the realm that could kick your... Nevermind, I'm just not good at being insperational.
-```
-{: .game-dialogs }
+> You are now level four. But don't get cocky - There
+> are many in the realm that could kick your... Nevermind, I'm just not good at being insperational.
+{: .game-citation }
 
 ## Questioning Olodrin
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
-```
-You're becoming a very skilled warrior.
-```
-{: .game-dialogs }
+
+> You're becoming a very skilled warrior.
+{: .game-citation }
 
 ## Defeating Olodrin
 
@@ -81,16 +78,12 @@ Chances of defeating Olodrin with 0 and 16 Gems.<br><span class="oddsinfo">*\*10
 ### Defeat Message
 
 Upon defeating Olodrin, you receive the following message:
-```
-You have bested Olodrin!
 
-Ye Gods!! You are a master warrior!
-
-You receive 30 hitpoints, 12 strength and 10 defense points!
-
-YOU ARE NOW LEVEL 5.
-```
-{: .game-dialogs }
+> You have bested Olodrin!
+> Ye Gods!! You are a master warrior!
+> You receive 30 hitpoints, 12 strength and 10 defense points!
+> YOU ARE NOW LEVEL 5.
+{: .game-citation }
 
 ## Strategy
 

@@ -26,20 +26,17 @@ Sparhawk is the level six master. His weapon is the Double-Bladed Sword. He has 
 ## Encountering Sparhawk
 
 This is the dialogue you see when you first go to the training center at level 6:
-```
-You are level six! Vengeance is yours!
 
-You can now beat up on all those young punks that made fun of you when you were level 1. This patch? Oh - I lost my eye when I fell on my sword after tripping over a gopher. If you tell anyone this, I'll hunt you down.
-```
-{: .game-dialogs }
+> You are level six! Vengeance is yours!
+> You can now beat up on all those young punks that made fun of you when you were level 1. This patch? Oh - I lost my eye when I fell on my sword after tripping over a gopher. If you tell anyone this, I'll hunt you down.
+{: .game-citation }
 
 ## Questioning Sparhawk
 
 When you `(Q)uestion` your master to see if you have enough experience to level up, this is what you see if you can go ahead and challenge him/her:
-```
-You're getting the hang of it now!
-```
-{: .game-dialogs }
+
+> You're getting the hang of it now!
+{: .game-citation }
 
 ## Defeating Sparhawk
 
@@ -72,16 +69,12 @@ Chances of defeating Sparhawk with 0 and 24 Gems.<br><span class="oddsinfo">*\*1
 ### Defeat Message
 
 Upon defeating Sparhawk, you receive the following message:
-```
-You have bested Sparhawk!
 
-This Battle is yours...You have fought with honor.
-
-You receive 75 Hit Points, 35 strength and 22 defense points!
-
-YOU ARE NOW LEVEL 7. 
-```
-{: .game-dialogs }
+> You have bested Sparhawk!
+> This Battle is yours...You have fought with honor.
+> You receive 75 Hit Points, 35 strength and 22 defense points!
+> YOU ARE NOW LEVEL 7. 
+{: .game-citation }
 
 ## Strategy
 
