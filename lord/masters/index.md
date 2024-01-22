@@ -16,10 +16,10 @@ has_children: true
 ## Gameplay
 
 There are eleven masters in Legend of the Red Dragon, one for each level you can master.  
-  
-When you reach level 12, The Red Dragon becomes "the master" you need to beat to reset your game to level 1.
 
 To advance a level, you have to beat your master.  
+  
+When you reach level 12, The Red Dragon becomes "the master" you need to beat to reset your game to level 1.
 
 Each Master has a different minimum XP requirement for you to be able to attack him (except for the Red Dragon).
 
