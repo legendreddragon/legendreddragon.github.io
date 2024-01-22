@@ -26,7 +26,7 @@ Nuklear Lord, built in the year 2000, was meant to demonstrate the possibility o
 After a slow but steady decline, Nuklear LoRD went down in early 2019.  
 
 ## legendreddragon.net  
-Also called `'Gear LoRD'`, or `'LoRD Gearhost'` because of the hosting provider, <a href="https://www.gearhost.com/" target="_blank">Gearhost</a>.  
+Also called `Gear LoRD`, or `LoRD Gearhost` because of the hosting provider, <a href="https://www.gearhost.com/" target="_blank">Gearhost</a>.  
   
 The game is very similar to Nuklear, with five realms with slightly different rules.
 
