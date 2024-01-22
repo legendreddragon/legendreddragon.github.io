@@ -70,8 +70,11 @@ Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo
 Upon defeating Prince Caspian, you receive the following message:
 
 > You have bested Prince Caspian!
+> 
 > Good show, chap! Jolly good show!
+> 
 > You receive 250 hitpoints, 110 strength and 80 defense points!
+> 
 > YOU ARE NOW LEVEL 10.
 {: .game-citation }
 

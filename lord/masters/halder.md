@@ -79,8 +79,11 @@ Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Millio
 Upon defeating Halder, you receive the following message:
 
 > You have bested Halder!
+> 
 > Belar!!! You are truly a great warrior!
+> 
 > You receive 10 Hit Points, 5 strength and 2 defense points!
+> 
 > YOU ARE NOW LEVEL 2.
 {: .game-citation }
 

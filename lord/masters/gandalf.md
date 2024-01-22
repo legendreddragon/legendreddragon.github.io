@@ -28,6 +28,7 @@ Gandalf is the level ten master. His weapon is the Huge Fireballs. He has 1,800 
 This is the dialogue you see when you first go to the training center at level 10:
 
 > You are now level ten.. A true honor!
+> 
 > Do not stop now... You may be the one to rid the realm of the Red Dragon yet... Only two more levels to go until you are the greatest warrior in the land. 
 {: .game-citation }
 
@@ -71,8 +72,11 @@ Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*10
 Upon defeating Gandalf, you receive the following message:
 
 > You have bested Gandalf!
+> 
 > Torak's Tooth! You are great!
+> 
 > You receive 350 hitpoints, 150 strength and 120 defense points!
+> 
 > YOU ARE NOW LEVEL 11.
 {: .game-citation }
 

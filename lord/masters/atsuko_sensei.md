@@ -70,8 +70,11 @@ Chances of defeating Atsuko Sensei with 0 and 30 Gems.<br><span class="oddsinfo"
 Upon defeating Atsuko Sensei, you receive the following message:
 
 > You have bested Atsuko Sensei!
+> 
 > Even though you beat me, I am proud of you.
+> 
 > You receive 125 hitpoints, 50 strength and 35 defense points!
+> 
 > YOU ARE NOW LEVEL 8. 
 {: .game-citation }
 

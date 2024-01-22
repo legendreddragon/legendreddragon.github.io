@@ -28,6 +28,7 @@ Aragorn is the level three master. His weapon is the Twin Swords. He has 70 Hit 
 This is the dialogue you see when you first go to the training center at level 3:
 
 > You are now level three, and you are actually becoming
+> 
 > well known in the realm. I heard your name being mentioned {C}by Violet.... Ye Gods she's hot....
 {: .game-citation }
 
@@ -80,8 +81,11 @@ Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*10
 Upon defeating Aragorn, you receive the following message:
 
 > You have bested Aragorn!
+> 
 > Torak's Eye!!! You are a great warrior!
+> 
 > You receive 20 hitpoints, 10 strength and 5 defense points!
+> 
 > YOU ARE NOW LEVEL 4.
 {: .game-citation }
 

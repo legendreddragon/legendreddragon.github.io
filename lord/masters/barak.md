@@ -28,6 +28,7 @@ Barak is the level two master. His weapon is the Battle Axe. He has 40 Hit Point
 This is the dialogue you see when you first go to the training center at level 2:
 
 > You are now level two, and a respected warrior.
+> 
 > Try talking to the Bartender, he will see you now. He is a worthy asset... Remember, your ultimate goal is to reach Ultimate Warrior status, which is level twelve.
 {: .game-citation }
 
@@ -82,8 +83,11 @@ Chances of defeating Barak with 0 and 8 Gems.<br><span class="oddsinfo">*\*100 M
 Upon defeating Barak, you receive the following message:
 
 > You have bested Barak!
+> 
 > Children Of Mara!!! You have bested me??!
+> 
 > You receive 15 Hit Points, 7 strength and 3 defense points!
+> 
 > YOU ARE NOW LEVEL 3.
 {: .game-citation }
 

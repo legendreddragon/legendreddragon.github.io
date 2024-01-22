@@ -70,8 +70,11 @@ Chances of defeating Aladdin with 0 and 40 Gems.<br><span class="oddsinfo">*\*10
 Upon defeating Aladdin, you receive the following message:
 
 > You have bested Aladdin!
+> 
 > I don't need a genie to see that you beat me, man!
+> 
 > You receive 185 hitpoints, 75 strength and 60 defense points!
+> 
 > YOU ARE NOW LEVEL 9.
 {: .game-citation }
 

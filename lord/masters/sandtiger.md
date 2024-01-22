@@ -28,6 +28,7 @@ Sandtiger is the level five master. His weapon is the Blessed Sword. He has 200 
 This is the dialogue you see when you first go to the training center at level 5:
 
 > You are now level five..Not bad...Not bad at all..
+> 
 > I am called Sandtiger - Because.. Actually I can't remember why people call me that. Oh - Don't pay attention to that stupid bartender - I could make a much better one.
 {: .game-citation }
 
@@ -80,8 +81,11 @@ Chances of defeating Sandtiger with 0 and 20 Gems.<br><span class="oddsinfo">*\*
 Upon defeating Sandtiger, you receive the following message:
 
 > You have bested Sandtiger!
+> 
 > Very impressive...Very VERY impressive.
+> 
 > You receive 50 hitpoints, 20 strength and 15 defense points!
+> 
 > YOU ARE NOW LEVEL 6. 
 {: .game-citation }
 

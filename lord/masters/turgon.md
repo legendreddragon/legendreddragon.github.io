@@ -28,6 +28,7 @@ Turgon is the level eleven master. His weapon is the Able's Sword. He has 2,500 
 This is the dialogue you see when you first go to the training center at level 11:
 
 > I am Turgon, son. The greatest warrior in the realm.
+> 
 > You are a great warrior, and if you best me, you must find and kill the Red Dragon. I have every faith in you.
 {: .game-citation }
 
@@ -80,8 +81,11 @@ Chances of defeating Turgon with 0 and 80 Gems.<br><span class="oddsinfo">*\*100
 Upon defeating Turgon, you receive the following message:
 
 > You have bested Turgon!
+> 
 > You are a master warrior!
+> 
 > You receive 550 hitpoints, 200 strength and 150 defense points!
+> 
 > YOU ARE NOW LEVEL 12.
 {: .game-citation }
 
@@ -90,6 +94,7 @@ Upon defeating Turgon, you receive the following message:
 If you return to the training center on level 11, you'll see this message:
 
 > You pay your respects to Turgon, and stroll around the grounds.
+> 
 > Lesser warriors bow low as you pass. Turgon's last words advise you to find and kill the Red Dragon..
 {: .game-citation }
 
