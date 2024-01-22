@@ -89,4 +89,4 @@ YOU ARE NOW LEVEL 2.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Halder is Stick (200) / Dagger (1K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Halder is Stick (200) / Heavy Coat (1K).

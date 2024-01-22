@@ -82,4 +82,4 @@ YOU ARE NOW LEVEL 7.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Sparhawk is Huge Axe (30K) / Huge Axe (30K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Sparhawk is Huge Axe (30K) / Iron Armour (30K).

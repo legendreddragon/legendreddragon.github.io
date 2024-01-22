@@ -91,4 +91,4 @@ YOU ARE NOW LEVEL 6.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Sandtiger is Huge Axe (30K) / Huge Axe (30K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Sandtiger is Huge Axe (30K) / Iron Armour (30K).

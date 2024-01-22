@@ -91,4 +91,4 @@ YOU ARE NOW LEVEL 5.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Olodrin is Short Sword (3K) / Short Sword (3K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Olodrin is Short Sword (3K) / Leather Vest (3K).

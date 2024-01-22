@@ -93,4 +93,4 @@ YOU ARE NOW LEVEL 3.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Barak is Stick (200) / Short Sword (3K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Barak is Stick (200) / Leather Vest (3K).

@@ -80,4 +80,4 @@ YOU ARE NOW LEVEL 9.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Aladdin is Power Axe (200K) / Power Axe (200K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Aladdin is Power Axe (200K) / Armour of Death (200K).

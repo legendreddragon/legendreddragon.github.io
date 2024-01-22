@@ -100,6 +100,6 @@ Lesser warriors bow low as you pass. Turgon's last words advise you to find and 
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Turgon is Able's Sword (400K) / Able's Sword (400K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Turgon is Able's Sword (400K) / Able's Armour (400K).
 
 However, players often fail to defeat him with Wan's Weapon and Full Body Armor. Jennie HOTT or a fairy is often used on Turgon due to the difficulty in beating him.

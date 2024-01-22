@@ -82,6 +82,6 @@ YOU ARE NOW LEVEL 11.
 
 ## Strategy
 
-The minimum generally accepted Weapon / Armour that is needed to defeat Gandalf is Able's Sword (400K) / Able's Sword (400K).
+The minimum generally accepted Weapon / Armour that is needed to defeat Gandalf is Able's Sword (400K) / Able's Armour (400K).
 
 Jennie HOTT or a fairy is often used on Gandalf due to the difficulty in beating him.
