@@ -82,4 +82,4 @@ YOU ARE NOW LEVEL 8.
 
 The minimum generally accepted Weapon / Armour that is needed to defeat Atsuko Sensei is Power Axe (200K) / Iron Armour (30K).
 
-It has been accomplished with the Twin Swords/Bronze Armour, and people have failed with the Power Axe/Armour of Death and Jennie HOTT. Atsuko isn't called Atsucko for nothing; she's vicious on some days.
+It has been accomplished with the Twin Swords/Bronze Armour, and people have failed with the Power Axe/Armour of Death and Jennie HOTT. Atsuko isn't called Atsucko for nothing. She's vicious on some days.
