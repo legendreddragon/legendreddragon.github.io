@@ -8,7 +8,7 @@ has_children: false
 # Prince Caspian
 {: .no_toc }
 
-Prince Caspian is the level nine master. His weapon is the Flashing Rapier. He has 1,200 Hit Points and a Strength of 500. You need to have 1,000,000 Experience to challenge Prince Caspian.
+Prince Caspian is the [level nine master](/lord/levels/level9/). His weapon is the Flashing Rapier. He has 1,200 Hit Points and a Strength of 500. You need to have 1,000,000 Experience to challenge Prince Caspian.
 
 ## Table of contents
 {: .no_toc .text-delta }
