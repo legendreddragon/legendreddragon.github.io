@@ -91,7 +91,7 @@ Upon defeating Turgon, you receive the following message:
 
 ### Return Message
 
-If you return to the training center on level 11, you'll see this message:
+If you return to the training center on level 12, you'll see this message:
 
 > You pay your respects to Turgon, and stroll around the grounds.
 > 
