@@ -8,7 +8,7 @@ has_children: false
 # Olodrin
 {: .no_toc }
 
-Olodrin is the [level four master](/lord/levels/level4/). His weapon is the Power Axe. He has 120 Hit Points and a Strength of 70. You need to have 4,000 Experience to challenge Olodrin.
+Olodrin is the [level four](/lord/levels/level4/) master. His weapon is the Power Axe. He has 120 Hit Points and a Strength of 70. You need to have 4,000 Experience to challenge Olodrin.
 
 ## Table of contents
 {: .no_toc .text-delta }

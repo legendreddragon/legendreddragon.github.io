@@ -8,7 +8,7 @@ has_children: false
 # Turgon
 {: .no_toc }
 
-Turgon is the [level eleven master](/lord/levels/level11/). His weapon is the Able's Sword. He has 2,500 Hit Points and a Strength of 1,200. You need to have 10,000,000 Experience to challenge Turgon.
+Turgon is the [level eleven](/lord/levels/level11/) master. His weapon is the Able's Sword. He has 2,500 Hit Points and a Strength of 1,200. You need to have 10,000,000 Experience to challenge Turgon.
 
 ## Table of contents
 {: .no_toc .text-delta }
