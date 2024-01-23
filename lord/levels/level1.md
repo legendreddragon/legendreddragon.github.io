@@ -59,7 +59,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
   
 ## Master
 
-Halder is the Level 1 master. He is easily beatable with a Stick and a Leather Vest.
+[Halder](/lord/masters/halder/) is the Level 1 master. He is easily beatable with a Stick and a Leather Vest.
 
 ### Odds for Halder (%)
 

@@ -59,7 +59,7 @@ Level 2 is easily survivable with a Stick and Leather Vest.
   
 ## Master
 
-Barak is the Level 2 master. He is easily beatable with Stick/Leather Vest.
+[Barak](/lord/masters/barak/) is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 
 ### Odds for Barak (%)
 

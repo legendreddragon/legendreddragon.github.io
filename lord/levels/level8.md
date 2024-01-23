@@ -59,7 +59,7 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
   
 ## Master
 
-Aladdin is the Level 8 master. He can be beaten with a Power Axe and Armour of Death.
+[Aladdin](/lord/masters/aladdin/) is the Level 8 master. He can be beaten with a Power Axe and Armour of Death.
 
 ### Odds for Aladdin (%)
 

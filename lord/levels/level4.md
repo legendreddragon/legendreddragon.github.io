@@ -59,7 +59,7 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
   
 ## Master
 
-Olodrin is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
+[Olodrin](/lord/masters/olodrin/) is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
 
 ### Odds for Olodrin (%)
 

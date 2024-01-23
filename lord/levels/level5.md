@@ -59,7 +59,7 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
   
 ## Master
 
-Sandtiger is the Level 5 master. He is generally beaten with a Huge Axe and Iron Armour, however it's not guaranteed. Passing Sandtiger can take a couple of attempts at times.
+[Sandtiger](/lord/masters/sandtiger/) is the Level 5 master. He is generally beaten with a Huge Axe and Iron Armour, however it's not guaranteed. Passing Sandtiger can take a couple of attempts at times.
 
 ### Odds for Sandtiger (%)
 
