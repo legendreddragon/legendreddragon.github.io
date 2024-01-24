@@ -13,7 +13,7 @@ has_children: true
 1. TOC
 {:toc}
 
-## Gameplay
+## The 11 Masters
 
 There are eleven masters in Legend of the Red Dragon, one for each level you can master.  
 
