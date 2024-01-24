@@ -27,9 +27,11 @@ Olodrin is the [level four](/lord/levels/level4/) master. His weapon is the Powe
 
 This is the dialogue you see when you first go to the training center at level 4:
 
-> You are now level four. But don't get cocky - There
+> You are now level four. But don't get cocky - 
 > 
-> are many in the realm that could kick your... Nevermind, I'm just not good at being insperational.
+> There are many in the realm that could kick your... 
+> 
+> Nevermind, I'm just not good at being insperational.
 {: .game-citation }
 
 ## Questioning Olodrin
