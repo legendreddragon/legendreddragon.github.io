@@ -40,6 +40,7 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                       |  HP | ATT |  XP |  GOLD | RARE | WEAPON            | 
 |:---------------------------|----:|----:|----:|------:|:-----|:------------------|
 | Clancy, Son Of Emperor Len | 324 |  52 | 324 | 4,764 | No   | Spiked Bull Whip  | 

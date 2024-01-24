@@ -40,6 +40,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                      |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:--------------------------|------:|------:|-------:|--------:|:-----|:-------------------|
 | Ables Creature            | 2,455 |   985 | 28,222 | 176,775 | No   | Bear Hug           | 

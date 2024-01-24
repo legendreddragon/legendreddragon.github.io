@@ -40,6 +40,7 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                |  HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:--------------------|----:|----:|------:|-------:|:-----|:--------------------|
 | Fallen Angel        | 654 | 154 |   483 | 12,339 | No   | Throwing Halos      | 

@@ -40,6 +40,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME             | HP | ATT | XP | GOLD | RARE | WEAPON        | 
 |:-----------------|---:|----:|---:|-----:|:-----|:--------------|
 | Large Mosquito   |  3 |   2 |  2 |   46 | No   | Blood Sucker  | 

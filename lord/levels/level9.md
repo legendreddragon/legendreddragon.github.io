@@ -40,6 +40,7 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                 |    HP | ATT |    XP |   GOLD | RARE | WEAPON                | 
 |:---------------------|------:|----:|------:|-------:|:-----|:----------------------|
 | Hemo-Glob            | 1,232 | 212 | 4,432 | 27,853 | No   | Weak Insults          | 

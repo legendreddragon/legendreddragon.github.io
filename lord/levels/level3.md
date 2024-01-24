@@ -40,6 +40,7 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                   | HP | ATT | XP | GOLD | RARE | WEAPON                | 
 |:-----------------------|---:|----:|---:|-----:|:-----|:----------------------|
 | Purple Monchichi       | 29 |  14 | 23 |  763 | No   | Continuous Whining    | 

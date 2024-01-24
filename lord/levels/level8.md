@@ -40,6 +40,7 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME             |    HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:-----------------|------:|----:|------:|-------:|:-----|:--------------------|
 | Baby Dragon      | 2,322 | 176 | 3,675 | 25,863 | No   | Dragon Smoke        | 

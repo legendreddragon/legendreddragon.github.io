@@ -50,6 +50,7 @@ Corinthian Giant should never be fought in a competitve game.
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                   |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:-----------------------|------:|------:|-------:|--------:|:-----|:-------------------|
 | Kal Torak              | 6,666 |   876 | 94,663 | 447,774 | No   | Cthrek Goru        | 

@@ -40,6 +40,7 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                      |    HP | ATT |     XP |   GOLD | RARE | WEAPON                | 
 |:--------------------------|------:|----:|-------:|-------:|:-----|:----------------------|
 | Adult Gold Dragon         | 3,222 | 565 | 15,364 | 56,444 | No   | Dragon Fire           | 

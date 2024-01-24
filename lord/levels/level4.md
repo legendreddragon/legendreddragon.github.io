@@ -40,6 +40,7 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME            | HP | ATT | XP |  GOLD | RARE | WEAPON          | 
 |:----------------|---:|----:|---:|------:|:-----|:----------------|
 | Weak Orc        | 32 |  27 | 25 |   900 | No   | Spiked Club     | 

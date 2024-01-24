@@ -40,6 +40,7 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME                        | HP | ATT | XP | GOLD | RARE | WEAPON               | 
 |:----------------------------|---:|----:|---:|-----:|:-----|:---------------------|
 | Fredrick the Limping Baboon | 23 |   8 |  6 |   97 | No   | Scary Faces          | 

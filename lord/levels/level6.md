@@ -40,6 +40,7 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 {: .monsterrank }
   
 ### All Monsters
+
 | NAME               |  HP | ATT |  XP |  GOLD | RARE | WEAPON                     | 
 |:-------------------|----:|----:|----:|------:|:-----|:---------------------------|
 | Empty Armour       | 390 |  67 | 432 | 6,431 | No   | Cutting Wind               | 
