@@ -407,6 +407,8 @@ window.addEventListener("keydown", function (event) {
 // the last option dispatches the event to the listener first,
 // then dispatches event to window
 
+
+// Method to add/subtract a Date object
 Date.prototype.addHours = function (hours) {
     const date = new Date(this.valueOf())
     date.setTime(date.getTime() + hours * 60 * 60 * 1000)

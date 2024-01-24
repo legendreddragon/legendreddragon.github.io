@@ -40,6 +40,7 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME            | HP | ATT | XP |  GOLD | RARE | WEAPON          | 
 |:----------------|---:|----:|---:|------:|:-----|:----------------|
@@ -61,7 +62,7 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 
 [Olodrin](/lord/masters/olodrin/) is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
 
-### Odds for Olodrin (%)
+### Probabilities for Olodrin (%)
 
 Chances of defeating Olodrin with 0 and 16 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

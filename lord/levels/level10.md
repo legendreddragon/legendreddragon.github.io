@@ -40,6 +40,7 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                      |    HP | ATT |     XP |   GOLD | RARE | WEAPON                | 
 |:--------------------------|------:|----:|-------:|-------:|:-----|:----------------------|
@@ -53,14 +54,14 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | Toraks Son, Korak         | 1,384 | 921 | 13,877 | 46,575 | No   | Sword Of Lightning    | 
 | Sweet Looking Little Girl | 1,232 | 989 | 14,534 | 52,322 | No   | Demon Strike          | 
 |===========================|=======|=====|========|========|======|=======================|
-| AVERAGES                  | 1,907 | 687 | 12,319 | 42,488 |      |                       | 
+| AVERAGES                  | 1,935 | 666 | 12,120 | 42,822 |      |                       | 
 {: .sortable .monsters }
   
 ## Master
 
 [Gandalf](/lord/masters/gandalf/) is the Level 10 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 50% chance. The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Gandalf a few times.
 
-### Odds for Gandalf (%)
+### Probabilities for Gandalf (%)
 
 Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

@@ -40,6 +40,7 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                 |    HP | ATT |    XP |   GOLD | RARE | WEAPON                | 
 |:---------------------|------:|----:|------:|-------:|:-----|:----------------------|
@@ -54,14 +55,14 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 | Scallian Rap         |   788 | 601 | 6,784 | 22,430 | No   | Way Of Hurting People | 
 | Earth Shaker         |   985 | 767 | 7,432 | 37,565 | No   | Earthquake            | 
 |======================|=======|=====|=======|========|======|=======================|
-| AVERAGES             | 1,100 | 440 | 6,854 | 30,711 |      |                       | 
+| AVERAGES             | 1,099 | 445 | 6,705 | 30,051 |      |                       | 
 {: .sortable .monsters }
   
 ## Master
 
 [Prince Caspian](/lord/masters/prince_caspian/) is the Level 9 master. He can be beaten with an Able's Sword and Able's Armour, however it is generally advised to wait until you have a Wan's Weapon and Full Body Armour.
 
-### Odds for Prince Caspian (%)
+### Probabilities for Prince Caspian (%)
 
 Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

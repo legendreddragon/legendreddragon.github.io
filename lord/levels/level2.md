@@ -40,6 +40,7 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                        | HP | ATT | XP | GOLD | RARE | WEAPON               | 
 |:----------------------------|---:|----:|---:|-----:|:-----|:---------------------|
@@ -61,7 +62,7 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 
 [Barak](/lord/masters/barak/) is the Level 2 master. He is easily beatable with Stick/Leather Vest.
 
-### Odds for Barak (%)
+### Probabilities for Barak (%)
 
 Chances of defeating Barak with 0 and 8 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

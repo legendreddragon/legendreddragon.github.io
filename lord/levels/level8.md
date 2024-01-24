@@ -40,6 +40,7 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME             |    HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:-----------------|------:|----:|------:|-------:|:-----|:--------------------|
@@ -54,14 +55,14 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 | Rundorig         |   675 | 330 | 2,748 | 17,853 | No   | Poison Claws        | 
 | King Vidion      | 1,243 | 400 | 6,764 | 28,575 | No   | Long Sword Of Death | 
 |==================|=======|=====|=======|========|======|=====================|
-| AVERAGES         |   883 | 243 | 3,126 | 20,353 |      |                     | 
+| AVERAGES         |   893 | 243 | 3,242 | 20,068 |      |                     | 
 {: .sortable .monsters }
   
 ## Master
 
 [Aladdin](/lord/masters/aladdin/) is the Level 8 master. He can be beaten with a Power Axe and Armour of Death.
 
-### Odds for Aladdin (%)
+### Probabilities for Aladdin (%)
 
 Chances of defeating Aladdin with 0 and 40 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

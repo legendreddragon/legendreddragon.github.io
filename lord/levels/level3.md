@@ -40,6 +40,7 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                   | HP | ATT | XP | GOLD | RARE | WEAPON                | 
 |:-----------------------|---:|----:|---:|-----:|:-----|:----------------------|
@@ -61,7 +62,7 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 
 [Aragorn](/lord/masters/aragorn/) is the Level 3 master. He is easily beatable with Short Sword/Leather Vest.
 
-### Odds for Aragorn (%)
+### Probabilities for Aragorn (%)
 
 Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

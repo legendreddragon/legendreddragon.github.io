@@ -40,6 +40,7 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                       |  HP | ATT |  XP |  GOLD | RARE | WEAPON            | 
 |:---------------------------|----:|----:|----:|------:|:-----|:------------------|
@@ -54,14 +55,14 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 | Bald Medusa                | 120 |  78 | 256 | 4,000 | No   | Glare Of Stone    | 
 | Silent Death               |  98 | 113 | 230 | 4,711 | No   | Pale Smoke        | 
 |============================|=====|=====|=====|=======|======|===================|
-| AVERAGES                   | 105 |  63 | 152 | 2,989 |      |                   | 
+| AVERAGES                   | 108 |  64 | 157 | 3,045 |      |                   | 
 {: .sortable .monsters }
   
 ## Master
 
 [Sandtiger](/lord/masters/sandtiger/) is the Level 5 master. He is generally beaten with a Huge Axe and Iron Armour, however it's not guaranteed. Passing Sandtiger can take a couple of attempts at times.
 
-### Odds for Sandtiger (%)
+### Probabilities for Sandtiger (%)
 
 Chances of defeating Sandtiger with 0 and 20 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

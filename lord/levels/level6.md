@@ -40,6 +40,7 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME               |  HP | ATT |  XP |  GOLD | RARE | WEAPON                     | 
 |:-------------------|----:|----:|----:|------:|:-----|:---------------------------|
@@ -54,14 +55,14 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 | Black Soul         | 432 | 112 | 432 | 5,865 | No   | Black Candle               | 
 | Belar              | 352 | 120 | 565 | 9,432 | No   | Fists Of Rage              | 
 |====================|=====|=====|=====|=======|======|============================|
-| AVERAGES           | 271 |  89 | 412 | 5,757 |      |                            | 
+| AVERAGES           | 263 |  90 | 404 | 5,445 |      |                            | 
 {: .sortable .monsters }
   
 ## Master
 
 [Sparhawk](/lord/masters/sparhawk/) is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour, however it is generally advisable to have at least Armour of Death before going to Level 7.
 
-### Odds for Sparhawk (%)
+### Probabilities for Sparhawk (%)
 
 Chances of defeating Sparhawk with 0 and 24 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

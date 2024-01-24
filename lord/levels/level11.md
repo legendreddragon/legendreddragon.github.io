@@ -40,6 +40,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                      |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:--------------------------|------:|------:|-------:|--------:|:-----|:-------------------|
@@ -53,7 +54,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | Mountain                  | 1,284 | 1,544 | 38,774 | 186,454 | No   | Landslide          | 
 | ShadowStormWarrior        | 2,767 | 1,655 | 26,181 | 162,445 | No   | Mystical Storm     | 
 |===========================|=======|=======|========|=========|======|====================|
-| AVERAGES                  | 2,056 | 1,207 | 25,292 | 141,427 |      |                    | 
+| AVERAGES                  | 2,078 | 1,172 | 23,944 | 138,034 |      |                    | 
 {: .sortable .monsters }
   
 ## Master
@@ -62,7 +63,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
   
 The problem happens when you die, get below 10 million XP and get stuck in the '11 Hell', without being able to challenge Turgon. So, saving up to 15 million XP may be a good idea before trying the jump to 12. That will give you a few days to try.
 
-### Odds for Turgon (%)
+### Probabilities for Turgon (%)
 
 Chances of defeating Turgon with 0 and 80 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

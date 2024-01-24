@@ -50,6 +50,7 @@ Corinthian Giant should never be fought in a competitve game.
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                   |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:-----------------------|------:|------:|-------:|--------:|:-----|:-------------------|
@@ -64,7 +65,7 @@ Corinthian Giant should never be fought in a competitve game.
 | Corinthian Giant       | 2,544 | 2,400 | 60,333 | 336,643 | No   | De-rooted Tree     | 
 | Mutated Black Widow    | 1,276 | 2,575 | 98,993 | 434,370 | No   | Venom Bite         | 
 |========================|=======|=======|========|=========|======|====================|
-| AVERAGES               | 2,526 | 1,513 | 59,130 | 289,180 |      |                    | 
+| AVERAGES               | 2,494 | 1,517 | 57,234 | 298,507 |      |                    | 
 {: .sortable .monsters }
   
 ## Master

@@ -40,6 +40,7 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME                |  HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:--------------------|----:|----:|------:|-------:|:-----|:--------------------|
@@ -54,14 +55,14 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 | Swiss Butcher       | 453 | 230 |   532 |  8,363 | No   | Meat Cleaver        | 
 | Goliath             | 343 | 243 |   898 | 14,322 | No   | Six Fingered Fist   | 
 |=====================|=====|=====|=======|========|======|=====================|
-| AVERAGES            | 503 | 181 |   683 | 11,264 |      |                     | 
+| AVERAGES            | 508 | 181 |   687 | 11,415 |      |                     | 
 {: .sortable .monsters }
   
 ## Master
 
 [Atsuko Sensei](/lord/masters/atsuko_sensei/) is the Level 7 master. She can be beaten with a Huge Axe and Armour of Death or a Power Axe and Iron Armour and with a lot of luck (or a Fairy) a Huge Axe and Iron Armour. Most players would use a Power Axe and Armour of Death.
 
-### Odds for Atsuko Sensei (%)
+### Probabilities for Atsuko Sensei (%)
 
 Chances of defeating Atsuko Sensei with 0 and 30 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 

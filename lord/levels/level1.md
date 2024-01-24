@@ -40,6 +40,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 {: .monsterrank }
   
 ### All Monsters
+Averages weight rare monsters with 0.001 (chance of 1 in 1000)
 
 | NAME             | HP | ATT | XP | GOLD | RARE | WEAPON        | 
 |:-----------------|---:|----:|---:|-----:|:-----|:--------------|
@@ -61,7 +62,7 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 
 [Halder](/lord/masters/halder/) is the Level 1 master. He is easily beatable with a Stick and a Leather Vest.
 
-### Odds for Halder (%)
+### Probabilities for Halder (%)
 
 Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
