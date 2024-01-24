@@ -277,24 +277,47 @@ function addAriaAttributes() {
 
 var jennie = function() {
     let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level12'];
+    let masterPages = ['halder','barak','aragorn','olodrin','sandtiger','sparhawk','atsuko sensei','aladdin','prince caspian','gandalf','turgon'];
+    
     let jcode = prompt("", "");
-    jcode = jcode ? jcode.toLowerCase() : null;
+    jcode   = jcode ? jcode.toLowerCase() : null;
+
     if (levelPages.includes(jcode)) {
         window.open("/lord/levels/"+jcode, "_self");
+
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
+
+    } else if (masterPages.includes(jcode)) {
+        window.open("/lord/masters/"+jcode.replace(' ', '_'), "_self");
+
+    } else if (jcode == 'atsuko' || jcode == 'sensei' || jcode == 'atsuko_sensei') {
+        window.open("/lord/masters/atsuko_sensei", "_self");
+
+    } else if (jcode == 'prince' || jcode == 'caspian' || jcode == 'prince_caspian') {
+        window.open("/lord/masters/prince_caspian", "_self");
+
+    } else if (jcode == 'master' || jcode == 'masters') {
+        window.open("/lord/masters", "_self");
+
     } else if (jcode == 'home' || jcode == 'wiki') {
         window.open("/", "_self");
+
     } else if (jcode == 'lord' || jcode == 'play') {
         window.open("https://legendreddragon.net/", "_blank");
+
     } else if (jcode == 'status') {
         window.open("https://status.gearhost.com/", "_blank");
+
     } else if (jcode == 'forum') {
         window.open("https://www.facebook.com/groups/1556690911146602", "_blank");
+
     } else if (jcode == 'about') {
         window.open("https://legendreddragon.net/About", "_blank");
+
     } else if (jcode == 'oldwiki') {
         window.open("https://nuklearlord.fandom.com/wiki/Special:AllPages", "_blank");
+
     }
 }
 
