@@ -40,7 +40,7 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 {: .monsterrank }
   
 ### All Monsters
-Averages weight rare monsters with 0.001 (chance of 1 in 1000)
+*Rare monsters have an average weight of 0.001 (chance of 1 in 1000).*
 
 | NAME             |    HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:-----------------|------:|----:|------:|-------:|:-----|:--------------------|
