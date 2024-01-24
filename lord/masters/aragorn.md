@@ -27,9 +27,9 @@ Aragorn is the [level three](/lord/levels/level3/) master. His weapon is the Twi
 
 This is the dialogue you see when you first go to the training center at level 3:
 
-> You are now level three, and you are actually becoming
+> You are now level three, and you are actually becomingwell known in the realm.
 > 
-> well known in the realm. I heard your name being mentioned {C}by Violet.... Ye Gods she's hot....
+> I heard your name being mentioned by Violet.... Ye Gods she's hot....
 {: .game-citation }
 
 ## Questioning Aragorn
