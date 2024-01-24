@@ -277,6 +277,7 @@ function addAriaAttributes() {
 
 var jennie = function() {
     let levelPages = ['level1','level2','level3','level4','level5','level6','level7','level8','level9','level10','level11','level12'];
+    let levelPages2 = levelPages.map(x => x.replace("level", "level "));
     let masterPages = ['halder','barak','aragorn','olodrin','sandtiger','sparhawk','atsuko sensei','aladdin','prince caspian','gandalf','turgon'];
     
     let jcode = prompt("", "");
@@ -284,6 +285,9 @@ var jennie = function() {
 
     if (levelPages.includes(jcode)) {
         window.open("/lord/levels/"+jcode, "_self");
+
+    } else if (levelPages2.includes(jcode)) {
+        window.open("/lord/levels/"+jcode.replace(' ', ''), "_self");
 
     } else if (jcode == 'level' || jcode == 'levels') {
         window.open("/lord/levels", "_self");
