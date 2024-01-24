@@ -26,20 +26,20 @@ Each Master has a different minimum XP requirement for you to be able to attack 
 ## Masters Stats
 *All Masters have 0 defense.*  
   
-  | NAME           | LVL |     HP | ATT   |          XP CAP |              WEAPON | 
-|:---------------|----:|-------:|:------|----------------:|--------------------:|
-| Halder         |   1 |     30 | 15    |             100 |         Short Sword | 
-| Barak          |   2 |     40 | 17    |             400 |          Battle Axe | 
-| Aragorn        |   3 |     70 | 35    |           1,000 |         Twin Swords | 
-| Olodrin        |   4 |    120 | 70    |           4,000 |           Power Axe | 
-| Sandtiger      |   5 |    200 | 100   |          10,000 |       Blessed Sword | 
-| Sparhawk       |   6 |    400 | 150   |          40,000 | Double-Bladed Sword | 
-| Atsuko Sensei  |   7 |    600 | 250   |         100,000 |   Huge Curved Blade | 
-| Aladdin        |   8 |    800 | 350   |         400,000 |          Shiny Lamp | 
-| Prince Caspian |   9 |  1,200 | 500   |       1,000,000 |     Flashing Rapier | 
-| Gandalf        |  10 |  1,800 | 800   |       4,000,000 |      Huge Fireballs | 
-| Turgon         |  11 |  2,500 | 1,200 |      10,000,000 |        Able's Sword | 
-| The Red Dragon |  12 | 15,000 | 2,000 | Scorching Flame |                   - | 
+  | NAME           | LVL |     HP |   ATT |          XP CAP | WEAPON              | 
+|:---------------|----:|-------:|------:|----------------:|:--------------------|
+| Halder         |   1 |     30 |    15 |             100 | Short Sword         | 
+| Barak          |   2 |     40 |    17 |             400 | Battle Axe          | 
+| Aragorn        |   3 |     70 |    35 |           1,000 | Twin Swords         | 
+| Olodrin        |   4 |    120 |    70 |           4,000 | Power Axe           | 
+| Sandtiger      |   5 |    200 |   100 |          10,000 | Blessed Sword       | 
+| Sparhawk       |   6 |    400 |   150 |          40,000 | Double-Bladed Sword | 
+| Atsuko Sensei  |   7 |    600 |   250 |         100,000 | Huge Curved Blade   | 
+| Aladdin        |   8 |    800 |   350 |         400,000 | Shiny Lamp          | 
+| Prince Caspian |   9 |  1,200 |   500 |       1,000,000 | Flashing Rapier     | 
+| Gandalf        |  10 |  1,800 |   800 |       4,000,000 | Huge Fireballs      | 
+| Turgon         |  11 |  2,500 | 1,200 |      10,000,000 | Able's Sword        | 
+| The Red Dragon |  12 | 15,000 | 2,000 | Scorching Flame | -                   | 
 {: .sortable .masters }
   
 ## Victory Texts
