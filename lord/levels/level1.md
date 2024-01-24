@@ -63,7 +63,9 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 
 ### Probabilities for Halder (%)
 
-Chances of defeating Halder with 0 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Halder with 0 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 GEMS<br> | 0 GEMS<br>HOTT |
 |:----------:|-----------:|---------------:|

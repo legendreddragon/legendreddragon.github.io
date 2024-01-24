@@ -65,7 +65,9 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 
 ### Probabilities for Prince Caspian (%)
 
-Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Prince Caspian with 0 and 50 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 25D<br> | 25D<br>H | 25A<br> | 25A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

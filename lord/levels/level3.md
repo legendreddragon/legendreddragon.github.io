@@ -63,7 +63,9 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 
 ### Probabilities for Aragorn (%)
 
-Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Aragorn with 0 and 12 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 6D<br> | 6D<br>H | 6A<br> | 6A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|

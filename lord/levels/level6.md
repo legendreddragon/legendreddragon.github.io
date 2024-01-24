@@ -65,7 +65,9 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 
 ### Probabilities for Sparhawk (%)
 
-Chances of defeating Sparhawk with 0 and 24 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Sparhawk with 0 and 24 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 12D<br> | 12D<br>H | 12A<br> | 12A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

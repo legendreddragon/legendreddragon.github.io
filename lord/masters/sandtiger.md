@@ -43,7 +43,9 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 
 Your odds of success depend on your weapon/armour combination.
 
-Chances of defeating Sandtiger with 0 and 20 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Sandtiger with 0 and 20 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 10D<br> | 10D<br>H | 10A<br> | 10A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

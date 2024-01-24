@@ -45,7 +45,9 @@ Your odds of success depend on your weapon/armour combination.
 
 Oh wait, no they don't, because Barak is a complete wuss. If you just defeated the Dragon, and you put the mere 10 gems you got as a reward in defense, you could face him with Fists and Nothing!.
 
-Chances of defeating Barak with 0 and 8 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Barak with 0 and 8 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 4D<br> | 4D<br>H | 4A<br> | 4A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|

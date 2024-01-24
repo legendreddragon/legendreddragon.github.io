@@ -41,7 +41,9 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 
 Your odds of success depend on your weapon/armour combination.
 
-Chances of defeating Aladdin with 0 and 40 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Aladdin with 0 and 40 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 20D<br> | 20D<br>H | 20A<br> | 20A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

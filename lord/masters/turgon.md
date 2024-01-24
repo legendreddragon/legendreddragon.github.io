@@ -43,7 +43,9 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 
 Your odds of success depend on your weapon/armour combination.
 
-Chances of defeating Turgon with 0 and 80 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Turgon with 0 and 80 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 40D<br> | 40D<br>H | 40A<br> | 40A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|

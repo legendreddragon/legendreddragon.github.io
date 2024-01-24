@@ -63,7 +63,9 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 
 ### Probabilities for Olodrin (%)
 
-Chances of defeating Olodrin with 0 and 16 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Olodrin with 0 and 16 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 8D<br> | 8D<br>H | 8A<br> | 8A<br>H |
 |:----------:|--------:|---------:|-------:|--------:|-------:|--------:|

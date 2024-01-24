@@ -41,7 +41,9 @@ When you `(Q)uestion` your master to see if you have enough experience to level 
 
 Your odds of success depend on your weapon/armour combination.
 
-Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo">*\*100 Million trials on each simulation*</span>
+Chances of defeating Prince Caspian with 0 and 50 Gems.
+
+<span class="oddsinfo">*\*100 Million trials on each simulation*</span>
 
 | KIT<br>W/A | 0 G<br> | 0 G<br>H | 25D<br> | 25D<br>H | 25A<br> | 25A<br>H |
 |:----------:|--------:|---------:|--------:|---------:|--------:|---------:|
