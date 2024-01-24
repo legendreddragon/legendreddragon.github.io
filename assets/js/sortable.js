@@ -40,10 +40,10 @@
 
 // hidden form for mobile "jennie"
 var hiddenForm = document.createElement('input');
+hiddenForm.setAttribute('type','text');
 //hiddenForm.style.cssText = 'visibility: hidden;';
 hiddenForm.style.cssText = 'position: absolute; left: 0; top: -250px;';
 hiddenForm.setAttribute('id','jennie-form');
-hiddenForm.setAttribute('type','text');
 
 var tapedTwice = false; // detects double-click / tap
 
