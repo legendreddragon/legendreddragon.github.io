@@ -57,8 +57,6 @@ Level 1 is easily survivable with a Stick and a Coat. The only Forest Monster to
 | AVERAGES         |  8 |   6 |  4 |   77 |      |               | 
 {: .sortable .monsters }
   
-<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
-
 ## Master
 
 [Halder](/lord/masters/halder/) is the Level 1 master. He is easily beatable with a Stick and a Leather Vest.

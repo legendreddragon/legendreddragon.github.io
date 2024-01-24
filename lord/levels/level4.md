@@ -57,8 +57,6 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 | AVERAGES        | 47 |  40 | 38 | 1,115 |      |                 | 
 {: .sortable .monsters }
   
-<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
-
 ## Master
 
 [Olodrin](/lord/masters/olodrin/) is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
