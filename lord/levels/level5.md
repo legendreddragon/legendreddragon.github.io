@@ -40,8 +40,6 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                       |  HP | ATT |  XP |  GOLD | RARE | WEAPON            | 
 |:---------------------------|----:|----:|----:|------:|:-----|:------------------|
 | Clancy, Son Of Emperor Len | 324 |  52 | 324 | 4,764 | No   | Spiked Bull Whip  | 
@@ -58,6 +56,8 @@ Level 5 is survivable with a Huge Axe and Iron Armour.
 | AVERAGES                   | 108 |  64 | 157 | 3,045 |      |                   | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Sandtiger](/lord/masters/sandtiger/) is the Level 5 master. He is generally beaten with a Huge Axe and Iron Armour, however it's not guaranteed. Passing Sandtiger can take a couple of attempts at times.
@@ -95,7 +95,7 @@ Chances of defeating Sandtiger with 0 and 20 Gems.<br><span class="oddsinfo">*\*
 | 100K/100K  |   95.90 |    98.60 |   99.13 |    99.80 |   97.35 |    99.12 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 10D = +10 Defense | 10A = +10 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 10D = +10 Defense | 10A = +10 Attack</span>
 
 ## Gold Winnings and Costs
 

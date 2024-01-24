@@ -40,8 +40,6 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                      |    HP | ATT |     XP |   GOLD | RARE | WEAPON                | 
 |:--------------------------|------:|----:|-------:|-------:|:-----|:----------------------|
 | Adult Gold Dragon         | 3,222 | 565 | 15,364 | 56,444 | No   | Dragon Fire           | 
@@ -57,6 +55,8 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | AVERAGES                  | 1,935 | 666 | 12,120 | 42,822 |      |                       | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Gandalf](/lord/masters/gandalf/) is the Level 10 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 50% chance. The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Gandalf a few times.
@@ -85,7 +85,7 @@ Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*10
 | 4M/4M      |   91.70 |    97.05 |   95.58 |    98.51 |   92.88 |    97.58 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 30D = +30 Defense | 30A = +30 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 30D = +30 Defense | 30A = +30 Attack</span>
 
 ## Gold Winnings and Costs
 

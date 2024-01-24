@@ -40,8 +40,6 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME               |  HP | ATT |  XP |  GOLD | RARE | WEAPON                     | 
 |:-------------------|----:|----:|----:|------:|:-----|:---------------------------|
 | Empty Armour       | 390 |  67 | 432 | 6,431 | No   | Cutting Wind               | 
@@ -58,6 +56,8 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 | AVERAGES           | 263 |  90 | 404 | 5,445 |      |                            | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Sparhawk](/lord/masters/sparhawk/) is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour, however it is generally advisable to have at least Armour of Death before going to Level 7.
@@ -86,7 +86,7 @@ Chances of defeating Sparhawk with 0 and 24 Gems.<br><span class="oddsinfo">*\*1
 | 200K/200K  |   99.77 |    99.96 |   99.97 |    99.99 |   99.84 |    99.97 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 12D = +12 Defense | 12A = +12 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 12D = +12 Defense | 12A = +12 Attack</span>
 
 ## Gold Winnings and Costs
 

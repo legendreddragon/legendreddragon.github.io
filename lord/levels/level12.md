@@ -50,8 +50,6 @@ Corinthian Giant should never be fought in a competitve game.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                   |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:-----------------------|------:|------:|-------:|--------:|:-----|:-------------------|
 | Kal Torak              | 6,666 |   876 | 94,663 | 447,774 | No   | Cthrek Goru        | 
@@ -68,6 +66,8 @@ Corinthian Giant should never be fought in a competitve game.
 | AVERAGES               | 2,494 | 1,517 | 57,234 | 298,507 |      |                    | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 The Red Dragon is effectively the master of Level 12. 

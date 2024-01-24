@@ -74,7 +74,7 @@ Chances of defeating Sandtiger with 0 and 20 Gems.<br><span class="oddsinfo">*\*
 | 100K/100K  |   95.90 |    98.60 |   99.13 |    99.80 |   97.35 |    99.12 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 10D = +10 Defense | 10A = +10 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 10D = +10 Defense | 10A = +10 Attack</span>
 
 ### Defeat Message
 

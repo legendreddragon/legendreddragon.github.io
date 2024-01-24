@@ -63,7 +63,7 @@ Chances of defeating Atsuko Sensei with 0 and 30 Gems.<br><span class="oddsinfo"
 | 200K/200K  |   73.90 |    86.60 |   87.84 |    94.89 |   77.96 |    89.50 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 15D = +15 Defense | 15A = +15 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 15D = +15 Defense | 15A = +15 Attack</span>
 
 ### Defeat Message
 

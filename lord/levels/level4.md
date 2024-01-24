@@ -40,8 +40,6 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME            | HP | ATT | XP |  GOLD | RARE | WEAPON          | 
 |:----------------|---:|----:|---:|------:|:-----|:----------------|
 | Weak Orc        | 32 |  27 | 25 |   900 | No   | Spiked Club     | 
@@ -58,6 +56,8 @@ Level 4 is survivable with a Long Sword and Bronze Armour.
 | AVERAGES        | 47 |  40 | 38 | 1,115 |      |                 | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Olodrin](/lord/masters/olodrin/) is the Level 4 master. He is easily beatable with Long Sword/Bronze Armour, however it is generally advisable to have at least a Huge Axe and an Iron Armour before going to Level 5.
@@ -95,7 +95,7 @@ Chances of defeating Olodrin with 0 and 16 Gems.<br><span class="oddsinfo">*\*10
 | 30K/30K    |   94.68 |    97.96 |  98.86 |   99.70 |  96.42 |   98.69 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 8D = +8 Defense | 8A = +8 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 8D = +8 Defense | 8A = +8 Attack</span>
 
 ## Gold Winnings and Costs
 

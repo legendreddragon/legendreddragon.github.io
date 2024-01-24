@@ -40,8 +40,6 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                |  HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:--------------------|----:|----:|------:|-------:|:-----|:--------------------|
 | Fallen Angel        | 654 | 154 |   483 | 12,339 | No   | Throwing Halos      | 
@@ -58,6 +56,8 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 | AVERAGES            | 508 | 181 |   687 | 11,415 |      |                     | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Atsuko Sensei](/lord/masters/atsuko_sensei/) is the Level 7 master. She can be beaten with a Huge Axe and Armour of Death or a Power Axe and Iron Armour and with a lot of luck (or a Fairy) a Huge Axe and Iron Armour. Most players would use a Power Axe and Armour of Death.
@@ -86,7 +86,7 @@ Chances of defeating Atsuko Sensei with 0 and 30 Gems.<br><span class="oddsinfo"
 | 200K/200K  |   73.90 |    86.60 |   87.84 |    94.89 |   77.96 |    89.50 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 15D = +15 Defense | 15A = +15 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 15D = +15 Defense | 15A = +15 Attack</span>
 
 ## Gold Winnings and Costs
 

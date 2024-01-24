@@ -65,7 +65,7 @@ Chances of defeating Gandalf with 0 and 60 Gems.<br><span class="oddsinfo">*\*10
 | 4M/4M      |   91.70 |    97.05 |   95.58 |    98.51 |   92.88 |    97.58 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 30D = +30 Defense | 30A = +30 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 30D = +30 Defense | 30A = +30 Attack</span>
 
 ### Defeat Message
 

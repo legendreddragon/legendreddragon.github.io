@@ -74,7 +74,7 @@ Chances of defeating Turgon with 0 and 80 Gems.<br><span class="oddsinfo">*\*100
 | 10M/10M    |   87.05 |    94.88 |   92.09 |    97.18 |   88.69 |    95.66 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 40D = +40 Defense | 40A = +40 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 40D = +40 Defense | 40A = +40 Attack</span>
 
 ### Defeat Message
 

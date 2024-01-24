@@ -76,7 +76,7 @@ Chances of defeating Barak with 0 and 8 Gems.<br><span class="oddsinfo">*\*100 M
 | 10K/10K    |  100.00 |   100.00 | 100.00 |  100.00 | 100.00 |  100.00 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 4D = +4 Defense | 4A = +4 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 4D = +4 Defense | 4A = +4 Attack</span>
 
 ### Defeat Message
 

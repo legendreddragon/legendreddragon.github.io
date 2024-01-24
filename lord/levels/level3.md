@@ -40,8 +40,6 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                   | HP | ATT | XP | GOLD | RARE | WEAPON                | 
 |:-----------------------|---:|----:|---:|-----:|:-----|:----------------------|
 | Purple Monchichi       | 29 |  14 | 23 |  763 | No   | Continuous Whining    | 
@@ -58,6 +56,8 @@ Level 3 is survivable with a Short Sword and a Leather Vest.
 | AVERAGES               | 20 |  22 | 21 |  540 |      |                       | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Aragorn](/lord/masters/aragorn/) is the Level 3 master. He is easily beatable with Short Sword/Leather Vest.
@@ -95,7 +95,7 @@ Chances of defeating Aragorn with 0 and 12 Gems.<br><span class="oddsinfo">*\*10
 | 10K/10K    |   99.97 |   100.00 | 100.00 |  100.00 |  99.99 |  100.00 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 6D = +6 Defense | 6A = +6 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 6D = +6 Defense | 6A = +6 Attack</span>
 
 ## Gold Winnings and Costs
 

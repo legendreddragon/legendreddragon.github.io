@@ -40,8 +40,6 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                 |    HP | ATT |    XP |   GOLD | RARE | WEAPON                | 
 |:---------------------|------:|----:|------:|-------:|:-----|:----------------------|
 | Hemo-Glob            | 1,232 | 212 | 4,432 | 27,853 | No   | Weak Insults          | 
@@ -58,6 +56,8 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 | AVERAGES             | 1,099 | 445 | 6,705 | 30,051 |      |                       | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Prince Caspian](/lord/masters/prince_caspian/) is the Level 9 master. He can be beaten with an Able's Sword and Able's Armour, however it is generally advised to wait until you have a Wan's Weapon and Full Body Armour.
@@ -86,7 +86,7 @@ Chances of defeating Prince Caspian with 0 and 50 Gems.<br><span class="oddsinfo
 | 4M/4M      |   99.96 |    99.99 |   99.99 |   100.00 |   99.97 |   100.00 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 25D = +25 Defense | 25A = +25 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 25D = +25 Defense | 25A = +25 Attack</span>
 
 ## Gold Winnings and Costs
 

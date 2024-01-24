@@ -40,8 +40,6 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                        | HP | ATT | XP | GOLD | RARE | WEAPON               | 
 |:----------------------------|---:|----:|---:|-----:|:-----|:---------------------|
 | Fredrick the Limping Baboon | 23 |   8 |  6 |   97 | No   | Scary Faces          | 
@@ -58,6 +56,8 @@ Level 2 is easily survivable with a Stick and Leather Vest.
 | AVERAGES                    | 14 |  12 | 10 |  169 |      |                      | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Barak](/lord/masters/barak/) is the Level 2 master. He is easily beatable with Stick/Leather Vest.
@@ -95,7 +95,7 @@ Chances of defeating Barak with 0 and 8 Gems.<br><span class="oddsinfo">*\*100 M
 | 10K/10K    |  100.00 |   100.00 | 100.00 |  100.00 | 100.00 |  100.00 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 4D = +4 Defense | 4A = +4 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 4D = +4 Defense | 4A = +4 Attack</span>
 
 ## Gold Winnings and Costs
 

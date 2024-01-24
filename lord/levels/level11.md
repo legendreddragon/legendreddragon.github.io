@@ -40,8 +40,6 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME                      |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:--------------------------|------:|------:|-------:|--------:|:-----|:-------------------|
 | Ables Creature            | 2,455 |   985 | 28,222 | 176,775 | No   | Bear Hug           | 
@@ -57,6 +55,8 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 | AVERAGES                  | 2,078 | 1,172 | 23,944 | 138,034 |      |                    | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Turgon](/lord/masters/turgon/) is the Level 11 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 28% chance (42% with Hott). The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Turgon a few times.  
@@ -96,7 +96,7 @@ Chances of defeating Turgon with 0 and 80 Gems.<br><span class="oddsinfo">*\*100
 | 10M/10M    |   87.05 |    94.88 |   92.09 |    97.18 |   88.69 |    95.66 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 40D = +40 Defense | 40A = +40 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 40D = +40 Defense | 40A = +40 Attack</span>
 
 ## Gold Winnings and Costs
 

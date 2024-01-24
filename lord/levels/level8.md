@@ -40,8 +40,6 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
-
 | NAME             |    HP | ATT |    XP |   GOLD | RARE | WEAPON              | 
 |:-----------------|------:|----:|------:|-------:|:-----|:--------------------|
 | Baby Dragon      | 2,322 | 176 | 3,675 | 25,863 | No   | Dragon Smoke        | 
@@ -58,6 +56,8 @@ Level 8 is survivable with a Power Axe and Armour of Death. Be very careful of K
 | AVERAGES         |   893 | 243 | 3,242 | 20,068 |      |                     | 
 {: .sortable .monsters }
   
+<span class="table-footer">Rare monsters have an average weight of 0.001 (chances of 1 in 1000)</span>
+
 ## Master
 
 [Aladdin](/lord/masters/aladdin/) is the Level 8 master. He can be beaten with a Power Axe and Armour of Death.
@@ -86,7 +86,7 @@ Chances of defeating Aladdin with 0 and 40 Gems.<br><span class="oddsinfo">*\*10
 | 4M/4M      |  100.00 |   100.00 |  100.00 |   100.00 |  100.00 |   100.00 |
 {: .sortable .masterodds }
   
-<span class="masteroddsfooter">0 G = 0 Gems | H = Hott | 20D = +20 Defense | 20A = +20 Attack</span>
+<span class="table-footer">0 G = 0 Gems | H = Hott | 20D = +20 Defense | 20A = +20 Attack</span>
 
 ## Gold Winnings and Costs
 
