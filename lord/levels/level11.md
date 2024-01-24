@@ -40,7 +40,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chance of 1 in 1000).*
+*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
 
 | NAME                      |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:--------------------------|------:|------:|-------:|--------:|:-----|:-------------------|

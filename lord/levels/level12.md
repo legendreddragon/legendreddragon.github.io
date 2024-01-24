@@ -50,7 +50,7 @@ Corinthian Giant should never be fought in a competitve game.
 {: .monsterrank }
   
 ### All Monsters
-*Rare monsters have an average weight of 0.001 (chance of 1 in 1000).*
+*Rare monsters have an average weight of 0.001 (chances of 1 in 1000).*
 
 | NAME                   |    HP |   ATT |     XP |    GOLD | RARE | WEAPON             | 
 |:-----------------------|------:|------:|-------:|--------:|:-----|:-------------------|
