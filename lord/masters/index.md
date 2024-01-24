@@ -24,8 +24,9 @@ When you reach level 12, The Red Dragon becomes "the master" you need to beat to
 Each Master has a different minimum XP requirement for you to be able to attack him (except for the Red Dragon).
 
 ## Masters Stats
- 
-| NAME           | LVL |     HP | ATT   |          XP CAP |              WEAPON | 
+*All Masters have 0 defense.*  
+  
+  | NAME           | LVL |     HP | ATT   |          XP CAP |              WEAPON | 
 |:---------------|----:|-------:|:------|----------------:|--------------------:|
 | Halder         |   1 |     30 | 15    |             100 |         Short Sword | 
 | Barak          |   2 |     40 | 17    |             400 |          Battle Axe | 
