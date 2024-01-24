@@ -5,7 +5,7 @@ nav_order: 0
 ---
 # Legend Of the Red Dragon  
 {: .homeh1 .no_toc } 
-![](assets/images/slider2.webp){: .mt-5 }
+![](assets/images/slider4.webp){: .mt-5 }
 
 ## Table of contents
 {: .no_toc .text-delta }
