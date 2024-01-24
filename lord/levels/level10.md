@@ -62,7 +62,7 @@ Level 10 is very difficult with a Wan's Weapon and Full Body Armour. You would p
 
 [Gandalf](/lord/masters/gandalf/) is the Level 10 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 50% chance. The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Gandalf a few times.
 
-### Probabilities for Gandalf (%)
+### Odds against Gandalf (%)
 
 Chances of defeating Gandalf with 0 and 60 Gems.
 

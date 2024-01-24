@@ -63,7 +63,7 @@ Level 9 is survivable with a Wan's Weapon and Full Body Armour. Anything below t
 
 [Prince Caspian](/lord/masters/prince_caspian/) is the Level 9 master. He can be beaten with an Able's Sword and Able's Armour, however it is generally advised to wait until you have a Wan's Weapon and Full Body Armour.
 
-### Probabilities for Prince Caspian (%)
+### Odds against Prince Caspian (%)
 
 Chances of defeating Prince Caspian with 0 and 50 Gems.
 

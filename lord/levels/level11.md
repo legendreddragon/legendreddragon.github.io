@@ -64,7 +64,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
   
 The problem happens when you die, get below 10 million XP and get stuck in the '11 Hell', without being able to challenge Turgon. So, saving up to 15 million XP may be a good idea before trying the jump to 12. That will give you a few days to try.
 
-### Probabilities for Turgon (%)
+### Odds against Turgon (%)
 
 Chances of defeating Turgon with 0 and 80 Gems.
 

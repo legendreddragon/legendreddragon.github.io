@@ -63,7 +63,7 @@ Level 7 is survivable with a Power Axe and Armour of Death. Anything less than t
 
 [Atsuko Sensei](/lord/masters/atsuko_sensei/) is the Level 7 master. She can be beaten with a Huge Axe and Armour of Death or a Power Axe and Iron Armour and with a lot of luck (or a Fairy) a Huge Axe and Iron Armour. Most players would use a Power Axe and Armour of Death.
 
-### Probabilities for Atsuko Sensei (%)
+### Odds against Atsuko Sensei (%)
 
 Chances of defeating Atsuko Sensei with 0 and 30 Gems.
 

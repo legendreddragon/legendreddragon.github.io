@@ -63,7 +63,7 @@ Level 6 is survivable with a Huge Axe and an Iron Armour. Belar can be difficult
 
 [Sparhawk](/lord/masters/sparhawk/) is the Level 6 master. He can be beaten with a Huge Axe and Iron Armour, however it is generally advisable to have at least Armour of Death before going to Level 7.
 
-### Probabilities for Sparhawk (%)
+### Odds against Sparhawk (%)
 
 Chances of defeating Sparhawk with 0 and 24 Gems.
 
