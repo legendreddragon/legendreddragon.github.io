@@ -59,7 +59,7 @@ Level 11 is very difficult with a Wan's Weapon and Full Body Armour. You would p
   
 ## Master
 
-[Turgon](/lord/masters/turgon/) is the Level 11 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 40% chance. The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Turgon a few times.  
+[Turgon](/lord/masters/turgon/) is the Level 11 master. He is most commonly fought with a Wan's Weapon and Full Body Armour, however it's still only a 28% chance (42% with Hott). The risk is worth it, however, as saving for a Spear of Gold and Blood Armour will take longer than failing to beat Turgon a few times.  
   
 The problem happens when you die, get below 10 million XP and get stuck in the '11 Hell', without being able to challenge Turgon. So, saving up to 15 million XP may be a good idea before trying the jump to 12. That will give you a few days to try.
 
