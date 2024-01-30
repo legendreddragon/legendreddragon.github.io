@@ -23,6 +23,9 @@ Aladdin is the [level eight](/lord/levels/level8/) master. His weapon is the Shi
 | 800 | 350 | 400,000 | Shiny Lamp | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Aladdin is Power Axe (200K) / Armour of Death (200K).
 ## Encountering Aladdin
 
 This is the dialogue you see when you first go to the training center at level 8:
@@ -80,6 +83,3 @@ Upon defeating Aladdin, you receive the following message:
 > YOU ARE NOW LEVEL 9.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Aladdin is Power Axe (200K) / Armour of Death (200K).

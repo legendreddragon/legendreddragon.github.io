@@ -23,6 +23,9 @@ Olodrin is the [level four](/lord/levels/level4/) master. His weapon is the Powe
 | 120 |  70 |  4,000 | Power Axe | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Olodrin is Short Sword (3K) / Leather Vest (3K).
 ## Encountering Olodrin
 
 This is the dialogue you see when you first go to the training center at level 4:
@@ -93,6 +96,3 @@ Upon defeating Olodrin, you receive the following message:
 > YOU ARE NOW LEVEL 5.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Olodrin is Short Sword (3K) / Leather Vest (3K).

@@ -23,6 +23,9 @@ Halder is the [level one](/lord/levels/level1/) master. His weapon is the Short 
 | 30 |  15 |    100 | Short Sword | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Halder is Stick (200) / Heavy Coat (1K).
 ## Encountering Halder
 
 This is the dialogue you see when you first go to the training center at level 1:
@@ -89,6 +92,3 @@ Upon defeating Halder, you receive the following message:
 > YOU ARE NOW LEVEL 2.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Halder is Stick (200) / Heavy Coat (1K).

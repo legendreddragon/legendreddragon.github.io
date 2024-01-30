@@ -23,6 +23,9 @@ Sandtiger is the [level five](/lord/levels/level5/) master. His weapon is the Bl
 | 200 | 100 | 10,000 | Blessed Sword | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Sandtiger is Huge Axe (30K) / Iron Armour (30K).
 ## Encountering Sandtiger
 
 This is the dialogue you see when you first go to the training center at level 5:
@@ -91,6 +94,3 @@ Upon defeating Sandtiger, you receive the following message:
 > YOU ARE NOW LEVEL 6. 
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Sandtiger is Huge Axe (30K) / Iron Armour (30K).

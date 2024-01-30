@@ -23,6 +23,11 @@ Gandalf is the [level ten](/lord/levels/level10/) master. His weapon is the Huge
 | 1,800 | 800 | 4,000,000 | Huge Fireballs | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Gandalf is Able's Sword (400K) / Able's Armour (400K).
+
+Jennie HOTT or a fairy is often used on Gandalf due to the difficulty in beating him.
 ## Encountering Gandalf
 
 This is the dialogue you see when you first go to the training center at level 10:
@@ -82,8 +87,3 @@ Upon defeating Gandalf, you receive the following message:
 > YOU ARE NOW LEVEL 11.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Gandalf is Able's Sword (400K) / Able's Armour (400K).
-
-Jennie HOTT or a fairy is often used on Gandalf due to the difficulty in beating him.

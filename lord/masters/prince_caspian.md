@@ -23,6 +23,9 @@ Prince Caspian is the [level nine](/lord/levels/level9/) master. His weapon is t
 | 1,200 | 500 | 1,000,000 | Flashing Rapier | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Prince Caspian is Power Axe (200K) / Armour of Death (200K).
 ## Encountering Prince Caspian
 
 This is the dialogue you see when you first go to the training center at level 9:
@@ -80,6 +83,3 @@ Upon defeating Prince Caspian, you receive the following message:
 > YOU ARE NOW LEVEL 10.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Prince Caspian is Power Axe (200K) / Armour of Death (200K).

@@ -23,6 +23,9 @@ Sparhawk is the [level six](/lord/levels/level6/) master. His weapon is the Doub
 | 400 | 150 | 40,000 | Double-Bladed Sword | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Sparhawk is Huge Axe (30K) / Iron Armour (30K).
 ## Encountering Sparhawk
 
 This is the dialogue you see when you first go to the training center at level 6:
@@ -82,6 +85,3 @@ Upon defeating Sparhawk, you receive the following message:
 > YOU ARE NOW LEVEL 7. 
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Sparhawk is Huge Axe (30K) / Iron Armour (30K).

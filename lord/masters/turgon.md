@@ -23,6 +23,11 @@ Turgon is the [level eleven](/lord/levels/level11/) master. His weapon is the Ab
 | 2,500 | 1,200 | 10,000,000 | Able's Sword | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Turgon is Able's Sword (400K) / Able's Armour (400K).
+
+However, players often fail to defeat him with Wan's Weapon and Full Body Armor. Jennie HOTT or a fairy is often used on Turgon due to the difficulty in beating him.
 ## Encountering Turgon
 
 This is the dialogue you see when you first go to the training center at level 11:
@@ -100,8 +105,3 @@ If you return to the training center on level 12, you'll see this message:
 > Lesser warriors bow low as you pass. Turgon's last words advise you to find and kill the Red Dragon..
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Turgon is Able's Sword (400K) / Able's Armour (400K).
-
-However, players often fail to defeat him with Wan's Weapon and Full Body Armor. Jennie HOTT or a fairy is often used on Turgon due to the difficulty in beating him.

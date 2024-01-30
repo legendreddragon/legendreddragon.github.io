@@ -23,6 +23,9 @@ Aragorn is the [level three](/lord/levels/level3/) master. His weapon is the Twi
 | 70 |  35 |  1,000 | Twin Swords | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Aragorn is Stick (200) / Leather Vest (3K).
 ## Encountering Aragorn
 
 This is the dialogue you see when you first go to the training center at level 3:
@@ -91,6 +94,3 @@ Upon defeating Aragorn, you receive the following message:
 > YOU ARE NOW LEVEL 4.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Aragorn is Stick (200) / Leather Vest (3K).

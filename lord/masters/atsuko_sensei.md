@@ -23,6 +23,11 @@ Atsuko Sensei is the [level seven](/lord/levels/level7/) master. Her weapon is t
 | 600 | 250 | 100,000 | Huge Curved Blade | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Atsuko Sensei is Power Axe (200K) / Iron Armour (30K).
+
+It has been accomplished with the Twin Swords/Bronze Armour, and people have failed with the Power Axe/Armour of Death and Jennie HOTT. Atsuko isn't called Atsucko for nothing. She's vicious on some days.
 ## Encountering Atsuko Sensei
 
 This is the dialogue you see when you first go to the training center at level 7:
@@ -80,8 +85,3 @@ Upon defeating Atsuko Sensei, you receive the following message:
 > YOU ARE NOW LEVEL 8. 
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Atsuko Sensei is Power Axe (200K) / Iron Armour (30K).
-
-It has been accomplished with the Twin Swords/Bronze Armour, and people have failed with the Power Axe/Armour of Death and Jennie HOTT. Atsuko isn't called Atsucko for nothing. She's vicious on some days.

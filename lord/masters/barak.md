@@ -23,6 +23,9 @@ Barak is the [level two](/lord/levels/level2/) master. His weapon is the Battle 
 | 40 |  17 |    400 | Battle Axe | 
 {: .masterstats }
   
+## Strategy
+
+The minimum generally accepted Weapon / Armour that is needed to defeat Barak is Stick (200) / Leather Vest (3K).
 ## Encountering Barak
 
 This is the dialogue you see when you first go to the training center at level 2:
@@ -93,6 +96,3 @@ Upon defeating Barak, you receive the following message:
 > YOU ARE NOW LEVEL 3.
 {: .game-citation }
 
-## Strategy
-
-The minimum generally accepted Weapon / Armour that is needed to defeat Barak is Stick (200) / Leather Vest (3K).
