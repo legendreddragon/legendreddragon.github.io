@@ -77,7 +77,7 @@ Chances of defeating Halder with 0 Gems.
 | 10K/10K    |     100.00 |         100.00 |
 {: .sortable .masterodds }
   
-<span class="table-footer">H = Hott</span>
+<span class="table-footer"></span>
 
 ### Defeat Message
 
